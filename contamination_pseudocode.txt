@@ -1,5 +1,5 @@
 Goal: Web-hosted map visualization of all domestic drinking water sites contaminated with lead since 2000.
-  or all lead contamination with different GIS layers for drinking water, superfund.
+  *or all lead contamination with different GIS layers for drinking water, superfund.*
 
 Source:
   Water quality data: https://www.waterqualitydata.us/portal/
@@ -9,3 +9,10 @@ Parameters:
   Temporal: 2000 - current
   Contaminant: Lead, Lead-210, Lead-211, Lead-212, Lead-214
   EPA Methods: ????
+
+Phases:
+  1.) Research Methods and identify proper data w/documentation and full apprehension of meaning
+  2.) Collect all data through NWQMC portal using Python and save copy of files
+  3.) Manipulate data in accordance with parameters using Python and output to unified JSON file
+  4.) Map contamination points using GIS interface [carto, etc.] and publish
+  
