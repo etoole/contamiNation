@@ -1,0 +1,11 @@
+Goal: Web-hosted map visualization of all domestic drinking water sites contaminated with lead since 2000.
+  or all lead contamination with different GIS layers for drinking water, superfund.
+
+Source:
+  Water quality data: https://www.waterqualitydata.us/portal/
+
+Parameters:
+  Geographic: All 50 States. Residential sites.
+  Temporal: 2000 - current
+  Contaminant: Lead, Lead-210, Lead-211, Lead-212, Lead-214
+  EPA Methods: ????
