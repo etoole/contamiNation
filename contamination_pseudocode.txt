@@ -10,9 +10,21 @@ Parameters:
   Contaminant: Lead, Lead-210, Lead-211, Lead-212, Lead-214
   EPA Methods: ????
 
+Variable Names:
+  test_narrow_result.csv: [12]
+  OrganizationFormalName, ActivityStartDate, MonitoringLocationIdentifier,
+  ResultIdentifier(?), ResultDetectionConditionText(if "", grab ResultMeasureValue),
+  CharacteristicName, ResultSampleFractionText, ResultMeasureValue, ResultMeasure/MeasureUnitCode,
+  ResultAnalyticalMethod/MethodIdentifier, LaboratoryName, ProviderName(?)
+
+  station.csv: [10]
+  MonitoringLocationIdentifier, MonitoringLocationName, MonitoringLocationTypeName,
+  MonitoringLocationDescriptionText(?), HUCEightDigitCode(bad data - 7 digits provided),
+  LatitudeMeasure, LongitudeMeasure, HorizontalCoordinateReferenceSystemDatumName,
+  StateCode, CountyCode
+
 Phases:
   1.) Research Methods and identify proper data w/documentation and full apprehension of meaning
   2.) Collect all data through NWQMC portal using Python and save copy of files
   3.) Manipulate data in accordance with parameters using Python and output to unified JSON file
   4.) Map contamination points using GIS interface [carto, etc.] and publish
-  
