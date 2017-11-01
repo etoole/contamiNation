@@ -20,8 +20,8 @@ flag = True
 
 with open('test_chem_result.csv') as chem_data:
     chem_data = csv.DictReader(chem_data)
-    for dictionary in chem_data:
-        if flag == True:
+    if flag == True:
+        for dictionary in chem_data:
             chem_full_dict = {k:v for k,v in dictionary.items() if v != ''}
             for keys in chem_full_dict:
                 chem_var_list.append(keys)
@@ -32,8 +32,8 @@ flag = True
 
 with open('test_bio_result.csv') as narrow_data:
     narrow_data = csv.DictReader(narrow_data)
-    for dictionary in narrow_data:
-        if flag == True:
+    if flag == True:
+        for dictionary in narrow_data:
             narrow_full_dict = {k:v for k,v in dictionary.items() if v != ''}
             for keys in narrow_full_dict:
                 narrow_var_list.append(keys)
