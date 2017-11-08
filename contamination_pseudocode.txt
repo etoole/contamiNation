@@ -1,27 +1,20 @@
 Goal: Web-hosted map visualization of all domestic drinking water sites contaminated with lead since 2000.
   *or all lead contamination with different GIS layers for drinking water, superfund.*
 
-Source:
-  Water quality data: https://www.waterqualitydata.us/portal/
+Source: https://ofmpub.epa.gov/apex/sfdw/f?p=108:1:::NO:::
+  Record of Violation: Water System Summary
+  Site Location Data: Water System Detail
+  Lead Sample Results: Lead Samples
+  Allowable Limit Exceeded Results: Lead ALE Samples
 
 Parameters:
   Geographic: All 50 States. Residential sites.
-  Temporal: 2000 - current
-  Contaminant: Lead, Lead-210, Lead-211, Lead-212, Lead-214
+  Temporal: Unresolved contamination
+  Contaminant: Lead & Copper
   EPA Methods: ????
 
 Variable Names:
-  test_narrow_result.csv: [12]
-  OrganizationFormalName, ActivityStartDate, MonitoringLocationIdentifier,
-  ResultIdentifier(?), ResultDetectionConditionText(if "", grab ResultMeasureValue),
-  CharacteristicName, ResultSampleFractionText, ResultMeasureValue, ResultMeasure/MeasureUnitCode,
-  ResultAnalyticalMethod/MethodIdentifier, LaboratoryName, ProviderName(?)
-
-  station.csv: [10]
-  MonitoringLocationIdentifier, MonitoringLocationName, MonitoringLocationTypeName,
-  MonitoringLocationDescriptionText(?), HUCEightDigitCode(bad data - 7 digits provided),
-  LatitudeMeasure, LongitudeMeasure, HorizontalCoordinateReferenceSystemDatumName,
-  StateCode, CountyCode
+  
 
 Phases:
   1.) Research Methods and identify proper data w/documentation and full apprehension of meaning
