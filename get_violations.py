@@ -42,6 +42,4 @@ with open('all_national_violations_detail_2017Q3.csv', encoding="latin-1") as al
 
             all_detail_dict.append(detail_dict)
 
-print(all_detail_dict)
-print(len(all_detail_dict))
 json.dump(all_detail_dict, open('detail_violations.json','w'), indent=4)
