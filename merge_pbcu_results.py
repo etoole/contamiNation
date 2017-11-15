@@ -8,7 +8,7 @@ def csv_to_dict(x):
         pws_id = dictionary['PWS ID']
         result = dictionary['Sample Measure (mg/L)']
         contaminant = dictionary['Contaminant Name']
-        start_date = dictionary['Sampling End Date']
+        end_date = dictionary['Sampling End Date']
         service_connections = dictionary['Service Connections Count']
 
         result = float(result) * 1000
@@ -21,7 +21,7 @@ def csv_to_dict(x):
         'PWS ID' : pws_id,
         'Result' : result,
         'Contaminant' : contaminant,
-        'Start Date' : start_date,
+        'End Date' : end_date,
         'Service Connections' : service_connections,
         }
         all_pbcu.append(pbcu)

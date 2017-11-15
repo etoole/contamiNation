@@ -4,7 +4,7 @@ import operator
 detail_results = []
 
 
-with open('detail_violations.json') as detail_violations:
+with open('detail_violations_deduped.json') as detail_violations:
     with open('pbcu_results.json') as pbcu_results:
         detail_violations = json.load(detail_violations)
         pbcu_results = json.load(pbcu_results)
@@ -23,7 +23,7 @@ with open('detail_violations.json') as detail_violations:
                     detail.update({'Result no.{0}'.format(counter) : {
                     "Contaminant": result['Contaminant'],
                     "Concentration": result['Result'],
-                    "Start Date": result['Start Date'],
+                    "End Date": result['End Date'],
                     "Service Connections": result['Service Connections']
                     }})
 
@@ -31,8 +31,7 @@ with open('detail_violations.json') as detail_violations:
 
 
             detail_results.append(detail)
-            print(detail)
+
 
 print(len(detail_results))
 json.dump(detail_results, open('detail_results.json', 'w'), indent=4)
-# dict.update({'key': val})
