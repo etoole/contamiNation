@@ -1,6 +1,10 @@
 Goal: Web-hosted map visualization of all domestic drinking water sites contaminated with lead since 2000.
   *or all lead contamination with different GIS layers for drinking water, superfund.*
 
+Google Geocoding API:
+API Key: AIzaSyBP6VoR_uoD43Pcl24TYrJx3m4j6sa8X3U
+Key Name: Geocoding API Key
+
 Source: https://ofmpub.epa.gov/apex/sfdw/f?p=108:1:::NO:::
   Record of Violation: Water System Summary
   Site Location Data: Water System Detail
@@ -14,7 +18,7 @@ Parameters:
   EPA Methods: ????
 
 Variable Names:
-  
+
 
 Phases:
   1.) Research Methods and identify proper data w/documentation and full apprehension of meaning

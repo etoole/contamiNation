@@ -1,6 +1,8 @@
-import requests, json
+import requests, json, re
 
+geojson_list = []
 geocode_list = []
+zip_pattern = re.compile('[0-9]{5}(?!.)')
 
 GOOGLE_MAPS_API_URL = 'https://maps.googleapis.com/maps/api/geocode/json'
 api_key = 'AIzaSyDrawt5ZWXPR7eg0ihu3t6p9A_Yrm1ss0E'
@@ -21,10 +23,84 @@ with open('test_results.json') as results:
 
         req = requests.get(GOOGLE_MAPS_API_URL, params=params)
         res = req.json()
-        geocode_list.append(res)
 
-print(geocode_list)
-json.dump(geocode_list, open('test_geocode_results.json', 'w'), indent=4)
+        if res['status'] !='ZERO_RESULTS':
+
+            address_components = res['results'][0]['address_components']
+            for components in address_components:
+                m = re.match(zip_pattern, components['long_name'])
+
+                if m:
+                    google_maps_zip_code = m.group()
+                    google_maps_zip_short = re.match('[0-9]{3}', google_maps_zip_code)
+
+            latitude = res['results'][0]['geometry']['location']['lat']
+            longitude = res['results'][0]['geometry']['location']['lng']
+            coordinates = [latitude, longitude]
+
+            epa_zip_short = re.match('[0-9]{3}', result['Zip Code'])
+            if epa_zip_short.group() == google_maps_zip_short.group():
+                    #write geojson with google maps data and pwsid at end
+
+                geojson = {
+                      "type": "Feature",
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": coordinates
+                      },
+                      "properties": {
+                        "name": result['PWS Name'],
+                        "pwsid": result['PWS ID']
+                      }
+                    }
+                geojson_list.append(geojson)
+
+            else:
+                    #write geojson with epa zipcode. make googlemaps request for longlat and use epa name & pwsid
+                zipcode_marker = {'address' : result['Zip Code'],
+                'key': api_key
+                }
+
+                zip_req = requests.get(GOOGLE_MAPS_API_URL, params=zipcode_marker)
+                zip_res = req.json()
+                zip_latitude = zip_res['results'][0]['geometry']['location']['lat']
+                zip_longitude = zip_res['results'][0]['geometry']['location']['lng']
+                zip_coordinates = [zip_latitude, zip_longitude]
+
+                geojson = {
+                      "type": "Feature",
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": zip_coordinates
+                      },
+                      "properties": {
+                        "name": result['PWS Name'],
+                        "pwsid": result['PWS ID']
+                      }
+                    }
+                geojson_list.append(geojson)
+
+json.dump(geojson_list, open('markers.json','w'), indent=4)
+
+
+
+
+#             components['long_name']
+#             if zip_pattern in long_name:
+#                 print(long_name)
+#
+# for element in name:
+#      m = re.match("(^[A-Z]\d[A-Z]\d)", element)
+#      if m:
+#         print(m.groups())
+
+
+
+
+#         geocode_list.append(res)
+#
+# print(geocode_list)
+# json.dump(geocode_list, open('test_geocode_results.json', 'w'), indent=4)
 
 
 

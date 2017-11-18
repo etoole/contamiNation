@@ -1,5 +1,7 @@
 import json
 import operator
+import time
+import datetime
 
 detail_results = []
 
@@ -11,6 +13,15 @@ with open('detail_violations_deduped.json') as detail_violations:
 
         detail_violations.sort(key=operator.itemgetter('PWS ID'))
         pbcu_results.sort(key=operator.itemgetter('PWS ID'))
+
+        for result in pbcu_results:
+            end_date = result['End Date']
+            dt = datetime.datetime.strptime(end_date, '%m/%d/%Y')
+            ts = time.mktime(dt.timetuple())
+            result.update({'End Date': ts})
+
+        pbcu_results.sort(key=operator.itemgetter('End Date'), reverse=True)
+
 
         for detail in detail_violations:
             detail_id = detail['PWS ID']
