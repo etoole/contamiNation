@@ -2,6 +2,8 @@ import re, os, json, datetime, time
 
 result_key_list = []
 concentration_list = []
+lead_concentration_list = []
+copper_concentration_list = []
 
 day = re.compile('(?<=on\s)\w+')
 month = re.compile('(?<=\d-)[A-Z]{3}')
@@ -28,6 +30,13 @@ with open(os.path.join('detail_results.json')) as results:
     results = json.load(results)
 
     for result in results:
+
+        end_date = []
+        result['Marker Color'] = 'Yellow'
+        concentration_list = []
+        result_key_list = []
+        lead_concentration_list = []
+        copper_concentration_list = []
 
         if 'Returned' in result['Compliance Status']:
             status = result['Compliance Status']
@@ -62,19 +71,55 @@ with open(os.path.join('detail_results.json')) as results:
                     concentration = int(concentration[0])
                     concentration_list.append(concentration)
 
+                concentration_list = sorted(concentration_list)
+
+                if len(concentration_list) > 0:
+                    # print(concentration_list[-1])
+                    if concentration_list[-1] > 0:
+                        result['Compliance Status'] = 'Not Compliant'
 
 
-            concentration_list = sorted(concentration_list)
-            detection = False
-            # print(result['Compliance Status'])
-            #if highest result of all post-return-to-compliance data results is not zero, change compliance status to 'Not Compliant'
-            if len(concentration_list) > 0:
-                # print(concentration_list[-1])
-                if concentration_list[-1] > 0:
-                    result['Compliance Status'] = 'Not Compliant'
+                contaminant = result[result_key]['Contaminant']
+                if contaminant == 'LEAD':
+                    lead_concentration = result[result_key]['Concentration']
+                    lead_concentration = concentration_digit.findall(lead_concentration)
+                    lead_concentration = int(lead_concentration[0])
+                    lead_concentration_list.append(lead_concentration)
+
+                lead_concentration_list = sorted(lead_concentration_list)
+
+                if contaminant == 'COPPER':
+                    copper_concentration = result[result_key]['Concentration']
+                    copper_concentration = concentration_digit.findall(copper_concentration)
+                    copper_concentration = int(copper_concentration[0])
+                    copper_concentration_list.append(copper_concentration)
+
+                copper_concentration_list = sorted(copper_concentration_list)
 
 
-            # print(result['Compliance Status'] + '\n')
+                if len(lead_concentration_list) > 0:
+                    if lead_concentration_list == 0:
+                        if len(copper_concentration_list) > 0:
+                            if 0 > copper_concentration_list > 1300:
+                                result['Marker Color'] = 'Yellow'
+                            elif copper_concentration_list[-1] > 1300:
+                                    result['Marker Color'] = 'Red'
+
+                    elif 0 < lead_concentration_list[-1] < 15:
+                        result['Marker Color'] = 'Yellow'
+                        if len(copper_concentration_list) > 0:
+                            if copper_concentration_list[-1] > 1300:
+                                result['Marker Color'] = 'Red'
+
+                    elif lead_concentration_list[-1] > 15:
+                        result['Marker Color'] = 'Red'
+
+                if len(copper_concentration_list) > 0:
+                    if 0 > copper_concentration_list[-1] >1300:
+                        result['Marker Color'] = 'Yellow'
+                    elif copper_concentration_list[-1] > 1300:
+                        result['Marker Color'] = 'Red'
+
 
             for result_key in result_key_list:
                 end_date = result[result_key]['End Date']
@@ -85,10 +130,45 @@ with open(os.path.join('detail_results.json')) as results:
                 rtc = datetime.date.fromtimestamp(rtc)
                 result['Compliance Status'] = 'Returned to Compliance on {0}'.format(rtc.strftime("%m/%d/%y"))
 
-            print(result)
 
-            concentration_list = []
-            result_key_list = []
+        elif 'Not' in result['Compliance Status']:
+
+            for key in result:
+                if 'Result' in key:
+                    result_key_list.append(key)
+
+            for result_key in result_key_list:
+                end_date = result[result_key]['End Date']
+                end_date = datetime.date.fromtimestamp(end_date)
+                result[result_key]['End Date'] = end_date.strftime("%m/%d/%y")
+
+
+                contaminant = result[result_key]['Contaminant']
+                if contaminant == 'LEAD':
+                    lead_concentration = result[result_key]['Concentration']
+                    lead_concentration = concentration_digit.findall(lead_concentration)
+                    lead_concentration = int(lead_concentration[0])
+                    lead_concentration_list.append(lead_concentration)
+
+                lead_concentration_list = sorted(lead_concentration_list)
+
+                if contaminant == 'COPPER':
+                    copper_concentration = result[result_key]['Concentration']
+                    copper_concentration = concentration_digit.findall(copper_concentration)
+                    copper_concentration = int(copper_concentration[0])
+                    copper_concentration_list.append(copper_concentration)
+
+                copper_concentration_list = sorted(copper_concentration_list)
+
+                if len(lead_concentration_list) > 0:
+                    if lead_concentration_list[-1] > 15:
+                        result['Marker Color'] = 'Red'
+
+                if len(copper_concentration_list) > 0:
+                    if copper_concentration_list[-1] > 1300:
+                        result['Marker Color'] = 'Red'
+
+
 
 
 json.dump(results, open('detail_results_comp_updated.json', 'w'), indent=4)
