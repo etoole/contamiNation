@@ -1,0 +1,14 @@
+{
+    "PWS ID": "FL4131001",
+    "PWS Name": "OPA LOCKA, CITY OF",
+    "City": "OPA LOCKA",
+    "State": "Florida",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "4456",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "06/01/17",
+        "Service Connections": "4456"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "PWS ID": "WI7440128",
+    "PWS Name": "PELICAN RANCH COURT",
+    "City": "Rhinelander",
+    "State": "Wisconsin",
+    "Compliance Status": "Returned to Compliance on 08/19/16",
+    "Service Connections": "14",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "14"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "14"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "14"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OK8005556",
+    "PWS Name": "LEISURE TIME RV",
+    "City": "OKLAHOMA CITY",
+    "State": "Oklahoma",
+    "Compliance Status": "Returned to Compliance on 05/07/12",
+    "Service Connections": "15",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "15"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "15"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "15"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "15"
+    }
+}

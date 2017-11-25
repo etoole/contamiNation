@@ -1,0 +1,32 @@
+{
+    "PWS ID": "CA2410001",
+    "PWS Name": "CITY OF ATWATER",
+    "City": "ATWATER",
+    "State": "California",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "6688",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "6688"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "6688"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "6688"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "6688"
+    }
+}

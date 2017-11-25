@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NC4051008",
+    "PWS Name": "MICRO, TOWN OF (COUNTY LINE)",
+    "City": "MICRO",
+    "State": "North Carolina",
+    "Compliance Status": "Returned to Compliance on 07/07/17",
+    "Service Connections": "16",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "16"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "16"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "16"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "16"
+    }
+}

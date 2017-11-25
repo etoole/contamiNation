@@ -1,0 +1,32 @@
+{
+    "PWS ID": "ME0091055",
+    "PWS Name": "NARRAGUAGUS ESTATES",
+    "City": "CHERRYFIELD",
+    "State": "Maine",
+    "Compliance Status": "Returned to Compliance on 08/20/12",
+    "Service Connections": "39",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "39"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "39"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "39"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "39"
+    }
+}

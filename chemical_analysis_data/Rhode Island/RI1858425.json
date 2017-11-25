@@ -1,0 +1,32 @@
+{
+    "PWS ID": "RI1858425",
+    "PWS Name": "WILBUR AND MCMAHON SCHOOL",
+    "City": "LITTLE COMPTON",
+    "State": "Rhode Island",
+    "Compliance Status": "Returned to Compliance on 03/10/16",
+    "Service Connections": "6",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "55 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "6"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "55 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "6"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "55 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "6"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "55 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "6"
+    }
+}

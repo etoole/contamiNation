@@ -1,0 +1,92 @@
+{
+    "PWS ID": "OH2873912",
+    "PWS Name": "INT CULINARY ARTS &SCIENCES INST (ICASI)",
+    "City": "CHESTERLAND",
+    "State": "Ohio",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "4245 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "COPPER",
+        "Concentration": "3795 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.4": {
+        "Contaminant": "COPPER",
+        "Concentration": "3795 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.5": {
+        "Contaminant": "COPPER",
+        "Concentration": "3795 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.7": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.8": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.9": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.10": {
+        "Contaminant": "COPPER",
+        "Concentration": "1570 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    },
+    "Result no.11": {
+        "Contaminant": "COPPER",
+        "Concentration": "1570 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    },
+    "Result no.12": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    },
+    "Result no.13": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    },
+    "Result no.14": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    }
+}

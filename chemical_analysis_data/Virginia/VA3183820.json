@@ -1,0 +1,50 @@
+{
+    "PWS ID": "VA3183820",
+    "PWS Name": "BIRCH ISLAND APARTMENTS",
+    "City": "WAVERLY",
+    "State": "Virginia",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "64",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "64"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "64"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "64"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "64"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "64"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "64"
+    },
+    "Result no.7": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "64"
+    }
+}

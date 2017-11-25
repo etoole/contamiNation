@@ -1,0 +1,32 @@
+{
+    "PWS ID": "CA3610048",
+    "PWS Name": "TERRACE WATER COMPANY",
+    "City": "COLTON",
+    "State": "California",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "592",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "592"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "592"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "592"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "592"
+    }
+}

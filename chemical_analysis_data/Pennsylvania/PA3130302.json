@@ -1,0 +1,26 @@
+{
+    "PWS ID": "PA3130302",
+    "PWS Name": "MOUNT LAUREL RESORT AND SPA",
+    "City": "WHITE HAVEN",
+    "State": "Pennsylvania",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "2430 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1531 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "COPPER",
+        "Concentration": "1531 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1"
+    }
+}

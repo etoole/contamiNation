@@ -1,0 +1,32 @@
+{
+    "PWS ID": "KS2019112",
+    "PWS Name": "PRAIRIE SCHOONER MOBILE HOME COURT",
+    "City": "MULVANE",
+    "State": "Kansas",
+    "Compliance Status": "Returned to Compliance on 02/14/94",
+    "Service Connections": "20",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "20"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "20"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "20"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "20"
+    }
+}

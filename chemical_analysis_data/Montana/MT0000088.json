@@ -1,0 +1,26 @@
+{
+    "PWS ID": "MT0000088",
+    "PWS Name": "PLEASANT HILL ESTATES HOA",
+    "City": "KALISPELL",
+    "State": "Montana",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "34",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "34"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "36"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "36"
+    }
+}

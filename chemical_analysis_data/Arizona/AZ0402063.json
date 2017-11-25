@@ -1,0 +1,14 @@
+{
+    "PWS ID": "AZ0402063",
+    "PWS Name": "COCHISE JR COLLEGE",
+    "City": "SIERRA VISTA",
+    "State": "Arizona",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "28",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "28"
+    }
+}

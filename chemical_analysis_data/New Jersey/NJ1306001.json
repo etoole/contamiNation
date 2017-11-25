@@ -1,0 +1,26 @@
+{
+    "PWS ID": "NJ1306001",
+    "PWS Name": "BELMAR WATER DEPT",
+    "City": "EAST WINDSOR TOWNSHIP",
+    "State": "New Jersey",
+    "Compliance Status": "Returned to Compliance on 08/28/08",
+    "Service Connections": "3253",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3253"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3253"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3253"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "MA1329000",
+    "PWS Name": "WESTFIELD WATER DEPT",
+    "City": "WESTFIELD",
+    "State": "Massachusetts",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "11446",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "11446"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "11438"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "11438"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "11438"
+    }
+}

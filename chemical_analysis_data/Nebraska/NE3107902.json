@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NE3107902",
+    "PWS Name": "GRAND ISLAND, CITY OF",
+    "City": "GRAND ISLAND",
+    "State": "Nebraska",
+    "Compliance Status": "Returned to Compliance on 06/18/03",
+    "Service Connections": "14282",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "14282"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "14282"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "14282"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "14282"
+    }
+}

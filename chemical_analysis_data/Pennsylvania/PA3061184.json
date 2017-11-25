@@ -1,0 +1,20 @@
+{
+    "PWS ID": "PA3061184",
+    "PWS Name": "MOUNTAIN VIEW APARTMENTS",
+    "City": "DELAND",
+    "State": "Pennsylvania",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "34",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1585 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "34"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1585 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "34"
+    }
+}

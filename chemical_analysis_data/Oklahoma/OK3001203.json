@@ -1,0 +1,14 @@
+{
+    "PWS ID": "OK3001203",
+    "PWS Name": "CHOCTAW CO. RWD #2",
+    "City": "SWINK",
+    "State": "Oklahoma",
+    "Compliance Status": "Returned to Compliance on 08/20/03",
+    "Service Connections": "144",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "144"
+    }
+}

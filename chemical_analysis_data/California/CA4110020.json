@@ -1,0 +1,32 @@
+{
+    "PWS ID": "CA4110020",
+    "PWS Name": "PALO ALTO PARK MUTUAL WATER COMPANY",
+    "City": "PALO ALTO",
+    "State": "California",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "692",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "692"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "692"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "692"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "692"
+    }
+}

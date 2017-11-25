@@ -1,0 +1,32 @@
+{
+    "PWS ID": "MI0040090",
+    "PWS Name": "TWIN PINES MOBILE HOME PARK",
+    "City": "BIRMINGHAM",
+    "State": "Michigan",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "73",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "16 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "73"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "16 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "73"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "16 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "73"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "16 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "73"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "PWS ID": "TX1260037",
+    "PWS Name": "TEX RIDES SUBDIVISION",
+    "City": "PFLUGERVILLE",
+    "State": "Texas",
+    "Compliance Status": "Returned to Compliance on 07/28/16",
+    "Service Connections": "16",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "16"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "16"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "16"
+    }
+}

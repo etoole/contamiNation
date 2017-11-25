@@ -1,0 +1,32 @@
+{
+    "PWS ID": "KY0520192",
+    "PWS Name": "HENRY COUNTY WATER DISTRICT #2",
+    "City": "CAMPBELLSBURG",
+    "State": "Kentucky",
+    "Compliance Status": "Returned to Compliance on 04/21/05",
+    "Service Connections": "5965",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "5965"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "5965"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "5965"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "5965"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "PWS ID": "PA7381014",
+    "PWS Name": "YELLOW BREECHES SCHOOL",
+    "City": "ANNVILLE",
+    "State": "Pennsylvania",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "2021 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "2021 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1879 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1879 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "1879 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "1"
+    }
+}

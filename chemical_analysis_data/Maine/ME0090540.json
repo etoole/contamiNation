@@ -1,0 +1,32 @@
+{
+    "PWS ID": "ME0090540",
+    "PWS Name": "FARMINGTON VILLAGE CORP WATER DEPT",
+    "City": "FARMINGTON",
+    "State": "Maine",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1620",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "14 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1620"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "14 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1620"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "14 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1620"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "14 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1620"
+    }
+}

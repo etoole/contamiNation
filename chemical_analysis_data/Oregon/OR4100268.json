@@ -1,0 +1,14 @@
+{
+    "PWS ID": "OR4100268",
+    "PWS Name": "PARADISE/ROGUE MEADOWS WS",
+    "City": "CLACKAMAS",
+    "State": "Oregon",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "88",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/19",
+        "Service Connections": "88"
+    }
+}

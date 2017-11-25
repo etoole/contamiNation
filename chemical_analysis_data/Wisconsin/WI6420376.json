@@ -1,0 +1,26 @@
+{
+    "PWS ID": "WI6420376",
+    "PWS Name": "CATARACT ELEMENTARY SCHOOL",
+    "City": "Sparta",
+    "State": "Wisconsin",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1"
+    }
+}

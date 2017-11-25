@@ -1,0 +1,26 @@
+{
+    "PWS ID": "IA3070473",
+    "PWS Name": "OKOBOJI CAMP OWNERS COOPERATIVE",
+    "City": "SIBLEY",
+    "State": "Iowa",
+    "Compliance Status": "Returned to Compliance on 04/19/94",
+    "Service Connections": "152",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "152"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "152"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "152"
+    }
+}

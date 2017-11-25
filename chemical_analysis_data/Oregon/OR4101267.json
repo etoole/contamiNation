@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OR4101267",
+    "PWS Name": "CITY BIBLE CHURCH",
+    "City": "PORTLAND",
+    "State": "Oregon",
+    "Compliance Status": "Returned to Compliance on 08/19/14",
+    "Service Connections": "17",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "17"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "17"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "17"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "17"
+    }
+}

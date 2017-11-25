@@ -1,0 +1,32 @@
+{
+    "PWS ID": "GA2550006",
+    "PWS Name": "SOUTH HAMPTON MOBILE HOME PARK",
+    "City": "FARMINGTON HILLS",
+    "State": "Georgia",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "181",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "181"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "181"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "181"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "181"
+    }
+}

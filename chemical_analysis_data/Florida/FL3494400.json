@@ -1,0 +1,26 @@
+{
+    "PWS ID": "FL3494400",
+    "PWS Name": "HAMMOCK POINTE UTILITY ASSOCIATION INC",
+    "City": "ORLANDO",
+    "State": "Florida",
+    "Compliance Status": "Returned to Compliance on 12/31/96",
+    "Service Connections": "147",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "147"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "147"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "147"
+    }
+}

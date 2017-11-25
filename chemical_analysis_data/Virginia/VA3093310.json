@@ -1,0 +1,44 @@
+{
+    "PWS ID": "VA3093310",
+    "PWS Name": "ISLE OF WIGHT COURTHOUSE",
+    "City": "ISLE OF WIGHT",
+    "State": "Virginia",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "10",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "10"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "6"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "6"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "6"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "10"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "6"
+    }
+}

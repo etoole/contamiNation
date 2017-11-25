@@ -1,0 +1,32 @@
+{
+    "PWS ID": "SC4510002",
+    "PWS Name": "KINGSTREE TOWN OF (4510002)",
+    "City": "KINGSTREE",
+    "State": "South Carolina",
+    "Compliance Status": "Returned to Compliance on 07/10/94",
+    "Service Connections": "2898",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2898"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2665"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2898"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2898"
+    }
+}

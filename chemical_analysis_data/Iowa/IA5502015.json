@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IA5502015",
+    "PWS Name": "ALGONA MUNICIPAL UTILITIES",
+    "City": "ALGONA",
+    "State": "Iowa",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "2856",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2856"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2856"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2856"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2856"
+    }
+}

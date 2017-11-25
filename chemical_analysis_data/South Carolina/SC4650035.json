@@ -1,0 +1,50 @@
+{
+    "PWS ID": "SC4650035",
+    "PWS Name": "CWS CAROWOOD (4650035)",
+    "City": "WEST COLUMBIA",
+    "State": "South Carolina",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "77",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "19 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "77"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "2195 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "77"
+    },
+    "Result no.3": {
+        "Contaminant": "COPPER",
+        "Concentration": "2195 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "77"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "77"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "77"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "77"
+    },
+    "Result no.7": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "77"
+    }
+}

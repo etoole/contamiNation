@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IL0275250",
+    "PWS Name": "ST ROSE PWD",
+    "City": "ST ROSE",
+    "State": "Illinois",
+    "Compliance Status": "Returned to Compliance on 01/27/97",
+    "Service Connections": "640",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "640"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "640"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "640"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "640"
+    }
+}

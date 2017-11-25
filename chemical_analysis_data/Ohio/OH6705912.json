@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OH6705912",
+    "PWS Name": "JUST CRICKET CONDO ASSOCIATION",
+    "City": "KENT",
+    "State": "Ohio",
+    "Compliance Status": "Returned to Compliance on 06/22/94",
+    "Service Connections": "75",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "75"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "75"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "75"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "75"
+    }
+}

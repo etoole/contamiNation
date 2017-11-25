@@ -1,0 +1,32 @@
+{
+    "PWS ID": "MD1020123",
+    "PWS Name": "BRIGHTVIEW BUSINESS CENTER",
+    "City": "SEVERNA PARK",
+    "State": "Maryland",
+    "Compliance Status": "Returned to Compliance on 11/07/16",
+    "Service Connections": "2",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "-5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "-5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "-5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "-5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2"
+    }
+}

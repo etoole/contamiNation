@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NC0106105",
+    "PWS Name": "LINVILLE RESORTS INC",
+    "City": "LINVILLE",
+    "State": "North Carolina",
+    "Compliance Status": "Returned to Compliance on 01/01/10",
+    "Service Connections": "280",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "280"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "280"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "280"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "280"
+    }
+}

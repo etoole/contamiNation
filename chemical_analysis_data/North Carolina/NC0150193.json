@@ -1,0 +1,56 @@
+{
+    "PWS ID": "NC0150193",
+    "PWS Name": "TRILLIUM LINKS & VILLAGE",
+    "City": "ASHEVILLE",
+    "State": "North Carolina",
+    "Compliance Status": "Returned to Compliance on 06/15/17",
+    "Service Connections": "191",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "2330 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "191"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "2330 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "194"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "194"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "191"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "194"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "194"
+    },
+    "Result no.7": {
+        "Contaminant": "COPPER",
+        "Concentration": "1920 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "191"
+    },
+    "Result no.8": {
+        "Contaminant": "COPPER",
+        "Concentration": "1920 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "194"
+    }
+}

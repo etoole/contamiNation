@@ -1,0 +1,14 @@
+{
+    "PWS ID": "OK2002301",
+    "PWS Name": "GAGE",
+    "City": "GAGE",
+    "State": "Oklahoma",
+    "Compliance Status": "Returned to Compliance on 02/20/14",
+    "Service Connections": "240",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "240"
+    }
+}

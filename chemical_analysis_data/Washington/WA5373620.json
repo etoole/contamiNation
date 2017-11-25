@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WA5373620",
+    "PWS Name": "ROCKY BAY WATER SYSTEM",
+    "City": "Tacoma",
+    "State": "Washington",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "14",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "14"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "14"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "14"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "14"
+    }
+}

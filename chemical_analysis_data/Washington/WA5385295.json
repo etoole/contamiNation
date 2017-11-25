@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WA5385295",
+    "PWS Name": "KITTITAS COUNTY WATER DISTRICT #7",
+    "City": "Cle Elum",
+    "State": "Washington",
+    "Compliance Status": "Returned to Compliance on 12/31/16",
+    "Service Connections": "213",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "213"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "213"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "213"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "213"
+    }
+}

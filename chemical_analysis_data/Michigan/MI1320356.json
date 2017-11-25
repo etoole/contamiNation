@@ -1,0 +1,14 @@
+{
+    "PWS ID": "MI1320356",
+    "PWS Name": "BARKER MANUFACTURING",
+    "City": "BATTLE CREEK",
+    "State": "Michigan",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1450 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "1"
+    }
+}

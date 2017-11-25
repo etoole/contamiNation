@@ -1,0 +1,92 @@
+{
+    "PWS ID": "CO0110040",
+    "PWS Name": "ST MARYS GLACIER WSD",
+    "City": "FORT COLLINS",
+    "State": "Colorado",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "300",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1430 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "300"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "300"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "300"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "300"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "300"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "300"
+    },
+    "Result no.7": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "300"
+    },
+    "Result no.8": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "300"
+    },
+    "Result no.9": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "300"
+    },
+    "Result no.10": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "300"
+    },
+    "Result no.11": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "300"
+    },
+    "Result no.12": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "300"
+    },
+    "Result no.13": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "300"
+    },
+    "Result no.14": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "300"
+    }
+}

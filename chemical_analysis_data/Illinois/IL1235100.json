@@ -1,0 +1,26 @@
+{
+    "PWS ID": "IL1235100",
+    "PWS Name": "CAMP GROVE",
+    "City": "CAMP GROVE",
+    "State": "Illinois",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "52",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "52"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "52"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "52"
+    }
+}

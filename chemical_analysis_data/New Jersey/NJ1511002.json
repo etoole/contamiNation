@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NJ1511002",
+    "PWS Name": "JACKSON ESTATES MOBILE HOME PK",
+    "City": "JACKSON",
+    "State": "New Jersey",
+    "Compliance Status": "Returned to Compliance on 05/16/96",
+    "Service Connections": "234",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "234"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "234"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "234"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "234"
+    }
+}

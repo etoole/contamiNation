@@ -1,0 +1,26 @@
+{
+    "PWS ID": "KY0300467",
+    "PWS Name": "WHITESVILLE WATER WORKS",
+    "City": "WHITESVILLE",
+    "State": "Kentucky",
+    "Compliance Status": "Returned to Compliance on 04/08/10",
+    "Service Connections": "1365",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1365"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1365"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1365"
+    }
+}

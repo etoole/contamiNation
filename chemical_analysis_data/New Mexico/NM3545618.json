@@ -1,0 +1,50 @@
+{
+    "PWS ID": "NM3545618",
+    "PWS Name": "AGUA PURA MDWCA",
+    "City": "CHACON",
+    "State": "New Mexico",
+    "Compliance Status": "Returned to Compliance on 03/21/17",
+    "Service Connections": "123",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1400 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "123"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1400 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "123"
+    },
+    "Result no.3": {
+        "Contaminant": "COPPER",
+        "Concentration": "1400 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "123"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "123"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "123"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "123"
+    },
+    "Result no.7": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "123"
+    }
+}

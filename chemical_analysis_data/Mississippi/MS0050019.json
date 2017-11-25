@@ -1,0 +1,32 @@
+{
+    "PWS ID": "MS0050019",
+    "PWS Name": "TOWN OF POTTS CAMP #2",
+    "City": "POTTS CAMP",
+    "State": "Mississippi",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "160",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "160"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "205"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "160"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "160"
+    }
+}

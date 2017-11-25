@@ -1,0 +1,14 @@
+{
+    "PWS ID": "OK2001303",
+    "PWS Name": "BOISE CITY PWA",
+    "City": "BOISE CITY",
+    "State": "Oklahoma",
+    "Compliance Status": "Returned to Compliance on 08/04/16",
+    "Service Connections": "865",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "865"
+    }
+}

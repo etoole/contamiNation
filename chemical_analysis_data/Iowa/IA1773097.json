@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IA1773097",
+    "PWS Name": "ROCKWELL WATER SUPPLY",
+    "City": "ROCKWELL",
+    "State": "Iowa",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "370",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "370"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "370"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "370"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "370"
+    }
+}

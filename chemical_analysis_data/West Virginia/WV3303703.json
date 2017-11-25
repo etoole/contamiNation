@@ -1,0 +1,68 @@
+{
+    "PWS ID": "WV3303703",
+    "PWS Name": "ROUTE 16 WATER CORPORATION",
+    "City": "SAINT MARYS",
+    "State": "West Virginia",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "560",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "560"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "560"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "560"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "560"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "560"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "560"
+    },
+    "Result no.7": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "560"
+    },
+    "Result no.8": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "560"
+    },
+    "Result no.9": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "560"
+    },
+    "Result no.10": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "560"
+    }
+}

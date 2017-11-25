@@ -1,0 +1,26 @@
+{
+    "PWS ID": "TX1110037",
+    "PWS Name": "RAIN WSC",
+    "City": "HUDSON OAKS",
+    "State": "Texas",
+    "Compliance Status": "Returned to Compliance on 03/27/15",
+    "Service Connections": "43",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "43"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "43"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "43"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "PWS ID": "MI0003820",
+    "PWS Name": "LAWRENCE",
+    "City": "LAWRENCE",
+    "State": "Michigan",
+    "Compliance Status": "Returned to Compliance on 01/15/16",
+    "Service Connections": "402",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "460000 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "402"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "460000 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "402"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2900 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "402"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "2900 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "402"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "2900 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "402"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "2900 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "402"
+    }
+}

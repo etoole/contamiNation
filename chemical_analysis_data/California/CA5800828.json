@@ -1,0 +1,26 @@
+{
+    "PWS ID": "CA5800828",
+    "PWS Name": "COUNTRYSIDE MOBILE HOME PARK",
+    "City": "MARYSVILLE",
+    "State": "California",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "86",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "86"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "86"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "86"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "SD4600270",
+    "PWS Name": "PINE CLIFF ESTATES",
+    "City": "BLACK HAWK",
+    "State": "South Dakota",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "69",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "69"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "69"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "69"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "69"
+    }
+}

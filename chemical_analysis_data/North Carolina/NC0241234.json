@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NC0241234",
+    "PWS Name": "HENSON FARMS S/D",
+    "City": "DENVER",
+    "State": "North Carolina",
+    "Compliance Status": "Returned to Compliance on 01/01/06",
+    "Service Connections": "99",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "99"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "99"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "99"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "99"
+    }
+}

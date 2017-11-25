@@ -1,0 +1,68 @@
+{
+    "PWS ID": "CA5000447",
+    "PWS Name": "RIVER ROAD PLAZA",
+    "City": "OAKDALE",
+    "State": "California",
+    "Compliance Status": "Returned to Compliance on 04/04/00",
+    "Service Connections": "6",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "6"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "6"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "6"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "6"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "6"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "6"
+    },
+    "Result no.7": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "6"
+    },
+    "Result no.8": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "6"
+    },
+    "Result no.9": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "6"
+    },
+    "Result no.10": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "6"
+    }
+}

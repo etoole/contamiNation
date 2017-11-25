@@ -1,0 +1,20 @@
+{
+    "PWS ID": "RI2585312",
+    "PWS Name": "SPLIT ROCK CORPORATION",
+    "City": "NORTH KINGSTOWN",
+    "State": "Rhode Island",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "57",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "4034 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "57"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "4034 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "57"
+    }
+}

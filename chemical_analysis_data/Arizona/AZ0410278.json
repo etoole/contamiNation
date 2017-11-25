@@ -1,0 +1,32 @@
+{
+    "PWS ID": "AZ0410278",
+    "PWS Name": "RAINDANCE WATER COOP",
+    "City": "TUCSON",
+    "State": "Arizona",
+    "Compliance Status": "Returned to Compliance on 02/05/08",
+    "Service Connections": "68",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "68"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "68"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "68"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "68"
+    }
+}

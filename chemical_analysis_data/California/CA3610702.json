@@ -1,0 +1,32 @@
+{
+    "PWS ID": "CA3610702",
+    "PWS Name": "USMC YERMO ANNEX",
+    "City": "BARSTOW",
+    "State": "California",
+    "Compliance Status": "Returned to Compliance on 06/23/17",
+    "Service Connections": "50",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "50"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "58"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "50"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "50"
+    }
+}

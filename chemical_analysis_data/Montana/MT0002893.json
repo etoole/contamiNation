@@ -1,0 +1,32 @@
+{
+    "PWS ID": "MT0002893",
+    "PWS Name": "THOMPSON RANCHETTES II",
+    "City": "KALISPELL",
+    "State": "Montana",
+    "Compliance Status": "Returned to Compliance on 12/31/00",
+    "Service Connections": "32",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "32"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "32"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "32"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "32"
+    }
+}

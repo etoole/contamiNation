@@ -1,0 +1,32 @@
+{
+    "PWS ID": "MA1341004",
+    "PWS Name": "WAUBEEKA SPRINGS",
+    "City": "WILLIAMSTOWN",
+    "State": "Massachusetts",
+    "Compliance Status": "Returned to Compliance on 03/28/01",
+    "Service Connections": "19",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "19"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "19"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "19"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "19"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "PWS ID": "MD1041201",
+    "PWS Name": "HOWLIN BUILDING",
+    "City": "DUNKIRK",
+    "State": "Maryland",
+    "Compliance Status": "Returned to Compliance on 10/12/10",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    }
+}

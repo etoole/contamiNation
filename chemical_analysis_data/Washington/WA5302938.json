@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WA5302938",
+    "PWS Name": "CEDAR RIDGE #617",
+    "City": "Olympia",
+    "State": "Washington",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "64",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "64"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "64"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "64"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "64"
+    }
+}

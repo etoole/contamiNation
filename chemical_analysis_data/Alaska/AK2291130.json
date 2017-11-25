@@ -1,0 +1,26 @@
+{
+    "PWS ID": "AK2291130",
+    "PWS Name": "TATITLEK WATER SYSTEM",
+    "City": "TATITLEK",
+    "State": "Alaska",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "26",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "26"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "26"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "26"
+    }
+}

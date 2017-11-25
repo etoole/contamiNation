@@ -1,0 +1,32 @@
+{
+    "PWS ID": "LA1069015",
+    "PWS Name": "AJAX BEULAH WATER SYSTEM",
+    "City": "MARTHAVILLE",
+    "State": "Louisiana",
+    "Compliance Status": "Returned to Compliance on 05/17/16",
+    "Service Connections": "151",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "151"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "151"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "151"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "151"
+    }
+}

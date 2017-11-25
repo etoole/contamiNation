@@ -1,0 +1,26 @@
+{
+    "PWS ID": "CA3600114",
+    "PWS Name": "CSA 70 W-3 HACIENDA",
+    "City": "VICTORVILLE",
+    "State": "California",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "153",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "153"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "153"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "153"
+    }
+}

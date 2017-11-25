@@ -1,0 +1,56 @@
+{
+    "PWS ID": "TX0820019",
+    "PWS Name": "PEARSALL DEVELOPMENT",
+    "City": "SNYDER",
+    "State": "Texas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "6",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1870 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "6"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1574 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "6"
+    },
+    "Result no.3": {
+        "Contaminant": "COPPER",
+        "Concentration": "1469 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "6"
+    },
+    "Result no.4": {
+        "Contaminant": "COPPER",
+        "Concentration": "1469 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "6"
+    },
+    "Result no.5": {
+        "Contaminant": "COPPER",
+        "Concentration": "1900 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "6"
+    },
+    "Result no.6": {
+        "Contaminant": "COPPER",
+        "Concentration": "1900 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "6"
+    },
+    "Result no.7": {
+        "Contaminant": "COPPER",
+        "Concentration": "1670 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "6"
+    },
+    "Result no.8": {
+        "Contaminant": "COPPER",
+        "Concentration": "1670 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "6"
+    }
+}

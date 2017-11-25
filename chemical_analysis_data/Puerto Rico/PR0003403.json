@@ -1,0 +1,20 @@
+{
+    "PWS ID": "PR0003403",
+    "PWS Name": "CONSUMO",
+    "City": "MAYAGUEZ",
+    "State": "Puerto Rico",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "482",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "482"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "482"
+    }
+}

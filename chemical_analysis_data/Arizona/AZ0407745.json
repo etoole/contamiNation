@@ -1,0 +1,26 @@
+{
+    "PWS ID": "AZ0407745",
+    "PWS Name": "CANAM STEEL CORPORATION",
+    "City": "BUCKEYE",
+    "State": "Arizona",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "6",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/19",
+        "Service Connections": "6"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "45000 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "6"
+    },
+    "Result no.3": {
+        "Contaminant": "COPPER",
+        "Concentration": "45000 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "6"
+    }
+}

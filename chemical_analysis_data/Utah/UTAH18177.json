@@ -1,0 +1,14 @@
+{
+    "PWS ID": "UTAH18177",
+    "PWS Name": "UTAH DATA CENTER",
+    "City": "BLUFFDALE",
+    "State": "Utah",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1800 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "1"
+    }
+}

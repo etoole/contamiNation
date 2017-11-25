@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NC3001005",
+    "PWS Name": "SWEPSONVILLE, TOWN OF",
+    "City": "GRAHAM",
+    "State": "North Carolina",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "858",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "858"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "910"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "910"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "910"
+    }
+}

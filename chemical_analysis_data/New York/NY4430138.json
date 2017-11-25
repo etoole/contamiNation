@@ -1,0 +1,26 @@
+{
+    "PWS ID": "NY4430138",
+    "PWS Name": "GOUVERNEUR WEST SIDE WATER DISTRICT",
+    "City": "GOUVERNEUR",
+    "State": "New York",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "66",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "66"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "66"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "66"
+    }
+}

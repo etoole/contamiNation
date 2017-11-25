@@ -1,0 +1,14 @@
+{
+    "PWS ID": "TX1012973",
+    "PWS Name": "HARRIS COUNTY MUD 342",
+    "City": "HOUSTON",
+    "State": "Texas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1267",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "1267"
+    }
+}

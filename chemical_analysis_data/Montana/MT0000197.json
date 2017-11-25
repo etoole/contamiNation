@@ -1,0 +1,32 @@
+{
+    "PWS ID": "MT0000197",
+    "PWS Name": "DEER LODGE  CITY OF",
+    "City": "DEER LODGE",
+    "State": "Montana",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1482",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "1482"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1482"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1472"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1472"
+    }
+}

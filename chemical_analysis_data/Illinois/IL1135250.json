@@ -1,0 +1,26 @@
+{
+    "PWS ID": "IL1135250",
+    "PWS Name": "INDIAN CREEK HOMEOWNERS AND WATER ASSN.",
+    "City": "TOWANDA",
+    "State": "Illinois",
+    "Compliance Status": "Returned to Compliance on 01/01/95",
+    "Service Connections": "88",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "88"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "88"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "88"
+    }
+}

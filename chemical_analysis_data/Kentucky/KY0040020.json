@@ -1,0 +1,32 @@
+{
+    "PWS ID": "KY0040020",
+    "PWS Name": "BARLOW WATER SYSTEM",
+    "City": "BARLOW",
+    "State": "Kentucky",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "350",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "350"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "350"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "350"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "350"
+    }
+}

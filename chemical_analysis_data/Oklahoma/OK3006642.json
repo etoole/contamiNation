@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OK3006642",
+    "PWS Name": "LEISURE ESTATES MOBILE HOME PARK",
+    "City": "TRACY",
+    "State": "Oklahoma",
+    "Compliance Status": "Returned to Compliance on 08/04/16",
+    "Service Connections": "43",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "43"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "43"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "43"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "43"
+    }
+}

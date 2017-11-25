@@ -1,0 +1,32 @@
+{
+    "PWS ID": "MT0001672",
+    "PWS Name": "MORNING STAR",
+    "City": "KALISPELL",
+    "State": "Montana",
+    "Compliance Status": "Returned to Compliance on 02/19/15",
+    "Service Connections": "41",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "41"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "41"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "41"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "41"
+    }
+}

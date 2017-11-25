@@ -1,0 +1,44 @@
+{
+    "PWS ID": "NM3508923",
+    "PWS Name": "BERNALILLO WATER SYSTEM",
+    "City": "BERNALILLO",
+    "State": "New Mexico",
+    "Compliance Status": "Returned to Compliance on 01/19/17",
+    "Service Connections": "3450",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "3450"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "3450"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "3450"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3450"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3450"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3450"
+    }
+}

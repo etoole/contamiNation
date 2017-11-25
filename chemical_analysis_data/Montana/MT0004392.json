@@ -1,0 +1,38 @@
+{
+    "PWS ID": "MT0004392",
+    "PWS Name": "CHERRY CREEK MANIF HOME PARK",
+    "City": "BILLINGS",
+    "State": "Montana",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "360",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "360"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "360"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "360"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "360"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "360"
+    }
+}

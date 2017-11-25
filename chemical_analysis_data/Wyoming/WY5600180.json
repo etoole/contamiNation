@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WY5600180",
+    "PWS Name": "B&K MOBILE HOME PARK",
+    "City": "RIVERTON",
+    "State": "Wyoming",
+    "Compliance Status": "Returned to Compliance on 07/29/10",
+    "Service Connections": "52",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "52"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "52"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "52"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "52"
+    }
+}

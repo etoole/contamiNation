@@ -1,0 +1,26 @@
+{
+    "PWS ID": "MA4003004",
+    "PWS Name": "ACUSHNET MANUFACTURED HOMES",
+    "City": "ACUSHNET",
+    "State": "Massachusetts",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "59",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "59"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "59"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "59"
+    }
+}

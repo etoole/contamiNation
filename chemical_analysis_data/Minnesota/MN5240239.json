@@ -1,0 +1,20 @@
+{
+    "PWS ID": "MN5240239",
+    "PWS Name": "POET Biorefining - Glenville East",
+    "City": "Albert Lea",
+    "State": "Minnesota",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "3",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1810 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "3"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1810 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "3"
+    }
+}

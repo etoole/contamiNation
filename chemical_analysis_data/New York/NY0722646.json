@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NY0722646",
+    "PWS Name": "SHEPPARDS CREEK MHP",
+    "City": "SPENCER",
+    "State": "New York",
+    "Compliance Status": "Returned to Compliance on 06/11/12",
+    "Service Connections": "24",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "24"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "24"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "24"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "24"
+    }
+}

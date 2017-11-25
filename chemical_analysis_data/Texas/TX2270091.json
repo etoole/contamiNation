@@ -1,0 +1,44 @@
+{
+    "PWS ID": "TX2270091",
+    "PWS Name": "HAZY HILLS WATER SUPPLY CORPORATION",
+    "City": "SPICEWOOD",
+    "State": "Texas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "44",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "44"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "44"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "44"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "28 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "44"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "28 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "44"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "28 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "44"
+    }
+}

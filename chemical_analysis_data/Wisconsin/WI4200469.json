@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WI4200469",
+    "PWS Name": "FOND DU LAC WATERWORKS",
+    "City": "FOND DU LAC",
+    "State": "Wisconsin",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "15555",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "15555"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "15555"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "15555"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "15555"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IL1030150",
+    "PWS Name": "COMPTON",
+    "City": "COMPTON",
+    "State": "Illinois",
+    "Compliance Status": "Returned to Compliance on 01/21/16",
+    "Service Connections": "115",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "115"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "115"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "115"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "115"
+    }
+}

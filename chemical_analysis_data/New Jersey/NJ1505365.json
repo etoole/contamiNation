@@ -1,0 +1,26 @@
+{
+    "PWS ID": "NJ1505365",
+    "PWS Name": "OCEAN COUNTY UTILITIES A",
+    "City": "BAYVILLE",
+    "State": "New Jersey",
+    "Compliance Status": "Returned to Compliance on 06/01/06",
+    "Service Connections": "19",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "19"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "19"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "19"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "PWS ID": "KY0130949",
+    "PWS Name": "MT CARMEL HIGH BOARDING SCHOOL",
+    "City": "JACKSON",
+    "State": "Kentucky",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "26",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "26"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "26"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "26"
+    }
+}

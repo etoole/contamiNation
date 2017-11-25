@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IA9233501",
+    "PWS Name": "PATHWAY CHRISTIAN SCHOOL",
+    "City": "KALONA",
+    "State": "Iowa",
+    "Compliance Status": "Returned to Compliance on 06/19/04",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    }
+}

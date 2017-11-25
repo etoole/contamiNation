@@ -1,0 +1,32 @@
+{
+    "PWS ID": "MD1230054",
+    "PWS Name": "HERTRICH FAMILY OF AUTO DEALERSHIPS",
+    "City": "MILFORD",
+    "State": "Maryland",
+    "Compliance Status": "Returned to Compliance on 02/10/17",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "-5 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "-5 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "-5 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "-5 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    }
+}

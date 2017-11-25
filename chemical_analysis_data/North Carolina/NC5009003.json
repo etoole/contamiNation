@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NC5009003",
+    "PWS Name": "WACCAMAW SIOUAN DAYCARE",
+    "City": "BOLTON",
+    "State": "North Carolina",
+    "Compliance Status": "Returned to Compliance on 09/12/08",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    }
+}

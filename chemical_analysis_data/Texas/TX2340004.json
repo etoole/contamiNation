@@ -1,0 +1,32 @@
+{
+    "PWS ID": "TX2340004",
+    "PWS Name": "CITY OF VAN",
+    "City": "VAN",
+    "State": "Texas",
+    "Compliance Status": "Returned to Compliance on 02/08/17",
+    "Service Connections": "1459",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1459"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1459"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1459"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1459"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "PWS ID": "TX1740013",
+    "PWS Name": "LILBERT LOONEYVILLE WSC",
+    "City": "CUSHING",
+    "State": "Texas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "267",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1620 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "267"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1620 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "267"
+    },
+    "Result no.3": {
+        "Contaminant": "COPPER",
+        "Concentration": "1620 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "267"
+    }
+}

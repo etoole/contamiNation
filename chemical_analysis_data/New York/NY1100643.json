@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NY1100643",
+    "PWS Name": "COLD BROOK TRAILER PARK",
+    "City": "CORTLAND",
+    "State": "New York",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "22",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "22"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "22"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "22"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "22"
+    }
+}

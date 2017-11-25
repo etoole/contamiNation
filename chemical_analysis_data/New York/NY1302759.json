@@ -1,0 +1,14 @@
+{
+    "PWS ID": "NY1302759",
+    "PWS Name": "AMENIA WATER DISTRICT NO 1",
+    "City": "AMENIA",
+    "State": "New York",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "290",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "13 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "290"
+    }
+}

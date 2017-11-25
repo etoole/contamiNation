@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NY1330086",
+    "PWS Name": "LIME RIDGE FARM",
+    "City": "CARMEL",
+    "State": "New York",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "28",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "28"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "28"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "28"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "28"
+    }
+}

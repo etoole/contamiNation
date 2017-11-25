@@ -1,0 +1,26 @@
+{
+    "PWS ID": "NE3104902",
+    "PWS Name": "BIG SPRINGS, VILLAGE OF",
+    "City": "BIG SPRINGS",
+    "State": "Nebraska",
+    "Compliance Status": "Returned to Compliance on 05/28/96",
+    "Service Connections": "266",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "266"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "266"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "266"
+    }
+}

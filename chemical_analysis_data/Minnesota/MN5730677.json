@@ -1,0 +1,20 @@
+{
+    "PWS ID": "MN5730677",
+    "PWS Name": "PleasureLand, Inc.",
+    "City": "St. Cloud",
+    "State": "Minnesota",
+    "Compliance Status": "Returned to Compliance on 08/09/16",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1860 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1860 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NC0201165",
+    "PWS Name": "CIRCLE K PARK",
+    "City": "GRAHAM",
+    "State": "North Carolina",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "37",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "37"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "37"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "37"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "37"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "AZ0407624",
+    "PWS Name": "PIONEER RV RESORT",
+    "City": "PHOENIX",
+    "State": "Arizona",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "580",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "580"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "583"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "580"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "580"
+    }
+}

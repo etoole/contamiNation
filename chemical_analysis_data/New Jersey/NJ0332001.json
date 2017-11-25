@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NJ0332001",
+    "PWS Name": "FAWN LAKE VILLAGE",
+    "City": "CAPE MAY COURT HOUSE",
+    "State": "New Jersey",
+    "Compliance Status": "Returned to Compliance on 07/30/15",
+    "Service Connections": "110",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "110"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "110"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "110"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "110"
+    }
+}

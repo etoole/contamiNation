@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IA6000755",
+    "PWS Name": "LYON-SIOUX RWS-BIG SIOUX",
+    "City": "ROCK RAPIDS",
+    "State": "Iowa",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "556",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "556"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "556"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "556"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "556"
+    }
+}

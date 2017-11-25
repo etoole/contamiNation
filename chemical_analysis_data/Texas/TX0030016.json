@@ -1,0 +1,14 @@
+{
+    "PWS ID": "TX0030016",
+    "PWS Name": "ANGELINA WSC",
+    "City": "LUFKIN",
+    "State": "Texas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1276",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "1276"
+    }
+}

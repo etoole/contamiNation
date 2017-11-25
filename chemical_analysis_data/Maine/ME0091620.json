@@ -1,0 +1,32 @@
+{
+    "PWS ID": "ME0091620",
+    "PWS Name": "WILTON WATER DEPARTMENT",
+    "City": "WILTON",
+    "State": "Maine",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "950",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "950"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "950"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "950"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "950"
+    }
+}

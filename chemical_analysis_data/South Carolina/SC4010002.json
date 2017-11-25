@@ -1,0 +1,92 @@
+{
+    "PWS ID": "SC4010002",
+    "PWS Name": "EASTOVER TOWN OF (4010002)",
+    "City": "EASTOVER",
+    "State": "South Carolina",
+    "Compliance Status": "Returned to Compliance on 09/06/16",
+    "Service Connections": "350",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1420 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "350"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1420 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "350"
+    },
+    "Result no.3": {
+        "Contaminant": "COPPER",
+        "Concentration": "2200 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "350"
+    },
+    "Result no.4": {
+        "Contaminant": "COPPER",
+        "Concentration": "2200 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "350"
+    },
+    "Result no.5": {
+        "Contaminant": "COPPER",
+        "Concentration": "1410 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "350"
+    },
+    "Result no.6": {
+        "Contaminant": "COPPER",
+        "Concentration": "1410 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "350"
+    },
+    "Result no.7": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "350"
+    },
+    "Result no.8": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "350"
+    },
+    "Result no.9": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "350"
+    },
+    "Result no.10": {
+        "Contaminant": "COPPER",
+        "Concentration": "2380 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "350"
+    },
+    "Result no.11": {
+        "Contaminant": "COPPER",
+        "Concentration": "2380 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "350"
+    },
+    "Result no.12": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "350"
+    },
+    "Result no.13": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "350"
+    },
+    "Result no.14": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "350"
+    }
+}

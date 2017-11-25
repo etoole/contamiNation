@@ -1,0 +1,26 @@
+{
+    "PWS ID": "PA5630045",
+    "PWS Name": "TRI CNTY JT MUNI AUTH",
+    "City": "FREDERICKTOWN",
+    "State": "Pennsylvania",
+    "Compliance Status": "Returned to Compliance on 11/09/16",
+    "Service Connections": "3400",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "3400"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "3400"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "3400"
+    }
+}

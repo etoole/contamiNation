@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IL0750700",
+    "PWS Name": "ONARGA",
+    "City": "ONARGA",
+    "State": "Illinois",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "555",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "555"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "555"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "555"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "555"
+    }
+}

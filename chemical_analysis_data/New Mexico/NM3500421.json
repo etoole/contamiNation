@@ -1,0 +1,14 @@
+{
+    "PWS ID": "NM3500421",
+    "PWS Name": "CANON PLAZA MDWCA",
+    "City": "VALLECITOS",
+    "State": "New Mexico",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "18",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "50 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "18"
+    }
+}

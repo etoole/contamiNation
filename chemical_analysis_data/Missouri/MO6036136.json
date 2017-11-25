@@ -1,0 +1,32 @@
+{
+    "PWS ID": "MO6036136",
+    "PWS Name": "TARA OAKS MANOR ASSOCIATION",
+    "City": "ST PAUL",
+    "State": "Missouri",
+    "Compliance Status": "Returned to Compliance on 09/30/96",
+    "Service Connections": "36",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "36"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "36"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "36"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "36"
+    }
+}

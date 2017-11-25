@@ -1,0 +1,26 @@
+{
+    "PWS ID": "WI2300174",
+    "PWS Name": "SHADY NOOK MOBILE HOME PARK 1",
+    "City": "Villa Park",
+    "State": "Wisconsin",
+    "Compliance Status": "Returned to Compliance on 11/09/16",
+    "Service Connections": "25",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "25"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "25"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "25"
+    }
+}

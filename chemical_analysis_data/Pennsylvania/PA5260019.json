@@ -1,0 +1,26 @@
+{
+    "PWS ID": "PA5260019",
+    "PWS Name": "NORTH FAYETTE CNTY MUNI AUTH",
+    "City": "DUNBAR",
+    "State": "Pennsylvania",
+    "Compliance Status": "Returned to Compliance on 11/09/16",
+    "Service Connections": "15048",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "15048"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "14698"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "14698"
+    }
+}

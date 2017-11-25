@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WA5397950",
+    "PWS Name": "WISHRAM WATER SYSTEM",
+    "City": "Goldendale",
+    "State": "Washington",
+    "Compliance Status": "Returned to Compliance on 01/01/00",
+    "Service Connections": "200",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "200"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "200"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "200"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "200"
+    }
+}

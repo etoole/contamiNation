@@ -1,0 +1,26 @@
+{
+    "PWS ID": "IA5715103",
+    "PWS Name": "CENTRAL IOWA POWER COOPERATIVE",
+    "City": "CEDAR RAPIDS",
+    "State": "Iowa",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "18 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "18 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "18 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "LA1063076",
+    "PWS Name": "JIMS TRAILER PARK",
+    "City": "SPRINGFIELD",
+    "State": "Louisiana",
+    "Compliance Status": "Returned to Compliance on 02/10/17",
+    "Service Connections": "40",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "40"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "40"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "40"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "40"
+    }
+}

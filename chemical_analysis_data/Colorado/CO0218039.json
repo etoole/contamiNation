@@ -1,0 +1,14 @@
+{
+    "PWS ID": "CO0218039",
+    "PWS Name": "CASTLETON CENTER",
+    "City": "LARKSPUR",
+    "State": "Colorado",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "12",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "15 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "12"
+    }
+}

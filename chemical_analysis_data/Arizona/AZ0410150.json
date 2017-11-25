@@ -1,0 +1,26 @@
+{
+    "PWS ID": "AZ0410150",
+    "PWS Name": "MARANA MUNICIPAL - MARANA",
+    "City": "TUCSONC",
+    "State": "Arizona",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "3273",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3273"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3052"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3273"
+    }
+}

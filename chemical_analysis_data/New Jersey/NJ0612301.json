@@ -1,0 +1,26 @@
+{
+    "PWS ID": "NJ0612301",
+    "PWS Name": "WOODLAND COUNTRY DAY SCH",
+    "City": "HOPEWELL TWP",
+    "State": "New Jersey",
+    "Compliance Status": "Returned to Compliance on 03/21/94",
+    "Service Connections": "5",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "5"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "5"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "5"
+    }
+}

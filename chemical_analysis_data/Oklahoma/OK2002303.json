@@ -1,0 +1,14 @@
+{
+    "PWS ID": "OK2002303",
+    "PWS Name": "FARGO",
+    "City": "FARGO",
+    "State": "Oklahoma",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "190",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/19",
+        "Service Connections": "190"
+    }
+}

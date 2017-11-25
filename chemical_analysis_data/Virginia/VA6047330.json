@@ -1,0 +1,32 @@
+{
+    "PWS ID": "VA6047330",
+    "PWS Name": "MERRIMAC SOUTH",
+    "City": "ROCKVILLE",
+    "State": "Virginia",
+    "Compliance Status": "Returned to Compliance on 12/14/12",
+    "Service Connections": "44",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "44"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "44"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "44"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "44"
+    }
+}

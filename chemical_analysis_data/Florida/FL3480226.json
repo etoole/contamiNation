@@ -1,0 +1,26 @@
+{
+    "PWS ID": "FL3480226",
+    "PWS Name": "COLLEGE MOBILE HOME PARK",
+    "City": "ORLANDO",
+    "State": "Florida",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "36",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "36"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "36"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "36"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "ID4200053",
+    "PWS Name": "TRINITY ESTATES WATER USERS ASSN",
+    "City": "MOUNTAIN HOME",
+    "State": "Idaho",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "58",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "58"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "58"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "58"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "58"
+    }
+}

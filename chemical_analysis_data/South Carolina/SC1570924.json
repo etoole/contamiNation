@@ -1,0 +1,32 @@
+{
+    "PWS ID": "SC1570924",
+    "PWS Name": "FAITH CATHEDRAL FELLOWSHIP INC (1570924)",
+    "City": "WALTERBORO",
+    "State": "South Carolina",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "50",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "35 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "50"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "35 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "50"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "35 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "50"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "35 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "50"
+    }
+}

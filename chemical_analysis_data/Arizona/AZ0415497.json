@@ -1,0 +1,14 @@
+{
+    "PWS ID": "AZ0415497",
+    "PWS Name": "EHRENBERG IMPROVEMENT ASSOC",
+    "City": "EHRENBERG",
+    "State": "Arizona",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "290",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "290"
+    }
+}

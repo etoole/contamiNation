@@ -1,0 +1,26 @@
+{
+    "PWS ID": "IL0315570",
+    "PWS Name": "CENTRAL STICKNEY SD",
+    "City": "CHICAGO",
+    "State": "Illinois",
+    "Compliance Status": "Returned to Compliance on 04/09/98",
+    "Service Connections": "744",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "744"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "744"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "744"
+    }
+}

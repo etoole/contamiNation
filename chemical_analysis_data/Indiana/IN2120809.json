@@ -1,0 +1,50 @@
+{
+    "PWS ID": "IN2120809",
+    "PWS Name": "BAUER HEAD START",
+    "City": "LAFAYETTE",
+    "State": "Indiana",
+    "Compliance Status": "Returned to Compliance on 06/13/17",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1600 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1600 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "COPPER",
+        "Concentration": "1600 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "29 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "29 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "29 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.7": {
+        "Contaminant": "LEAD",
+        "Concentration": "29 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NJ1319402",
+    "PWS Name": "FAIRFIELD INDUST PARK #1",
+    "City": "FREEHOLD",
+    "State": "New Jersey",
+    "Compliance Status": "Returned to Compliance on 08/21/12",
+    "Service Connections": "3",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "3"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "3"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "3"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "3"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "PWS ID": "WY5600918",
+    "PWS Name": "FAIRWAY ESTATES",
+    "City": "DOUGLAS",
+    "State": "Wyoming",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "57",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "57"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "57"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "57"
+    }
+}

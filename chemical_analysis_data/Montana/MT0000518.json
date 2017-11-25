@@ -1,0 +1,32 @@
+{
+    "PWS ID": "MT0000518",
+    "PWS Name": "SORREL SPRINGS HOA",
+    "City": "FRENCHTOWN",
+    "State": "Montana",
+    "Compliance Status": "Returned to Compliance on 09/07/04",
+    "Service Connections": "103",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "103"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "103"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "96"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "96"
+    }
+}

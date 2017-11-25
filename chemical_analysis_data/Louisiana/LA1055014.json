@@ -1,0 +1,14 @@
+{
+    "PWS ID": "LA1055014",
+    "PWS Name": "G AND J MOBILE HOME ESTATES WATER SYSTEM",
+    "City": "LAFAYETTE",
+    "State": "Louisiana",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "60",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "60"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "PWS ID": "WI6420311",
+    "PWS Name": "WYEVILLE ELEMENTARY SCHOOL",
+    "City": "Tomah",
+    "State": "Wisconsin",
+    "Compliance Status": "Returned to Compliance on 06/24/99",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1"
+    }
+}

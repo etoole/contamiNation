@@ -1,0 +1,14 @@
+{
+    "PWS ID": "ME0000315",
+    "PWS Name": "ISLESBORO CENTRAL SCHOOL",
+    "City": "ISLESBORO",
+    "State": "Maine",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "1"
+    }
+}

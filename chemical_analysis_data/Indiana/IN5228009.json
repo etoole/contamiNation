@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IN5228009",
+    "PWS Name": "SWITZ CITY WATER WORKS",
+    "City": "SWITZ CITY",
+    "State": "Indiana",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "361",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "18 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "361"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "18 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "348"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "18 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "348"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "18 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "348"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OH4505412",
+    "PWS Name": "SOUTHWEST LICKING COMMUNITY WATER",
+    "City": "ETNA",
+    "State": "Ohio",
+    "Compliance Status": "Returned to Compliance on 08/30/10",
+    "Service Connections": "5641",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "5641"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "5641"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "5641"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "5641"
+    }
+}

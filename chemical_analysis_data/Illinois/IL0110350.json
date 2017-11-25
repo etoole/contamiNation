@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IL0110350",
+    "PWS Name": "DOVER",
+    "City": "PRINCETON",
+    "State": "Illinois",
+    "Compliance Status": "Returned to Compliance on 06/30/09",
+    "Service Connections": "65",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "65"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "65"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "65"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "65"
+    }
+}

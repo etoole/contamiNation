@@ -1,0 +1,32 @@
+{
+    "PWS ID": "AK2370146",
+    "PWS Name": "DGSD - DELTA SCHOOL",
+    "City": "DELTA JUNCTION",
+    "State": "Alaska",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "2",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2"
+    }
+}

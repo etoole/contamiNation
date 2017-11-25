@@ -1,0 +1,32 @@
+{
+    "PWS ID": "ID4080095",
+    "PWS Name": "HORSESHU VUE RANCH SUBD",
+    "City": "HORSESHOE BEND",
+    "State": "Idaho",
+    "Compliance Status": "Returned to Compliance on 12/20/16",
+    "Service Connections": "19",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "19"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "19"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "19"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "19"
+    }
+}

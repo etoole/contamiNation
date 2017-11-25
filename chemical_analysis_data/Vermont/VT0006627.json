@@ -1,0 +1,14 @@
+{
+    "PWS ID": "VT0006627",
+    "PWS Name": "BARSTOW MEMORIAL SCHOOL",
+    "City": "CHITTENDEN",
+    "State": "Vermont",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "2",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/19",
+        "Service Connections": "2"
+    }
+}

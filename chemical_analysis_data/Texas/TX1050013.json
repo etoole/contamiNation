@@ -1,0 +1,26 @@
+{
+    "PWS ID": "TX1050013",
+    "PWS Name": "DRIPPING SPRINGS WSC",
+    "City": "DRIPPING SPRINGS",
+    "State": "Texas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1992",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1992"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1428"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1428"
+    }
+}

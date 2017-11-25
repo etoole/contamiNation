@@ -1,0 +1,26 @@
+{
+    "PWS ID": "WI6090453",
+    "PWS Name": "TWIN CITY MOBILE HOME CT",
+    "City": "EAU CLAIRE",
+    "State": "Wisconsin",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "61",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "61"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "61"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "61"
+    }
+}

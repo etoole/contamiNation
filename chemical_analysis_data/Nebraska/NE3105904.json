@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NE3105904",
+    "PWS Name": "GRAFTON, VILLAGE OF",
+    "City": "GRAFTON",
+    "State": "Nebraska",
+    "Compliance Status": "Returned to Compliance on 11/26/01",
+    "Service Connections": "80",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "80"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "80"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "80"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "80"
+    }
+}

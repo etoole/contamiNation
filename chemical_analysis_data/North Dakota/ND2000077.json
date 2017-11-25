@@ -1,0 +1,32 @@
+{
+    "PWS ID": "ND2000077",
+    "PWS Name": "BINFORD CITY OF",
+    "City": "BINFORD",
+    "State": "North Dakota",
+    "Compliance Status": "Returned to Compliance on 06/22/17",
+    "Service Connections": "132",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "132"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "132"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "132"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "132"
+    }
+}

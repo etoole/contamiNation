@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WA5306429",
+    "PWS Name": "BARLEAN S WATER SYSTEM",
+    "City": "Ferndale",
+    "State": "Washington",
+    "Compliance Status": "Returned to Compliance on 12/31/15",
+    "Service Connections": "4",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "4"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "4"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "4"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "4"
+    }
+}

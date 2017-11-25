@@ -1,0 +1,14 @@
+{
+    "PWS ID": "OK2005701",
+    "PWS Name": "OSAGE PWA",
+    "City": "OSAGE",
+    "State": "Oklahoma",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "105",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "105"
+    }
+}

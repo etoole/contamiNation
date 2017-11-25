@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NY0700788",
+    "PWS Name": "NORTHSTAR MHP",
+    "City": "CALEDONIA",
+    "State": "New York",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "126",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "126"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "126"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "126"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "126"
+    }
+}

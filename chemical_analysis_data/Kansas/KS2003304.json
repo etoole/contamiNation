@@ -1,0 +1,32 @@
+{
+    "PWS ID": "KS2003304",
+    "PWS Name": "COLDWATER, CITY OF",
+    "City": "COLDWATER",
+    "State": "Kansas",
+    "Compliance Status": "Returned to Compliance on 04/10/17",
+    "Service Connections": "519",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "519"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "519"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "519"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "519"
+    }
+}

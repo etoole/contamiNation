@@ -1,0 +1,32 @@
+{
+    "PWS ID": "CA5400641",
+    "PWS Name": "TEVISTON CSD",
+    "City": "PIXLEY",
+    "State": "California",
+    "Compliance Status": "Returned to Compliance on 12/31/03",
+    "Service Connections": "104",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "104"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "104"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "104"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "104"
+    }
+}

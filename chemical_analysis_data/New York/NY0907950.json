@@ -1,0 +1,26 @@
+{
+    "PWS ID": "NY0907950",
+    "PWS Name": "SUN VALLEY MOBILE HOME PARK",
+    "City": "ST. CLOUD",
+    "State": "New York",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "20",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "20"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "20"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "20"
+    }
+}

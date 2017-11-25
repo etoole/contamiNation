@@ -1,0 +1,32 @@
+{
+    "PWS ID": "MO5171119",
+    "PWS Name": "SHELL KNOB ELEMENTARY SCHOOL",
+    "City": "SHELL KNOB",
+    "State": "Missouri",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    }
+}

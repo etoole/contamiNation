@@ -1,0 +1,32 @@
+{
+    "PWS ID": "ID7410003",
+    "PWS Name": "DARBY WATER ASSN",
+    "City": "DRIGGS",
+    "State": "Idaho",
+    "Compliance Status": "Returned to Compliance on 08/29/06",
+    "Service Connections": "19",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "19"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "19"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "19"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "19"
+    }
+}

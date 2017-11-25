@@ -1,0 +1,32 @@
+{
+    "PWS ID": "ME0014643",
+    "PWS Name": "MAPLEWOOD MOBILE HOME PARK",
+    "City": "BRUNSWICK",
+    "State": "Maine",
+    "Compliance Status": "Returned to Compliance on 03/20/17",
+    "Service Connections": "30",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "30"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "30"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "30"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "30"
+    }
+}

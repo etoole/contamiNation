@@ -1,0 +1,26 @@
+{
+    "PWS ID": "FL6290157",
+    "PWS Name": "OAKS OF THONOTOSASSA MHP",
+    "City": "TAMPA",
+    "State": "Florida",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "128",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "128"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "190"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "128"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OK3007219",
+    "PWS Name": "SLEEPY VALLEY MHP #2",
+    "City": "CLAREMORE",
+    "State": "Oklahoma",
+    "Compliance Status": "Returned to Compliance on 08/04/16",
+    "Service Connections": "66",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "66"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "66"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "66"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "66"
+    }
+}

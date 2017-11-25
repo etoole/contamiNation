@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NC7024007",
+    "PWS Name": "COLUMBUS CO WATER DISTRICT II",
+    "City": "WHITEVILLE",
+    "State": "North Carolina",
+    "Compliance Status": "Returned to Compliance on 08/17/17",
+    "Service Connections": "3065",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "3065"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "3065"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "3065"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "3065"
+    }
+}

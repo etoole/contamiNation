@@ -1,0 +1,26 @@
+{
+    "PWS ID": "CA2100565",
+    "PWS Name": "GREEN GULCH FARM",
+    "City": "MUIR BEACH",
+    "State": "California",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "17",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "17"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "17"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "17"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "PWS ID": "TX1010207",
+    "PWS Name": "CITY OF SHOREACRES",
+    "City": "SHOREACRES",
+    "State": "Texas",
+    "Compliance Status": "Returned to Compliance on 03/16/17",
+    "Service Connections": "725",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1360 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "725"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1360 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "725"
+    },
+    "Result no.3": {
+        "Contaminant": "COPPER",
+        "Concentration": "1360 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "725"
+    }
+}

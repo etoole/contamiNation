@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NC0470015",
+    "PWS Name": "PASQUOTANK COUNTY WATER SYSTEM",
+    "City": "ELIZABETH CITY",
+    "State": "North Carolina",
+    "Compliance Status": "Returned to Compliance on 07/14/16",
+    "Service Connections": "4006",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "4006"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "4006"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "4006"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "4006"
+    }
+}

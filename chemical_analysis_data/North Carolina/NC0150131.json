@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NC0150131",
+    "PWS Name": "STRAWBERRY HILL",
+    "City": "CASHIERS",
+    "State": "North Carolina",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "35",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    }
+}

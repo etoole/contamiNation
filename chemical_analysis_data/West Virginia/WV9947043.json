@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WV9947043",
+    "PWS Name": "BLACKWATER FALLS STATE PARK",
+    "City": "DAVIS",
+    "State": "West Virginia",
+    "Compliance Status": "Returned to Compliance on 02/24/17",
+    "Service Connections": "30",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "10 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "30"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "10 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "30"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "10 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "30"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "10 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "30"
+    }
+}

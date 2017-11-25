@@ -1,0 +1,128 @@
+{
+    "PWS ID": "NY4430193",
+    "PWS Name": "COMMUNITY BANK OPERATIONS CENTER",
+    "City": "DEWITT",
+    "State": "New York",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.5": {
+        "Contaminant": "COPPER",
+        "Concentration": "1450 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1"
+    },
+    "Result no.6": {
+        "Contaminant": "COPPER",
+        "Concentration": "1450 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1"
+    },
+    "Result no.7": {
+        "Contaminant": "LEAD",
+        "Concentration": "17 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1"
+    },
+    "Result no.8": {
+        "Contaminant": "LEAD",
+        "Concentration": "17 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1"
+    },
+    "Result no.9": {
+        "Contaminant": "LEAD",
+        "Concentration": "17 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1"
+    },
+    "Result no.10": {
+        "Contaminant": "LEAD",
+        "Concentration": "17 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1"
+    },
+    "Result no.11": {
+        "Contaminant": "COPPER",
+        "Concentration": "1800 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "1"
+    },
+    "Result no.12": {
+        "Contaminant": "COPPER",
+        "Concentration": "1800 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "1"
+    },
+    "Result no.13": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "1"
+    },
+    "Result no.14": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "1"
+    },
+    "Result no.15": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "1"
+    },
+    "Result no.16": {
+        "Contaminant": "COPPER",
+        "Concentration": "2800 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    },
+    "Result no.17": {
+        "Contaminant": "COPPER",
+        "Concentration": "2800 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    },
+    "Result no.18": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    },
+    "Result no.19": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    },
+    "Result no.20": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    }
+}

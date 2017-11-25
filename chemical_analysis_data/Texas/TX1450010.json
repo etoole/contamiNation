@@ -1,0 +1,26 @@
+{
+    "PWS ID": "TX1450010",
+    "PWS Name": "SAINT PAUL SHILOH TIMESVILLE WSC",
+    "City": "OAKWOOD",
+    "State": "Texas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "145",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1370 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "145"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1370 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "145"
+    },
+    "Result no.3": {
+        "Contaminant": "COPPER",
+        "Concentration": "1370 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "145"
+    }
+}

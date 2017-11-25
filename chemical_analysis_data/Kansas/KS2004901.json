@@ -1,0 +1,32 @@
+{
+    "PWS ID": "KS2004901",
+    "PWS Name": "HOWARD, CITY OF",
+    "City": "HOWARD",
+    "State": "Kansas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "454",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "454"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "454"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "454"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "454"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "PWS ID": "MO5036205",
+    "PWS Name": "VILLAGE OF MC CORD BEND",
+    "City": "GALENA",
+    "State": "Missouri",
+    "Compliance Status": "Returned to Compliance on 09/01/06",
+    "Service Connections": "46",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/19",
+        "Service Connections": "46"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/19",
+        "Service Connections": "46"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/19",
+        "Service Connections": "49"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "49"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "46"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "49"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "PWS ID": "MO3036043",
+    "PWS Name": "MO AMERICAN - HICKORY HILLS",
+    "City": "JEFFERSON CITY",
+    "State": "Missouri",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "11",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "34 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "11"
+    }
+}

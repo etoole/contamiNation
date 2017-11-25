@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IL0515500",
+    "PWS Name": "VANDALIA CORRECTIONAL CENTER",
+    "City": "VANDALIA",
+    "State": "Illinois",
+    "Compliance Status": "Returned to Compliance on 01/13/16",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "14 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "14 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "14 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "14 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1"
+    }
+}

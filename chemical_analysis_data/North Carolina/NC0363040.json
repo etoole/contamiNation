@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NC0363040",
+    "PWS Name": "CAMERON, TOWN OF",
+    "City": "CAMERON",
+    "State": "North Carolina",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "200",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "200"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "200"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "200"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "200"
+    }
+}

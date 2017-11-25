@@ -1,0 +1,50 @@
+{
+    "PWS ID": "TX1700490",
+    "PWS Name": "WESTMONT MOBILE HOME COMMUNITY",
+    "City": "HOUSTON",
+    "State": "Texas",
+    "Compliance Status": "Returned to Compliance on 07/20/17",
+    "Service Connections": "103",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "17 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "103"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "17 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "103"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "17 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "103"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "109 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "103"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "109 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "103"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "109 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "103"
+    },
+    "Result no.7": {
+        "Contaminant": "LEAD",
+        "Concentration": "109 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "103"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "PWS ID": "SC1870109",
+    "PWS Name": "DORCHESTER CO CAREER SCHOOL (1870109)",
+    "City": "DORCHESTER",
+    "State": "South Carolina",
+    "Compliance Status": "Returned to Compliance on 01/10/03",
+    "Service Connections": "3",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3"
+    }
+}

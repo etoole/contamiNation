@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NC4392225",
+    "PWS Name": "KENDALL HILL MASTER",
+    "City": "CARY",
+    "State": "North Carolina",
+    "Compliance Status": "Returned to Compliance on 10/06/03",
+    "Service Connections": "104",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "104"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "104"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "104"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "104"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "PWS ID": "GA0090048",
+    "PWS Name": "ERIN SHORES WATER SYSTEM",
+    "City": "ATLANTA",
+    "State": "Georgia",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "32",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "7050 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "32"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "7050 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "32"
+    }
+}

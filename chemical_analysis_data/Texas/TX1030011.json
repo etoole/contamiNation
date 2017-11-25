@@ -1,0 +1,14 @@
+{
+    "PWS ID": "TX1030011",
+    "PWS Name": "CHANNING WATER WORKS",
+    "City": "CHANNING",
+    "State": "Texas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "185",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "23 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "185"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NY5718519",
+    "PWS Name": "KINGSBURY CARRIAGE COURT",
+    "City": "HUDSON FALLS",
+    "State": "New York",
+    "Compliance Status": "Returned to Compliance on 06/26/03",
+    "Service Connections": "19",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "19"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "19"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "19"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "19"
+    }
+}

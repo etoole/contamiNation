@@ -1,0 +1,32 @@
+{
+    "PWS ID": "CT0910591",
+    "PWS Name": "CANDLEWOOD KNOLLS WATER AUTHORITY",
+    "City": "NEW FAIRFIELD",
+    "State": "Connecticut",
+    "Compliance Status": "Returned to Compliance on 06/06/17",
+    "Service Connections": "131",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "131"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "131"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "131"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "131"
+    }
+}

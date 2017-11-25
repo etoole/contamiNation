@@ -1,0 +1,32 @@
+{
+    "PWS ID": "MT0003041",
+    "PWS Name": "CUSTER CO WATER AND SEWER DIST",
+    "City": "MILES CITY",
+    "State": "Montana",
+    "Compliance Status": "Returned to Compliance on 08/19/09",
+    "Service Connections": "308",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "308"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "308"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "308"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "308"
+    }
+}

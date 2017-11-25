@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OR4100324",
+    "PWS Name": "KERNVILLE-GLENEDEN-LINC BCH WD",
+    "City": "GLENEDEN BEACH",
+    "State": "Oregon",
+    "Compliance Status": "Returned to Compliance on 08/31/94",
+    "Service Connections": "2358",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2358"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2358"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2358"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2358"
+    }
+}

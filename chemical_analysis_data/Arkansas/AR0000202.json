@@ -1,0 +1,32 @@
+{
+    "PWS ID": "AR0000202",
+    "PWS Name": "PLEASANT VIEW WATER FAC BOARD",
+    "City": "MULBERRY",
+    "State": "Arkansas",
+    "Compliance Status": "Returned to Compliance on 06/27/17",
+    "Service Connections": "675",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "370 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "675"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "370 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "683"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "370 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "683"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "370 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "683"
+    }
+}

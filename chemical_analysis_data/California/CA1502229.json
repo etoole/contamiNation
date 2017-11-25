@@ -1,0 +1,50 @@
+{
+    "PWS ID": "CA1502229",
+    "PWS Name": "RIO BRAVO GREELEY SCHOOL WATER SYSTEM",
+    "City": "BAKERSFIELD",
+    "State": "California",
+    "Compliance Status": "Returned to Compliance on 06/02/16",
+    "Service Connections": "16",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "16"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "16"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "16"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "16"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "16"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "16"
+    },
+    "Result no.7": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "16"
+    }
+}

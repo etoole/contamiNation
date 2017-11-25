@@ -1,0 +1,32 @@
+{
+    "PWS ID": "KS2020510",
+    "PWS Name": "WILSON CO RWD 10",
+    "City": "CHANUTE",
+    "State": "Kansas",
+    "Compliance Status": "Returned to Compliance on 03/06/13",
+    "Service Connections": "340",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "340"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "340"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "340"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "340"
+    }
+}

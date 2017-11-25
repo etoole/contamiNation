@@ -1,0 +1,14 @@
+{
+    "PWS ID": "OR4101419",
+    "PWS Name": "EAGLE CREEK MOBILE ESTATES",
+    "City": "EAGLE CREEK",
+    "State": "Oregon",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "16",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/19",
+        "Service Connections": "16"
+    }
+}

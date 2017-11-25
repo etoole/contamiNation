@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OK3006648",
+    "PWS Name": "ROGERS CO RWD #12",
+    "City": "OWASSO",
+    "State": "Oklahoma",
+    "Compliance Status": "Returned to Compliance on 08/04/16",
+    "Service Connections": "76",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "76"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "76"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "76"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "76"
+    }
+}

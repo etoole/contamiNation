@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WV3305206",
+    "PWS Name": "GRANDVIEW - DOOLIN PSD",
+    "City": "PROCTOR",
+    "State": "West Virginia",
+    "Compliance Status": "Returned to Compliance on 02/19/16",
+    "Service Connections": "816",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "10 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "816"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "10 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "816"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "10 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "816"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "10 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "816"
+    }
+}

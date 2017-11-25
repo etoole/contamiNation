@@ -1,0 +1,20 @@
+{
+    "PWS ID": "TX1012739",
+    "PWS Name": "GRACE PASADENA CATALYST SITE",
+    "City": "PASADENA",
+    "State": "Texas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "6",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1500 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "6"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1500 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "6"
+    }
+}

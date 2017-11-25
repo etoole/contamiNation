@@ -1,0 +1,32 @@
+{
+    "PWS ID": "TN0000422",
+    "PWS Name": "MCLEMORESVILLE WATER DEPT",
+    "City": "MCLEMORESVILLE",
+    "State": "Tennessee",
+    "Compliance Status": "Returned to Compliance on 12/06/94",
+    "Service Connections": "161",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "161"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "161"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "161"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "161"
+    }
+}

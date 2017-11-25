@@ -1,0 +1,26 @@
+{
+    "PWS ID": "IN5250004",
+    "PWS Name": "CULVER EDUCATIONAL FOUNDATION",
+    "City": "CULVER",
+    "State": "Indiana",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "50",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1970 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "50"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1970 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "50"
+    },
+    "Result no.3": {
+        "Contaminant": "COPPER",
+        "Concentration": "1970 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "50"
+    }
+}

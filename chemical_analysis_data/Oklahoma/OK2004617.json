@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OK2004617",
+    "PWS Name": "SPRING COVE RESORTS",
+    "City": "SALINA",
+    "State": "Oklahoma",
+    "Compliance Status": "Returned to Compliance on 08/20/01",
+    "Service Connections": "90",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "90"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "90"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "90"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "90"
+    }
+}

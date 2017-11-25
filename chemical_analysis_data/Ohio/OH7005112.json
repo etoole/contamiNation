@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OH7005112",
+    "PWS Name": "WILLOW PARK WATER ASSOCIATION",
+    "City": "MANSFIELD",
+    "State": "Ohio",
+    "Compliance Status": "Returned to Compliance on 01/29/16",
+    "Service Connections": "46",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "46"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "46"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "46"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "46"
+    }
+}

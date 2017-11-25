@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NJ0436002",
+    "PWS Name": "ELMTOWNE VILLAGE  ASSOC SYS 1",
+    "City": "WINSLOW TOWNSHIP",
+    "State": "New Jersey",
+    "Compliance Status": "Returned to Compliance on 08/28/05",
+    "Service Connections": "70",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "70"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "70"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "70"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "70"
+    }
+}

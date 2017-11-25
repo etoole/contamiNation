@@ -1,0 +1,26 @@
+{
+    "PWS ID": "WA5318440",
+    "PWS Name": "DEER LAKE ESTATES",
+    "City": "Oak Harbor",
+    "State": "Washington",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "25",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "25"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "25"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "25"
+    }
+}

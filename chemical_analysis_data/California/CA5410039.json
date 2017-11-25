@@ -1,0 +1,32 @@
+{
+    "PWS ID": "CA5410039",
+    "PWS Name": "PLAINVIEW MUTUAL WATER COMPANY",
+    "City": "STRATHMORE",
+    "State": "California",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "187",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "13 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "187"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "13 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "187"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "13 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "187"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "13 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "187"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "CA5510033",
+    "PWS Name": "TUD-SCENIC VIEW/SCENIC BROOK",
+    "City": "SONORA",
+    "State": "California",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "272",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "272"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "271"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "272"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "272"
+    }
+}

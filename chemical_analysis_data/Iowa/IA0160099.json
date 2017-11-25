@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IA0160099",
+    "PWS Name": "ORIENT MUNICIPAL WATER SUPPLY",
+    "City": "ORIENT",
+    "State": "Iowa",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "173",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "173"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "173"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "173"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "173"
+    }
+}

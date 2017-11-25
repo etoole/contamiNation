@@ -1,0 +1,14 @@
+{
+    "PWS ID": "AZ0404044",
+    "PWS Name": "PINE CREEK CANYON DWID",
+    "City": "PINE",
+    "State": "Arizona",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "97",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "97"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "PWS ID": "KY1110019",
+    "PWS Name": "BARKLEY LAKE WATER DISTRICT",
+    "City": "CADIZ",
+    "State": "Kentucky",
+    "Compliance Status": "Returned to Compliance on 03/12/04",
+    "Service Connections": "5310",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "5310"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "5310"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "5310"
+    }
+}

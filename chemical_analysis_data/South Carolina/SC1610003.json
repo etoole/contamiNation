@@ -1,0 +1,32 @@
+{
+    "PWS ID": "SC1610003",
+    "PWS Name": "HARTSVILLE CITY OF (1610003)",
+    "City": "HARTSVILLE",
+    "State": "South Carolina",
+    "Compliance Status": "Returned to Compliance on 03/15/94",
+    "Service Connections": "4142",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "4142"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "4142"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "4142"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "4142"
+    }
+}

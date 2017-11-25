@@ -1,0 +1,32 @@
+{
+    "PWS ID": "SC0750013",
+    "PWS Name": "HARBOR ISLAND (0750013)",
+    "City": "ST HELENA",
+    "State": "South Carolina",
+    "Compliance Status": "Returned to Compliance on 08/29/06",
+    "Service Connections": "463",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "463"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "463"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "463"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "463"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "PWS ID": "KY0512406",
+    "PWS Name": "CENTURY ALUMINUM SEBREE LLC",
+    "City": "ROBARDS",
+    "State": "Kentucky",
+    "Compliance Status": "Returned to Compliance on 06/29/00",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    }
+}

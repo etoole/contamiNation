@@ -1,0 +1,32 @@
+{
+    "PWS ID": "TN0000263",
+    "PWS Name": "GIBSON WATER DEPT",
+    "City": "GIBSON",
+    "State": "Tennessee",
+    "Compliance Status": "Returned to Compliance on 12/07/94",
+    "Service Connections": "192",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "192"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "192"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "192"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "192"
+    }
+}

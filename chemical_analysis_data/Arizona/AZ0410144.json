@@ -1,0 +1,14 @@
+{
+    "PWS ID": "AZ0410144",
+    "PWS Name": "RINCON WATER COMPANY",
+    "City": "SAHUARITA",
+    "State": "Arizona",
+    "Compliance Status": "Returned to Compliance on 12/06/06",
+    "Service Connections": "72",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "72"
+    }
+}

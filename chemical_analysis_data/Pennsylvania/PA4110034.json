@@ -1,0 +1,26 @@
+{
+    "PWS ID": "PA4110034",
+    "PWS Name": "GREATER JOHNSTOWN WA RIVERSIDE",
+    "City": "JOHNSTOWN",
+    "State": "Pennsylvania",
+    "Compliance Status": "Returned to Compliance on 01/18/17",
+    "Service Connections": "21569",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "21569"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "21569"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "21569"
+    }
+}

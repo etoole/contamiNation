@@ -1,0 +1,32 @@
+{
+    "PWS ID": "AK2280171",
+    "PWS Name": "ANVIK WATER SYSTEM",
+    "City": "ANVIK",
+    "State": "Alaska",
+    "Compliance Status": "Returned to Compliance on 04/21/07",
+    "Service Connections": "3",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "3"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "3"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "3"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "3"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OR4194923",
+    "PWS Name": "OAK HILL SCHOOL",
+    "City": "EUGENE",
+    "State": "Oregon",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    }
+}

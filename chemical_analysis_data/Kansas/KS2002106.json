@@ -1,0 +1,32 @@
+{
+    "PWS ID": "KS2002106",
+    "PWS Name": "CHEROKEE CO RWD 2",
+    "City": "RIVERTON",
+    "State": "Kansas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "401",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "401"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "401"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "401"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "401"
+    }
+}

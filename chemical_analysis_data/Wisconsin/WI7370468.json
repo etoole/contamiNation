@@ -1,0 +1,44 @@
+{
+    "PWS ID": "WI7370468",
+    "PWS Name": "MAPLE GROVE ELEM SCHOOL",
+    "City": "Merrill",
+    "State": "Wisconsin",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "1"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "1"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "1"
+    }
+}

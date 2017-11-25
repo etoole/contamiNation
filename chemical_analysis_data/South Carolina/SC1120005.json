@@ -1,0 +1,32 @@
+{
+    "PWS ID": "SC1120005",
+    "PWS Name": "MACEDONIA WATER WORKS INC (1120005)",
+    "City": "GAFFNEY",
+    "State": "South Carolina",
+    "Compliance Status": "Returned to Compliance on 12/31/15",
+    "Service Connections": "1007",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1007"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1007"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1007"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1007"
+    }
+}

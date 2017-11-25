@@ -1,0 +1,26 @@
+{
+    "PWS ID": "MO6170733",
+    "PWS Name": "ST ALPHONSUS SCHOOL",
+    "City": "SILEX",
+    "State": "Missouri",
+    "Compliance Status": "Returned to Compliance on 06/30/95",
+    "Service Connections": "3",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3"
+    }
+}

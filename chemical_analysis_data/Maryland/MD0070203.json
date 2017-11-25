@@ -1,0 +1,32 @@
+{
+    "PWS ID": "MD0070203",
+    "PWS Name": "GRAYMOUNT APARTMENTS",
+    "City": "PERRYVILLE",
+    "State": "Maryland",
+    "Compliance Status": "Returned to Compliance on 08/12/16",
+    "Service Connections": "4",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "4"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "4"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "4"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "4"
+    }
+}

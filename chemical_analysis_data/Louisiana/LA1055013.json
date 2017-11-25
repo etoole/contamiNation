@@ -1,0 +1,32 @@
+{
+    "PWS ID": "LA1055013",
+    "PWS Name": "G AND R MOBILE HOME PARK WATER SYSTEM",
+    "City": "SCOTT",
+    "State": "Louisiana",
+    "Compliance Status": "Returned to Compliance on 06/30/95",
+    "Service Connections": "53",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "53"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "53"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "53"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "53"
+    }
+}

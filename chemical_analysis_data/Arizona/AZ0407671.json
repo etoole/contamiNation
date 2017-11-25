@@ -1,0 +1,26 @@
+{
+    "PWS ID": "AZ0407671",
+    "PWS Name": "PEEKABOO WATER COOP",
+    "City": "GILBERT",
+    "State": "Arizona",
+    "Compliance Status": "Returned to Compliance on 09/03/15",
+    "Service Connections": "26",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "26"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "26"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "26"
+    }
+}

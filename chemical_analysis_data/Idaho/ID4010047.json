@@ -1,0 +1,32 @@
+{
+    "PWS ID": "ID4010047",
+    "PWS Name": "EAGLE GLEN HOMEOWNERS ASSN INC",
+    "City": "BOISE",
+    "State": "Idaho",
+    "Compliance Status": "Returned to Compliance on 02/12/04",
+    "Service Connections": "14",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "14"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "14"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "14"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "14"
+    }
+}

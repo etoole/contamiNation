@@ -1,0 +1,26 @@
+{
+    "PWS ID": "OR4100244",
+    "PWS Name": "CRESCENT WTR SUPPLY & IMPR DIST",
+    "City": "CRESCENT",
+    "State": "Oregon",
+    "Compliance Status": "Returned to Compliance on 05/30/96",
+    "Service Connections": "315",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "315"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "315"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "315"
+    }
+}

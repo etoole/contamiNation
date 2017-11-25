@@ -1,0 +1,14 @@
+{
+    "PWS ID": "AZ0413034",
+    "PWS Name": "HIGHLAND PINE DWID",
+    "City": "PRESCOTT",
+    "State": "Arizona",
+    "Compliance Status": "Returned to Compliance on 09/30/11",
+    "Service Connections": "320",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "320"
+    }
+}

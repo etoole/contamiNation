@@ -1,0 +1,26 @@
+{
+    "PWS ID": "PA3130978",
+    "PWS Name": "PSP LEHIGHTON BARRACKS",
+    "City": "BROADHEADSVILLE",
+    "State": "Pennsylvania",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1608 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1433 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "COPPER",
+        "Concentration": "1433 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "1"
+    }
+}

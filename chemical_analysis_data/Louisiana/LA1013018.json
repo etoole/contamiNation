@@ -1,0 +1,32 @@
+{
+    "PWS ID": "LA1013018",
+    "PWS Name": "MOUNT CALM WATER SYSTEM",
+    "City": "SIMSBORO",
+    "State": "Louisiana",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "114",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "114"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "114"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "114"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "114"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "KY0080442",
+    "PWS Name": "WALTON WATERWORKS DEPARTMENT",
+    "City": "WALTON",
+    "State": "Kentucky",
+    "Compliance Status": "Returned to Compliance on 05/11/98",
+    "Service Connections": "1405",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1405"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1405"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1405"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1405"
+    }
+}

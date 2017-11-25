@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WA5308136",
+    "PWS Name": "DALLESPORT MOBILE HOME PARK",
+    "City": "Goldendale",
+    "State": "Washington",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "49",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "49"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "49"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "49"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "49"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "PWS ID": "NM3509029",
+    "PWS Name": "LA LOMITA TRAILER PARK",
+    "City": "TAOS",
+    "State": "New Mexico",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "34",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "28 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "34"
+    }
+}

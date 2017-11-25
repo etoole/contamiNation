@@ -1,0 +1,26 @@
+{
+    "PWS ID": "WY5601327",
+    "PWS Name": "MOUNTAIN CEMENT COMPANY",
+    "City": "LARAMIE",
+    "State": "Wyoming",
+    "Compliance Status": "Returned to Compliance on 01/03/13",
+    "Service Connections": "6",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "6"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "6"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "6"
+    }
+}

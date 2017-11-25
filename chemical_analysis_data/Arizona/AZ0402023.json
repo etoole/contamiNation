@@ -1,0 +1,32 @@
+{
+    "PWS ID": "AZ0402023",
+    "PWS Name": "SOUTHERN SUNRISE WC MIRACLE VALLEY",
+    "City": "SIERRA VISTA",
+    "State": "Arizona",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "318",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "318"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "318"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "276"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "276"
+    }
+}

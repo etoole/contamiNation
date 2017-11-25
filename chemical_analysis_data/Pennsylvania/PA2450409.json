@@ -1,0 +1,38 @@
+{
+    "PWS ID": "PA2450409",
+    "PWS Name": "BURNLEY WORKSHOP",
+    "City": "STROUDSBURG",
+    "State": "Pennsylvania",
+    "Compliance Status": "Returned to Compliance on 02/27/17",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "5290 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "5290 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "457 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "457 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "457 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1"
+    }
+}

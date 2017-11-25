@@ -1,0 +1,26 @@
+{
+    "PWS ID": "CA3310028",
+    "PWS Name": "RIVERSIDE CSA #122-MESA VERDE",
+    "City": "BLYTHE",
+    "State": "California",
+    "Compliance Status": "Returned to Compliance on 07/24/02",
+    "Service Connections": "322",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "322"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "322"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "322"
+    }
+}

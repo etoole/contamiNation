@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WA5380798",
+    "PWS Name": "Taggares Fruit Co",
+    "City": "Burbank",
+    "State": "Washington",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "4",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "10 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "4"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "10 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "4"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "10 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "4"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "10 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "4"
+    }
+}

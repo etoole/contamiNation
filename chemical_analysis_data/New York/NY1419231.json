@@ -1,0 +1,56 @@
+{
+    "PWS ID": "NY1419231",
+    "PWS Name": "HOLLAND HILLS APARTMENTS",
+    "City": "ORCHARD PARK",
+    "State": "New York",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "30",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "30"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "30"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "30"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "30"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "30"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "30"
+    },
+    "Result no.7": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "30"
+    },
+    "Result no.8": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "30"
+    }
+}

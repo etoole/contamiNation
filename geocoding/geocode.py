@@ -55,6 +55,7 @@ with open(os.path.join(os.path.abspath('..'),'detail_results_comp_updated.json')
                                   "properties": {
                                     "name": result['PWS Name'],
                                     "pwsid": result['PWS ID'],
+                                    "population": result['Population Count'],
                                     "markercolor": result['Marker Color']
                                   }
                                 }
@@ -81,6 +82,7 @@ with open(os.path.join(os.path.abspath('..'),'detail_results_comp_updated.json')
                                   "properties": {
                                     "name": result['PWS Name'],
                                     "pwsid": result['PWS ID'],
+                                    "population": result['Population Count'],
                                     "markercolor": result['Marker Color']
                                   }
                                 }

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WV3301402",
+    "PWS Name": "TOWN OF CAPON BRIDGE INC",
+    "City": "CAPON BRIDGE",
+    "State": "West Virginia",
+    "Compliance Status": "Returned to Compliance on 03/31/97",
+    "Service Connections": "290",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "290"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "290"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "290"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "290"
+    }
+}

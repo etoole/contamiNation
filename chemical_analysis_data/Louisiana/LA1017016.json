@@ -1,0 +1,32 @@
+{
+    "PWS ID": "LA1017016",
+    "PWS Name": "HOSSTON MIRA WATER SYSTEM",
+    "City": "HOSSTON",
+    "State": "Louisiana",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "268",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "268"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "220"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "220"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "220"
+    }
+}

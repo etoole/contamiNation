@@ -1,0 +1,26 @@
+{
+    "PWS ID": "TX1011798",
+    "PWS Name": "WEST HARRIS COUNTY MUD 9",
+    "City": "HOUSTON",
+    "State": "Texas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1975",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1975"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1975"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1975"
+    }
+}

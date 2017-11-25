@@ -1,0 +1,26 @@
+{
+    "PWS ID": "MO5036048",
+    "PWS Name": "CEDARIDGE ESTATES",
+    "City": "REEDS SPRING",
+    "State": "Missouri",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "78",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "78"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "78"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "78"
+    }
+}

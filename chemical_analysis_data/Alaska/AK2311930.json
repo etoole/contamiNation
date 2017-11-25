@@ -1,0 +1,32 @@
+{
+    "PWS ID": "AK2311930",
+    "PWS Name": "BOWERS INVESTMENT CO. LLC  BLDG.",
+    "City": "FAIRBANKS",
+    "State": "Alaska",
+    "Compliance Status": "Returned to Compliance on 09/28/00",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1"
+    }
+}

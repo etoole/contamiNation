@@ -1,0 +1,62 @@
+{
+    "PWS ID": "FL6296261",
+    "PWS Name": "MONROE'S BUSINESS PARK",
+    "City": "TAMPA",
+    "State": "Florida",
+    "Compliance Status": "Returned to Compliance on 07/28/16",
+    "Service Connections": "15",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/16",
+        "Service Connections": "15"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/16",
+        "Service Connections": "15"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/16",
+        "Service Connections": "15"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/01/16",
+        "Service Connections": "15"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/01/16",
+        "Service Connections": "15"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/01/16",
+        "Service Connections": "15"
+    },
+    "Result no.7": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "15"
+    },
+    "Result no.8": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "15"
+    },
+    "Result no.9": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "15"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "PWS ID": "OK3007403",
+    "PWS Name": "WASHINGTON CO RWD #2",
+    "City": "OCHELATA",
+    "State": "Oklahoma",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "900",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "900"
+    }
+}

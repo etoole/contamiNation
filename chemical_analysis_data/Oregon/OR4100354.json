@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OR4100354",
+    "PWS Name": "RIVER HAVEN MOBILE HOME ESTATES",
+    "City": "GRANTS PASS",
+    "State": "Oregon",
+    "Compliance Status": "Returned to Compliance on 10/17/06",
+    "Service Connections": "78",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "78"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "76"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "76"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "76"
+    }
+}

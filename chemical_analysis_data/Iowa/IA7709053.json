@@ -1,0 +1,38 @@
+{
+    "PWS ID": "IA7709053",
+    "PWS Name": "ANKENY, CITY OF",
+    "City": "ANKENY",
+    "State": "Iowa",
+    "Compliance Status": "Returned to Compliance on 09/11/96",
+    "Service Connections": "18090",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "18090"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "18090"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "18090"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "18090"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "18090"
+    }
+}

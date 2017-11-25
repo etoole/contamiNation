@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OR4100418",
+    "PWS Name": "JUNCTION CITY WATER UTILITIES",
+    "City": "JUNCTION CITY",
+    "State": "Oregon",
+    "Compliance Status": "Returned to Compliance on 10/17/00",
+    "Service Connections": "2280",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2280"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2280"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2280"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2280"
+    }
+}

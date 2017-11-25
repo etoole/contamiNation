@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NC0464117",
+    "PWS Name": "RED OAK ELEMENTARY SCHOOL",
+    "City": "NASHVILLE",
+    "State": "North Carolina",
+    "Compliance Status": "Returned to Compliance on 06/12/97",
+    "Service Connections": "6",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "6"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "6"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "6"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "6"
+    }
+}

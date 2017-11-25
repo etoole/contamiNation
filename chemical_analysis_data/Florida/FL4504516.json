@@ -1,0 +1,50 @@
+{
+    "PWS ID": "FL4504516",
+    "PWS Name": "PALM BEACH PARK OF COMMERCE",
+    "City": "JUPITER",
+    "State": "Florida",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "23",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "06/01/17",
+        "Service Connections": "23"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/01/16",
+        "Service Connections": "23"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/01/16",
+        "Service Connections": "23"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/01/16",
+        "Service Connections": "23"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "06/01/15",
+        "Service Connections": "23"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "06/01/15",
+        "Service Connections": "23"
+    },
+    "Result no.7": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "06/01/15",
+        "Service Connections": "23"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "PWS ID": "TX1012071",
+    "PWS Name": "NORTHWEST HARRIS COUNTY MUD 24",
+    "City": "HOUSTON",
+    "State": "Texas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "414",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "19 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "414"
+    }
+}

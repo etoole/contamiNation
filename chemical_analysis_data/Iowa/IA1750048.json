@@ -1,0 +1,26 @@
+{
+    "PWS ID": "IA1750048",
+    "PWS Name": "MASON CITY WATER DEPARTMENT",
+    "City": "MASON CITY",
+    "State": "Iowa",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "11772",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "11772"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "10930"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "10930"
+    }
+}

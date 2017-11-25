@@ -1,0 +1,32 @@
+{
+    "PWS ID": "CA3400352",
+    "PWS Name": "ACORN MOBILE VILLAGE",
+    "City": "EL DORADO",
+    "State": "California",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "56",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "56"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "56"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "56"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "56"
+    }
+}

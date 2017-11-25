@@ -1,0 +1,200 @@
+{
+    "PWS ID": "CA3710051",
+    "PWS Name": "DHS BOULEVARD BORDER PATROL",
+    "City": "LAGUNA NIGUEL",
+    "State": "California",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "2",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1430 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1430 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2"
+    },
+    "Result no.3": {
+        "Contaminant": "COPPER",
+        "Concentration": "1430 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "4"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "4"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "4"
+    },
+    "Result no.7": {
+        "Contaminant": "COPPER",
+        "Concentration": "1460 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "2"
+    },
+    "Result no.8": {
+        "Contaminant": "COPPER",
+        "Concentration": "1460 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "2"
+    },
+    "Result no.9": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "2"
+    },
+    "Result no.10": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "2"
+    },
+    "Result no.11": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "4"
+    },
+    "Result no.12": {
+        "Contaminant": "COPPER",
+        "Concentration": "1630 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2"
+    },
+    "Result no.13": {
+        "Contaminant": "COPPER",
+        "Concentration": "1630 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2"
+    },
+    "Result no.14": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "4"
+    },
+    "Result no.15": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2"
+    },
+    "Result no.16": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2"
+    },
+    "Result no.17": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "4"
+    },
+    "Result no.18": {
+        "Contaminant": "COPPER",
+        "Concentration": "2700 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "2"
+    },
+    "Result no.19": {
+        "Contaminant": "COPPER",
+        "Concentration": "2700 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "2"
+    },
+    "Result no.20": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "4"
+    },
+    "Result no.21": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "2"
+    },
+    "Result no.22": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "2"
+    },
+    "Result no.23": {
+        "Contaminant": "COPPER",
+        "Concentration": "1680 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2"
+    },
+    "Result no.24": {
+        "Contaminant": "COPPER",
+        "Concentration": "1680 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2"
+    },
+    "Result no.25": {
+        "Contaminant": "COPPER",
+        "Concentration": "1680 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2"
+    },
+    "Result no.26": {
+        "Contaminant": "COPPER",
+        "Concentration": "1680 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2"
+    },
+    "Result no.27": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "4"
+    },
+    "Result no.28": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "4"
+    },
+    "Result no.29": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2"
+    },
+    "Result no.30": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2"
+    },
+    "Result no.31": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2"
+    },
+    "Result no.32": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2"
+    }
+}

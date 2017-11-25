@@ -1,0 +1,26 @@
+{
+    "PWS ID": "WI4080268",
+    "PWS Name": "LAKEVIEW ESTATES MHP",
+    "City": "MILWAUKEE",
+    "State": "Wisconsin",
+    "Compliance Status": "Returned to Compliance on 01/10/13",
+    "Service Connections": "43",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "43"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "43"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "43"
+    }
+}

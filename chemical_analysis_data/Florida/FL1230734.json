@@ -1,0 +1,26 @@
+{
+    "PWS ID": "FL1230734",
+    "PWS Name": "WEWAHITCHKA, CITY OF",
+    "City": "WEWAHITCHKA",
+    "State": "Florida",
+    "Compliance Status": "Returned to Compliance on 08/10/01",
+    "Service Connections": "1009",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "1009"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "1009"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "1009"
+    }
+}

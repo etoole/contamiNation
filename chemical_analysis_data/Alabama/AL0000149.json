@@ -1,0 +1,20 @@
+{
+    "PWS ID": "AL0000149",
+    "PWS Name": "HOBSON CITY WATER SYSTEM",
+    "City": "HOBSON CITY",
+    "State": "Alabama",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "247",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "247"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "247"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "CA5400710",
+    "PWS Name": "BADGER HILL ESTATES",
+    "City": "EXETER",
+    "State": "California",
+    "Compliance Status": "Returned to Compliance on 12/31/03",
+    "Service Connections": "95",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "95"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "77"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "95"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "95"
+    }
+}

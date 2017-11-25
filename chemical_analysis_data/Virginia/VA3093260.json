@@ -1,0 +1,26 @@
+{
+    "PWS ID": "VA3093260",
+    "PWS Name": "GATLING POINTE",
+    "City": "ISLE OF WIGHT",
+    "State": "Virginia",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "588",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "588"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "585"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "588"
+    }
+}

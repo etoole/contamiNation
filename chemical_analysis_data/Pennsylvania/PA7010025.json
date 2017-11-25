@@ -1,0 +1,26 @@
+{
+    "PWS ID": "PA7010025",
+    "PWS Name": "NEW OXFORD MUNCI AUTH",
+    "City": "NEW OXFORD",
+    "State": "Pennsylvania",
+    "Compliance Status": "Returned to Compliance on 02/20/08",
+    "Service Connections": "1575",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1575"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1575"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1575"
+    }
+}

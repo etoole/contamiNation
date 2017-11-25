@@ -1,0 +1,14 @@
+{
+    "PWS ID": "OK1020616",
+    "PWS Name": "PITTSBURG CO. WATER AUTHORITY",
+    "City": "MCALESTER",
+    "State": "Oklahoma",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "3",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "3"
+    }
+}

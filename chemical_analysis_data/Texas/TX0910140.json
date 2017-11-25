@@ -1,0 +1,32 @@
+{
+    "PWS ID": "TX0910140",
+    "PWS Name": "MUNSON POINT PROPERTY OWNERS ASSOCIATION",
+    "City": "DENISON",
+    "State": "Texas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "13",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1600 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "13"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1600 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "13"
+    },
+    "Result no.3": {
+        "Contaminant": "COPPER",
+        "Concentration": "1400 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "13"
+    },
+    "Result no.4": {
+        "Contaminant": "COPPER",
+        "Concentration": "1400 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "13"
+    }
+}

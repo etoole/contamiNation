@@ -1,0 +1,32 @@
+{
+    "PWS ID": "KS2117502",
+    "PWS Name": "NATIONAL BEEF PACKING CO LLC LIBERAL",
+    "City": "LIBERAL",
+    "State": "Kansas",
+    "Compliance Status": "Returned to Compliance on 10/01/10",
+    "Service Connections": "1095",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1095"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1095"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1095"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1095"
+    }
+}

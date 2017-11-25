@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OH2501303",
+    "PWS Name": "GAHANNA CITY PWS",
+    "City": "GAHANNA",
+    "State": "Ohio",
+    "Compliance Status": "Returned to Compliance on 10/16/97",
+    "Service Connections": "10509",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "10509"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "10509"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "10509"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "10509"
+    }
+}

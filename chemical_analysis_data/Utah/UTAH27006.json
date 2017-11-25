@@ -1,0 +1,26 @@
+{
+    "PWS ID": "UTAH27006",
+    "PWS Name": "HILDALE - COLORADO CITY",
+    "City": "HILDALE",
+    "State": "Utah",
+    "Compliance Status": "Returned to Compliance on 01/28/15",
+    "Service Connections": "937",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "937"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "937"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "937"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "PWS ID": "UTAH27049",
+    "PWS Name": "WINCHESTER HILLS WATER CO",
+    "City": "ST GEORGE",
+    "State": "Utah",
+    "Compliance Status": "Returned to Compliance on 09/24/15",
+    "Service Connections": "364",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "364"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "364"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "364"
+    }
+}

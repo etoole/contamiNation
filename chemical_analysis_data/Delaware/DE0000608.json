@@ -1,0 +1,74 @@
+{
+    "PWS ID": "DE0000608",
+    "PWS Name": "CHERRY CREEK VALLEY",
+    "City": "REHOBOTH BEACH",
+    "State": "Delaware",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "34",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "34"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "34"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "34"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "34"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "10 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "34"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "10 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "34"
+    },
+    "Result no.7": {
+        "Contaminant": "LEAD",
+        "Concentration": "10 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "34"
+    },
+    "Result no.8": {
+        "Contaminant": "LEAD",
+        "Concentration": "10 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "34"
+    },
+    "Result no.9": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "34"
+    },
+    "Result no.10": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "34"
+    },
+    "Result no.11": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "34"
+    }
+}

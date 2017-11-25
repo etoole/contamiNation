@@ -1,0 +1,32 @@
+{
+    "PWS ID": "ME0007001",
+    "PWS Name": "DUCK-A-WAY ON CASCO BAY",
+    "City": "PORTLAND",
+    "State": "Maine",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "26",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "26"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "26"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "26"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "26"
+    }
+}

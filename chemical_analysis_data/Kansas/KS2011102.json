@@ -1,0 +1,32 @@
+{
+    "PWS ID": "KS2011102",
+    "PWS Name": "ALLEN, CITY OF",
+    "City": "ALLEN",
+    "State": "Kansas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "85",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "85"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "85"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "85"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "85"
+    }
+}

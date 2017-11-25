@@ -1,0 +1,32 @@
+{
+    "PWS ID": "ID4010106",
+    "PWS Name": "NORTH HILLS MOBILE VILLAGE",
+    "City": "BOISE",
+    "State": "Idaho",
+    "Compliance Status": "Returned to Compliance on 12/31/97",
+    "Service Connections": "16",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "16"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "16"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "16"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "16"
+    }
+}

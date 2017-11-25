@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WA5374100",
+    "PWS Name": "KITTITAS CO WD #2",
+    "City": "Ronald",
+    "State": "Washington",
+    "Compliance Status": "Returned to Compliance on 12/31/13",
+    "Service Connections": "117",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "117"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "117"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "117"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "117"
+    }
+}

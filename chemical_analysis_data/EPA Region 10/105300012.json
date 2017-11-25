@@ -1,0 +1,32 @@
+{
+    "PWS ID": "105300012",
+    "PWS Name": "MAKAH",
+    "City": "NEAH BAY",
+    "State": "EPA Region 10",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "678",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "678"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "678"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "678"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "678"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "GA0310198",
+    "PWS Name": "HERITAGE MOBILE HOME PARK",
+    "City": "STATESBORO",
+    "State": "Georgia",
+    "Compliance Status": "Returned to Compliance on 07/17/01",
+    "Service Connections": "139",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "139"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "139"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "139"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "139"
+    }
+}

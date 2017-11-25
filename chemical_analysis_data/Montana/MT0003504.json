@@ -1,0 +1,26 @@
+{
+    "PWS ID": "MT0003504",
+    "PWS Name": "IMERYS TALC AMERICA INC",
+    "City": "THREE FORKS",
+    "State": "Montana",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "2",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2"
+    }
+}

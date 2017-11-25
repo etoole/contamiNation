@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WV3303116",
+    "PWS Name": "STAR CITY TOWN OF",
+    "City": "STAR CITY",
+    "State": "West Virginia",
+    "Compliance Status": "Returned to Compliance on 08/18/14",
+    "Service Connections": "931",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "931"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "931"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "931"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "931"
+    }
+}

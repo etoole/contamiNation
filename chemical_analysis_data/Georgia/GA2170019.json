@@ -1,0 +1,32 @@
+{
+    "PWS ID": "GA2170019",
+    "PWS Name": "COVINGTON ESTATES, LLC",
+    "City": "HAYWARD",
+    "State": "Georgia",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "32",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "19 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "32"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "19 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "32"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "19 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "32"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "19 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "32"
+    }
+}

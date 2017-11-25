@@ -1,0 +1,32 @@
+{
+    "PWS ID": "SC3010001",
+    "PWS Name": "LAURENS CPW (3010001)",
+    "City": "LAURENS",
+    "State": "South Carolina",
+    "Compliance Status": "Returned to Compliance on 10/12/94",
+    "Service Connections": "6393",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "6393"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "6393"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "6393"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "6393"
+    }
+}

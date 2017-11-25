@@ -1,0 +1,32 @@
+{
+    "PWS ID": "VT0005191",
+    "PWS Name": "COVENTRY FIRE DISTRICT 1",
+    "City": "COVENTRY",
+    "State": "Vermont",
+    "Compliance Status": "Returned to Compliance on 06/23/15",
+    "Service Connections": "68",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "68"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "68"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "68"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "68"
+    }
+}

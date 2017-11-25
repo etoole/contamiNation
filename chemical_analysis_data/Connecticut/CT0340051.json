@@ -1,0 +1,26 @@
+{
+    "PWS ID": "CT0340051",
+    "PWS Name": "DANBURY WATER DEPT-RIDGEVIEW GARDENS",
+    "City": "DANBURY",
+    "State": "Connecticut",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "29",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "29"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "29"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "29"
+    }
+}

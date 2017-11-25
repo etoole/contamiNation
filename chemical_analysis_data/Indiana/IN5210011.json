@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IN5210011",
+    "PWS Name": "SILVER CREEK WATER CORPORATION",
+    "City": "SELLERSBURG",
+    "State": "Indiana",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "7221",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "7221"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "7221"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "7221"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "7221"
+    }
+}

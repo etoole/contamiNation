@@ -1,0 +1,32 @@
+{
+    "PWS ID": "UTAH05036",
+    "PWS Name": "DOMINION ENERGY - CLAY BASIN CAMP",
+    "City": "SALT LAKE CITY",
+    "State": "Utah",
+    "Compliance Status": "Returned to Compliance on 12/01/15",
+    "Service Connections": "19",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "19"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "19"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "19"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "19"
+    }
+}

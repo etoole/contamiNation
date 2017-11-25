@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OR4100895",
+    "PWS Name": "WEST HILLS WATER COMPANY",
+    "City": "TILLAMOOK",
+    "State": "Oregon",
+    "Compliance Status": "Returned to Compliance on 10/15/07",
+    "Service Connections": "90",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "90"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "90"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "90"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "90"
+    }
+}

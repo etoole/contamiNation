@@ -1,0 +1,32 @@
+{
+    "PWS ID": "LA1063104",
+    "PWS Name": "DIVERSION WATER- WATER FRONT WEST",
+    "City": "PRAIRIEVILLE",
+    "State": "Louisiana",
+    "Compliance Status": "Returned to Compliance on 06/12/17",
+    "Service Connections": "850",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "850"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "850"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "850"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "850"
+    }
+}

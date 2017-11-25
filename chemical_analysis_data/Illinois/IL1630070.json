@@ -1,0 +1,56 @@
+{
+    "PWS ID": "IL1630070",
+    "PWS Name": "CONCORDIA WATER COOPERATIVE",
+    "City": "JERSEYVILLE",
+    "State": "Illinois",
+    "Compliance Status": "Returned to Compliance on 03/02/17",
+    "Service Connections": "170",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "170"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "170"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "170"
+    },
+    "Result no.4": {
+        "Contaminant": "COPPER",
+        "Concentration": "1724 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "170"
+    },
+    "Result no.5": {
+        "Contaminant": "COPPER",
+        "Concentration": "1724 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "170"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "61 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "170"
+    },
+    "Result no.7": {
+        "Contaminant": "LEAD",
+        "Concentration": "61 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "170"
+    },
+    "Result no.8": {
+        "Contaminant": "LEAD",
+        "Concentration": "61 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "170"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "CA1700580",
+    "PWS Name": "TWIN CREEKS MOBILE AND RV VILLAGE",
+    "City": "IRVINE",
+    "State": "California",
+    "Compliance Status": "Returned to Compliance on 07/07/16",
+    "Service Connections": "17",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "17"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "17"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "17"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "17"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "TX1810005",
+    "PWS Name": "ORANGE COUNTY WCID 1",
+    "City": "VIDOR",
+    "State": "Texas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "6774",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "6774"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "6258"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "6258"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "6258"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WA5364150",
+    "PWS Name": "ORCHARD WATER ASSOC",
+    "City": "Ferndale",
+    "State": "Washington",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "51",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "51"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "51"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "51"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "51"
+    }
+}

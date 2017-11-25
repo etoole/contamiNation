@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NY1400541",
+    "PWS Name": "ECWA WILLIAMSVILLE",
+    "City": "BUFFALO",
+    "State": "New York",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "2056",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2056"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2056"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2056"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2056"
+    }
+}

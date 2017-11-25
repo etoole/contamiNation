@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WV3302331",
+    "PWS Name": "LOGAN WATER BOARD CITY OF",
+    "City": "LOGAN",
+    "State": "West Virginia",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "2183",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2183"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1952"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1952"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1952"
+    }
+}

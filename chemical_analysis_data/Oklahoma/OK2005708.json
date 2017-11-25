@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OK2005708",
+    "PWS Name": "WYNONA",
+    "City": "WYNONA",
+    "State": "Oklahoma",
+    "Compliance Status": "Returned to Compliance on 08/17/10",
+    "Service Connections": "250",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "250"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "250"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "250"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "250"
+    }
+}

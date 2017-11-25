@@ -1,0 +1,14 @@
+{
+    "PWS ID": "ME0090145",
+    "PWS Name": "BENJAMIN RIVER APTS",
+    "City": "ORONO",
+    "State": "Maine",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "12",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "12"
+    }
+}

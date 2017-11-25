@@ -1,0 +1,38 @@
+{
+    "PWS ID": "CA4300563",
+    "PWS Name": "MT. PLEASANT WATER USERS ASSOCIATION",
+    "City": "SAN JOSE",
+    "State": "California",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "84",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "13 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "84"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "13 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "84"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "13 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "84"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "13 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "84"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "13 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "84"
+    }
+}

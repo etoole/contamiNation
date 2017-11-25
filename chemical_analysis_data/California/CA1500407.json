@@ -1,0 +1,32 @@
+{
+    "PWS ID": "CA1500407",
+    "PWS Name": "CWS-SPLIT MOUNTAIN WATER SYSTEM",
+    "City": "SAN JOSE",
+    "State": "California",
+    "Compliance Status": "Returned to Compliance on 03/01/00",
+    "Service Connections": "162",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "162"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "182"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "182"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "162"
+    }
+}

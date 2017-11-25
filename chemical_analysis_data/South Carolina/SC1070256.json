@@ -1,0 +1,26 @@
+{
+    "PWS ID": "SC1070256",
+    "PWS Name": "OYSTER PARK POA (1070256)",
+    "City": "EDISTO ISLAND",
+    "State": "South Carolina",
+    "Compliance Status": "Returned to Compliance on 11/06/15",
+    "Service Connections": "9",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "22 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "9"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "22 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "9"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "22 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "9"
+    }
+}

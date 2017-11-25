@@ -1,0 +1,26 @@
+{
+    "PWS ID": "OK3006606",
+    "PWS Name": "ROGERS CO RWD # 8",
+    "City": "CLAREMORE",
+    "State": "Oklahoma",
+    "Compliance Status": "Returned to Compliance on 08/04/16",
+    "Service Connections": "1320",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1320"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1320"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1320"
+    }
+}

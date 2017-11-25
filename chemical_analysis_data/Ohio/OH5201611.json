@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OH5201611",
+    "PWS Name": "SPENCER, VILLAGE OF",
+    "City": "SPENCER",
+    "State": "Ohio",
+    "Compliance Status": "Returned to Compliance on 10/07/97",
+    "Service Connections": "312",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "312"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "312"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "312"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "312"
+    }
+}

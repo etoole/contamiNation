@@ -1,0 +1,26 @@
+{
+    "PWS ID": "NE3100101",
+    "PWS Name": "HASTINGS, CITY OF",
+    "City": "HASTINGS",
+    "State": "Nebraska",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "9709",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "9709"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "9709"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "9709"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "PWS ID": "WI1570096",
+    "PWS Name": "NORTH FREEDOM WATERWORKS",
+    "City": "NORTH FREEDOM",
+    "State": "Wisconsin",
+    "Compliance Status": "Returned to Compliance on 01/18/16",
+    "Service Connections": "259",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "259"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "259"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "259"
+    }
+}

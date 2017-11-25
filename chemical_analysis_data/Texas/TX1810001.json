@@ -1,0 +1,32 @@
+{
+    "PWS ID": "TX1810001",
+    "PWS Name": "CITY OF BRIDGE CITY",
+    "City": "BRIDGE CITY",
+    "State": "Texas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "3618",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "3618"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "3618"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "3618"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "3618"
+    }
+}

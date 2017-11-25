@@ -1,0 +1,32 @@
+{
+    "PWS ID": "CA1900903",
+    "PWS Name": "SLEEPY VALLEY WATER COMPANY",
+    "City": "CANYON COUNTRY",
+    "State": "California",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "62",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "14 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "62"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "14 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "62"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "14 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "62"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "14 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "62"
+    }
+}

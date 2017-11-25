@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OH3100512",
+    "PWS Name": "CLEVES VILLAGE PWS",
+    "City": "CLEVES",
+    "State": "Ohio",
+    "Compliance Status": "Returned to Compliance on 08/16/95",
+    "Service Connections": "2300",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2300"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2300"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2300"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2300"
+    }
+}

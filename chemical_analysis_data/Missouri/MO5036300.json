@@ -1,0 +1,26 @@
+{
+    "PWS ID": "MO5036300",
+    "PWS Name": "OAKS HOMEOWNERS ASSN WATER DIST",
+    "City": "AURORA",
+    "State": "Missouri",
+    "Compliance Status": "Returned to Compliance on 05/18/16",
+    "Service Connections": "30",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/19",
+        "Service Connections": "30"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/19",
+        "Service Connections": "30"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/19",
+        "Service Connections": "30"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NC4064005",
+    "PWS Name": "CENTRAL NASH WATER & SEWER",
+    "City": "NASHVILLE",
+    "State": "North Carolina",
+    "Compliance Status": "Returned to Compliance on 06/30/08",
+    "Service Connections": "1924",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1924"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2010"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2010"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2010"
+    }
+}

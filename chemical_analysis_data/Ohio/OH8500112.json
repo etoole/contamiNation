@@ -1,0 +1,50 @@
+{
+    "PWS ID": "OH8500112",
+    "PWS Name": "APPLE CREEK VILLAGE PWS",
+    "City": "APPLE CREEK",
+    "State": "Ohio",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "486",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "486"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "486"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "486"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "486"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "14 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "486"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "14 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "486"
+    },
+    "Result no.7": {
+        "Contaminant": "LEAD",
+        "Concentration": "14 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "486"
+    }
+}

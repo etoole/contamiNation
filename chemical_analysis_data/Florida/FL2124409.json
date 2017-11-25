@@ -1,0 +1,14 @@
+{
+    "PWS ID": "FL2124409",
+    "PWS Name": "LANCE WATER",
+    "City": "LAKE CITY",
+    "State": "Florida",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "25",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/01/17",
+        "Service Connections": "25"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "MO5031278",
+    "PWS Name": "MILLWOOD ESTATES PROP OWNERS ASSN",
+    "City": "REEDS SPRING",
+    "State": "Missouri",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "33",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "33"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "33"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    }
+}

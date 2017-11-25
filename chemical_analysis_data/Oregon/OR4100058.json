@@ -1,0 +1,26 @@
+{
+    "PWS ID": "OR4100058",
+    "PWS Name": "WILLOW DALE WATER DISTRICT",
+    "City": "ASTORIA",
+    "State": "Oregon",
+    "Compliance Status": "Returned to Compliance on 09/07/11",
+    "Service Connections": "125",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "125"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "125"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "125"
+    }
+}

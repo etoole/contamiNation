@@ -1,0 +1,26 @@
+{
+    "PWS ID": "MT0000763",
+    "PWS Name": "GREAT FALLS KOA KAMPGROUND",
+    "City": "GREAT FALLS",
+    "State": "Montana",
+    "Compliance Status": "Returned to Compliance on 11/13/14",
+    "Service Connections": "130",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "130"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "130"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "130"
+    }
+}

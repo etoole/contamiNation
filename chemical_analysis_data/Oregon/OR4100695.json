@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OR4100695",
+    "PWS Name": "HIDDEN VALLEY MBL ESTS IMP DIS",
+    "City": "REDMOND",
+    "State": "Oregon",
+    "Compliance Status": "Returned to Compliance on 08/01/07",
+    "Service Connections": "82",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "82"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "82"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "82"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "82"
+    }
+}

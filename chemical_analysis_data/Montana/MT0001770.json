@@ -1,0 +1,14 @@
+{
+    "PWS ID": "MT0001770",
+    "PWS Name": "GILDFORD COLONY",
+    "City": "GILDFORD",
+    "State": "Montana",
+    "Compliance Status": "Returned to Compliance on 07/10/17",
+    "Service Connections": "6",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/19",
+        "Service Connections": "6"
+    }
+}

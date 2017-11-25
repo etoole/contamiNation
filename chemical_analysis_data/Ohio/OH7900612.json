@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OH7900612",
+    "PWS Name": "MIDVALE VILLAGE PWS",
+    "City": "MIDVALE",
+    "State": "Ohio",
+    "Compliance Status": "Returned to Compliance on 04/19/13",
+    "Service Connections": "880",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "880"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "880"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "880"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "880"
+    }
+}

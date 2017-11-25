@@ -1,0 +1,20 @@
+{
+    "PWS ID": "TX1740006",
+    "PWS Name": "MELROSE WSC",
+    "City": "NACOGDOCHES",
+    "State": "Texas",
+    "Compliance Status": "Returned to Compliance on 06/14/16",
+    "Service Connections": "1025",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1500 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1025"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1500 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1025"
+    }
+}

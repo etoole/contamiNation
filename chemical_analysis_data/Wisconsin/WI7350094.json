@@ -1,0 +1,26 @@
+{
+    "PWS ID": "WI7350094",
+    "PWS Name": "DEER RUN MOBILE HOME COMMUNITY",
+    "City": "BOULDER",
+    "State": "Wisconsin",
+    "Compliance Status": "Returned to Compliance on 01/20/16",
+    "Service Connections": "18",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "18"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "18"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "18"
+    }
+}

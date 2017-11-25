@@ -1,0 +1,26 @@
+{
+    "PWS ID": "PA1150137",
+    "PWS Name": "AQUA PA FRIENDSHIP",
+    "City": "BRYN MAWR",
+    "State": "Pennsylvania",
+    "Compliance Status": "Returned to Compliance on 02/06/96",
+    "Service Connections": "1377",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1377"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1377"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1377"
+    }
+}

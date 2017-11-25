@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OK1021602",
+    "PWS Name": "OKLA ORDNANCE WORKS AUTHORITY",
+    "City": "PRYOR",
+    "State": "Oklahoma",
+    "Compliance Status": "Returned to Compliance on 07/26/16",
+    "Service Connections": "80",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "15 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "80"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "15 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "80"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "15 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "80"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "15 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "80"
+    }
+}

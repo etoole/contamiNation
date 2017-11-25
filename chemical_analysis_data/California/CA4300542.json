@@ -1,0 +1,26 @@
+{
+    "PWS ID": "CA4300542",
+    "PWS Name": "SAN MARTIN COUNTY WATER DISTRICT",
+    "City": "MORGAN HILL",
+    "State": "California",
+    "Compliance Status": "Returned to Compliance on 08/03/00",
+    "Service Connections": "186",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "186"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "186"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "186"
+    }
+}

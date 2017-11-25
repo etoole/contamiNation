@@ -1,0 +1,32 @@
+{
+    "PWS ID": "ID3140187",
+    "PWS Name": "SYMMS FRUIT RANCH INC",
+    "City": "CALDWELL",
+    "State": "Idaho",
+    "Compliance Status": "Returned to Compliance on 12/10/13",
+    "Service Connections": "2",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2"
+    }
+}

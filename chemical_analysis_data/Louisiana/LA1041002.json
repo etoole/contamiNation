@@ -1,0 +1,32 @@
+{
+    "PWS ID": "LA1041002",
+    "PWS Name": "GILBERT WATER SYSTEM",
+    "City": "GILBERT",
+    "State": "Louisiana",
+    "Compliance Status": "Returned to Compliance on 06/30/95",
+    "Service Connections": "305",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "305"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "305"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "305"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "305"
+    }
+}

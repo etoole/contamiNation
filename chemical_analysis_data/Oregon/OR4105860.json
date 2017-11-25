@@ -1,0 +1,44 @@
+{
+    "PWS ID": "OR4105860",
+    "PWS Name": "OLD SHEEP RANCH WATER ASSOC",
+    "City": "LANGLOIS",
+    "State": "Oregon",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "34",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1380 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "34"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1380 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "34"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "34"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "34"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "34"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "34"
+    }
+}

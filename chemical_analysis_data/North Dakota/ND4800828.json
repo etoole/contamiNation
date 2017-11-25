@@ -1,0 +1,32 @@
+{
+    "PWS ID": "ND4800828",
+    "PWS Name": "ROCK LAKE CITY OF",
+    "City": "ROCK LAKE",
+    "State": "North Dakota",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "107",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "107"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "107"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "107"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "107"
+    }
+}

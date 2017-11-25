@@ -1,0 +1,26 @@
+{
+    "PWS ID": "AL0000909",
+    "PWS Name": "FAUNSDALE WATER WORKS",
+    "City": "FAUNSDALE",
+    "State": "Alabama",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "138",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "138"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "138"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "138"
+    }
+}

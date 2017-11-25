@@ -1,0 +1,14 @@
+{
+    "PWS ID": "CA4500003",
+    "PWS Name": "MEL MAR MUTUAL WATER CO",
+    "City": "PALO CEDRO",
+    "State": "California",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "91",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "91"
+    }
+}

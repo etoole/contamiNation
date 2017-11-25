@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IA6500823",
+    "PWS Name": "PONY CREEK #1 HOA/PEOPLES SERVICE",
+    "City": "PACIFIC JUNCTION",
+    "State": "Iowa",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "52",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "52"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "52"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "52"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "52"
+    }
+}

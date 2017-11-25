@@ -1,0 +1,20 @@
+{
+    "PWS ID": "TX0610253",
+    "PWS Name": "DENTON COUNTY FWSD 8-C",
+    "City": "FORT WORTH",
+    "State": "Texas",
+    "Compliance Status": "Returned to Compliance on 10/11/16",
+    "Service Connections": "1626",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1626"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1626"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WV3303912",
+    "PWS Name": "PRESTON COUNTY PSD 1",
+    "City": "ARTHURDALE",
+    "State": "West Virginia",
+    "Compliance Status": "Returned to Compliance on 08/31/96",
+    "Service Connections": "1467",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1467"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1570"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1570"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1467"
+    }
+}

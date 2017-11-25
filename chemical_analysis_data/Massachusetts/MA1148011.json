@@ -1,0 +1,32 @@
+{
+    "PWS ID": "MA1148011",
+    "PWS Name": "BERKSHIRE MALL LLC",
+    "City": "LANESBOROUGH",
+    "State": "Massachusetts",
+    "Compliance Status": "Returned to Compliance on 01/10/14",
+    "Service Connections": "5",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "5"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "5"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "5"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "5"
+    }
+}

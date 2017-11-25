@@ -1,0 +1,32 @@
+{
+    "PWS ID": "SC4660105",
+    "PWS Name": "SCOTLAND YARD MHP (4660105)",
+    "City": "CLOVER",
+    "State": "South Carolina",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "20",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "20"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "20"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "20"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "20"
+    }
+}

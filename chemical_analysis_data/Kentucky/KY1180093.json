@@ -1,0 +1,26 @@
+{
+    "PWS ID": "KY1180093",
+    "PWS Name": "CUMBERLAND FALLS HIGHWAY WATER DISTRICT",
+    "City": "CORBIN",
+    "State": "Kentucky",
+    "Compliance Status": "Returned to Compliance on 06/22/00",
+    "Service Connections": "3032",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3032"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3032"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3032"
+    }
+}

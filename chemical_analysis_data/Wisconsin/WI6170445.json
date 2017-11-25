@@ -1,0 +1,26 @@
+{
+    "PWS ID": "WI6170445",
+    "PWS Name": "SHADY OAKS MHP",
+    "City": "New Richmond",
+    "State": "Wisconsin",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "23",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "23"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "23"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "23"
+    }
+}

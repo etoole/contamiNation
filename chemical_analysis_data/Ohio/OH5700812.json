@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OH5700812",
+    "PWS Name": "ENGLEWOOD CITY PWS",
+    "City": "TROY",
+    "State": "Ohio",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "4970",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "4970"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "4970"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "4970"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "4970"
+    }
+}

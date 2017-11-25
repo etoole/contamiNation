@@ -1,0 +1,26 @@
+{
+    "PWS ID": "FL6531911",
+    "PWS Name": "MOSAIC FERTILIZER LLC - BARTOW",
+    "City": "LITHIA",
+    "State": "Florida",
+    "Compliance Status": "Returned to Compliance on 10/10/16",
+    "Service Connections": "7",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/16",
+        "Service Connections": "7"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/16",
+        "Service Connections": "7"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/16",
+        "Service Connections": "7"
+    }
+}

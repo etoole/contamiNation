@@ -1,0 +1,26 @@
+{
+    "PWS ID": "TX1210019",
+    "PWS Name": "COUGAR COUNTRY WATER SYSTEM",
+    "City": "BUNA",
+    "State": "Texas",
+    "Compliance Status": "Returned to Compliance on 06/16/15",
+    "Service Connections": "109",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "109"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "109"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "109"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "PWS ID": "PA3061057",
+    "PWS Name": "CONESTOGA LANDFILL (BFI)",
+    "City": "MORGANTOWN",
+    "State": "Pennsylvania",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "3",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1385 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "3"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1385 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "3"
+    }
+}

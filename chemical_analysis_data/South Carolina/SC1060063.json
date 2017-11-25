@@ -1,0 +1,32 @@
+{
+    "PWS ID": "SC1060063",
+    "PWS Name": "BURBAGE BROTHERS MHP (1060063)",
+    "City": "RAVENEL",
+    "State": "South Carolina",
+    "Compliance Status": "Returned to Compliance on 01/10/98",
+    "Service Connections": "70",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "70"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "70"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "70"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "70"
+    }
+}

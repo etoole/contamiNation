@@ -1,0 +1,26 @@
+{
+    "PWS ID": "CA5510026",
+    "PWS Name": "PHOENIX LAKE ESTATES CC MWC",
+    "City": "SONORA",
+    "State": "California",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "353",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "353"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "353"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "353"
+    }
+}

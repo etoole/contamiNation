@@ -1,0 +1,56 @@
+{
+    "PWS ID": "WV3305405",
+    "PWS Name": "MINERAL WELLS PSD",
+    "City": "MINERAL WELLS",
+    "State": "West Virginia",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "2496",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "2496"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2384"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2384"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2496"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2496"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2496"
+    },
+    "Result no.7": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2384"
+    },
+    "Result no.8": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2384"
+    }
+}

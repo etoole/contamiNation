@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OH5702403",
+    "PWS Name": "TROTWOOD CITY PWS",
+    "City": "TROTWOOD",
+    "State": "Ohio",
+    "Compliance Status": "Returned to Compliance on 02/12/13",
+    "Service Connections": "3097",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "3097"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "3097"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "3097"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "3097"
+    }
+}

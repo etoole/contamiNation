@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IL0971120",
+    "PWS Name": "PORT BARRINGTON SHORES SUBDIVISION",
+    "City": "LOMBARD",
+    "State": "Illinois",
+    "Compliance Status": "Returned to Compliance on 04/19/99",
+    "Service Connections": "33",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "33"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "33"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "33"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "33"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "PWS ID": "FL6291037",
+    "PWS Name": "MORNINGSTAR MOBILE HOME PARK",
+    "City": "RIVERVIEW",
+    "State": "Florida",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "33",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "33"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "33"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "33"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WA5303468",
+    "PWS Name": "NAVAL BASE KITSAP AT BREMERTON",
+    "City": "Bremerton",
+    "State": "Washington",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1042",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1042"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1042"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1042"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1042"
+    }
+}

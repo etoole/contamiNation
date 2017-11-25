@@ -1,0 +1,14 @@
+{
+    "PWS ID": "CA5000384",
+    "PWS Name": "A & M INDUSTRIES INC",
+    "City": "MODESTO",
+    "State": "California",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "25",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "25"
+    }
+}

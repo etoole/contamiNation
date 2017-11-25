@@ -1,0 +1,32 @@
+{
+    "PWS ID": "KS2008301",
+    "PWS Name": "JETMORE, CITY OF",
+    "City": "JETMORE",
+    "State": "Kansas",
+    "Compliance Status": "Returned to Compliance on 04/05/17",
+    "Service Connections": "462",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "462"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "462"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "462"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "462"
+    }
+}

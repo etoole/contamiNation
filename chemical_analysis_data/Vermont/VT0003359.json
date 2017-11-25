@@ -1,0 +1,32 @@
+{
+    "PWS ID": "VT0003359",
+    "PWS Name": "EAST BURKE COMPLEX",
+    "City": "EAST BURKE",
+    "State": "Vermont",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "3",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "3"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "3"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "3"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "3"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "TX0610259",
+    "PWS Name": "DENTON COUNTY FWSD 11-A PALOMA",
+    "City": "HOUSTON",
+    "State": "Texas",
+    "Compliance Status": "Returned to Compliance on 10/20/15",
+    "Service Connections": "1432",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1432"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1169"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1432"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1432"
+    }
+}

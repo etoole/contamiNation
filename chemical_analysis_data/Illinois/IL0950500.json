@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IL0950500",
+    "PWS Name": "ST AUGUSTINE",
+    "City": "SAINT AUGUSTINE",
+    "State": "Illinois",
+    "Compliance Status": "Returned to Compliance on 07/08/99",
+    "Service Connections": "71",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "71"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "71"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "71"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "71"
+    }
+}

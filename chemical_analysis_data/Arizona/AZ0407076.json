@@ -1,0 +1,32 @@
+{
+    "PWS ID": "AZ0407076",
+    "PWS Name": "TONTO HILLS DWID",
+    "City": "CAVE CREEK",
+    "State": "Arizona",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "107",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "107"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "107"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "107"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "107"
+    }
+}

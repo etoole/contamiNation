@@ -1,0 +1,50 @@
+{
+    "PWS ID": "SC4060052",
+    "PWS Name": "PINEY LANE MHP (4060052)",
+    "City": "LEXINGTON",
+    "State": "South Carolina",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "22",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "16 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "22"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "16 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "22"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "16 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "22"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "16 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "22"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "22"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "22"
+    },
+    "Result no.7": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "22"
+    }
+}

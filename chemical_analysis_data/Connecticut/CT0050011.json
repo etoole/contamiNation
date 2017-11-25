@@ -1,0 +1,38 @@
+{
+    "PWS ID": "CT0050011",
+    "PWS Name": "ROCKTREE APARTMENTS",
+    "City": "NORTH GRANBY",
+    "State": "Connecticut",
+    "Compliance Status": "Returned to Compliance on 02/22/10",
+    "Service Connections": "22",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "22"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "22"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "22"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "22"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "22"
+    }
+}

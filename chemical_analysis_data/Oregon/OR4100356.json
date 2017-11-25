@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OR4100356",
+    "PWS Name": "GRASS VALLEY WATER SYSTEM",
+    "City": "GRASS VALLEY",
+    "State": "Oregon",
+    "Compliance Status": "Returned to Compliance on 01/09/07",
+    "Service Connections": "83",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "83"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "83"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "83"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "83"
+    }
+}

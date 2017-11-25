@@ -1,0 +1,14 @@
+{
+    "PWS ID": "TX1630031",
+    "PWS Name": "GUSVILLE MOBILE HOME PARK",
+    "City": "DEVINE",
+    "State": "Texas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "93",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "19 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "93"
+    }
+}

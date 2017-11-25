@@ -1,0 +1,44 @@
+{
+    "PWS ID": "FL4434513",
+    "PWS Name": "FOX CLUB",
+    "City": "WEST PALM BEACH",
+    "State": "Florida",
+    "Compliance Status": "Returned to Compliance on 02/10/16",
+    "Service Connections": "2",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "2"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "2"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "2"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/01/15",
+        "Service Connections": "2"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/01/15",
+        "Service Connections": "2"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/01/15",
+        "Service Connections": "2"
+    }
+}

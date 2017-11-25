@@ -1,0 +1,14 @@
+{
+    "PWS ID": "FL2401312",
+    "PWS Name": "FUMCH-MADISON YOUTH RANCH",
+    "City": "ENTERPRISE",
+    "State": "Florida",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "3",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "06/01/17",
+        "Service Connections": "3"
+    }
+}

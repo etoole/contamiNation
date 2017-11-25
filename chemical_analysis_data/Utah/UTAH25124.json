@@ -1,0 +1,26 @@
+{
+    "PWS ID": "UTAH25124",
+    "PWS Name": "ALPINE COVE WATER SSD",
+    "City": "ALPINE",
+    "State": "Utah",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "63",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "63"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "63"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "63"
+    }
+}

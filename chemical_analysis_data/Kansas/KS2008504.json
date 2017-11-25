@@ -1,0 +1,32 @@
+{
+    "PWS ID": "KS2008504",
+    "PWS Name": "CIRCLEVILLE, CITY OF",
+    "City": "CIRCLEVILLE",
+    "State": "Kansas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "83",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "83"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "83"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "83"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "83"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "UTAH15004",
+    "PWS Name": "CENTRAL ENTERPRISE WATER CO",
+    "City": "MORGAN",
+    "State": "Utah",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "113",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "113"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "113"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "113"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "113"
+    }
+}

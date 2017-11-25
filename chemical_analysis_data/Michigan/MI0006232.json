@@ -1,0 +1,26 @@
+{
+    "PWS ID": "MI0006232",
+    "PWS Name": "SPRING LAKE CLUB CONDOMINIUMS",
+    "City": "PETOSKEY",
+    "State": "Michigan",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "29",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "31 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "29"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "31 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "29"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "31 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "29"
+    }
+}

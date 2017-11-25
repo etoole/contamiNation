@@ -1,0 +1,26 @@
+{
+    "PWS ID": "GA1870072",
+    "PWS Name": "LUMPKIN CO.- SHERWOOD FOREST SUBDIVISION",
+    "City": "DAHLONEGA",
+    "State": "Georgia",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "80",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "21 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "80"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "21 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "80"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "21 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "80"
+    }
+}

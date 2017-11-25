@@ -1,0 +1,26 @@
+{
+    "PWS ID": "CA4500193",
+    "PWS Name": "VERDE VALE ELEMENTARY SCHOOL",
+    "City": "ANDERSON",
+    "State": "California",
+    "Compliance Status": "Returned to Compliance on 12/15/16",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "1"
+    }
+}

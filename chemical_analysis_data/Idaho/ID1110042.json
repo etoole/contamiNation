@@ -1,0 +1,32 @@
+{
+    "PWS ID": "ID1110042",
+    "PWS Name": "CABINET MOUNTAINS WATER DIST",
+    "City": "BONNERS FERRY",
+    "State": "Idaho",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "868",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "868"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "868"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "868"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "868"
+    }
+}

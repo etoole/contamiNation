@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IL1490450",
+    "PWS Name": "MILTON",
+    "City": "MILTON",
+    "State": "Illinois",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "118",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "118"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "118"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "118"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "118"
+    }
+}

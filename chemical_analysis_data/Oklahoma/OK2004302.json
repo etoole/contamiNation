@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OK2004302",
+    "PWS Name": "LEON RWD #1 (LOVE COUNTY)",
+    "City": "LEON",
+    "State": "Oklahoma",
+    "Compliance Status": "Returned to Compliance on 10/22/10",
+    "Service Connections": "115",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "115"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "115"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "115"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "115"
+    }
+}

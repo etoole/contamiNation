@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NJ0605004",
+    "PWS Name": "FAIRTON FEDERAL CORRECTIONAL",
+    "City": "FAIRFIELD",
+    "State": "New Jersey",
+    "Compliance Status": "Returned to Compliance on 12/31/97",
+    "Service Connections": "18",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "18"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "18"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "18"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "18"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "MO4010003",
+    "PWS Name": "CALEDONIA",
+    "City": "CALEDONIA",
+    "State": "Missouri",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "62",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "62"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "62"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "62"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "62"
+    }
+}

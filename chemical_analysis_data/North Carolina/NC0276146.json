@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NC0276146",
+    "PWS Name": "CHIL-OAK-TON MHP",
+    "City": "ARCHDALE",
+    "State": "North Carolina",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "18",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "27 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "18"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "27 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "18"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "27 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "18"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "27 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "18"
+    }
+}

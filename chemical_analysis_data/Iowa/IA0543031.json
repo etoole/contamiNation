@@ -1,0 +1,26 @@
+{
+    "PWS ID": "IA0543031",
+    "PWS Name": "KIMBALLTON UTILITIES",
+    "City": "KIMBALLTON",
+    "State": "Iowa",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "212",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "212"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "212"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "212"
+    }
+}

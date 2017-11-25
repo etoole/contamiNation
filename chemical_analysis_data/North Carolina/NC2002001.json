@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NC2002001",
+    "PWS Name": "FOREST ACRES WATER CORPORATION",
+    "City": "TAYLORSVILLE",
+    "State": "North Carolina",
+    "Compliance Status": "Returned to Compliance on 01/12/04",
+    "Service Connections": "31",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "31"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "31"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "31"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "31"
+    }
+}

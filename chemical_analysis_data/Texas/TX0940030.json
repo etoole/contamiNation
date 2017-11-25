@@ -1,0 +1,32 @@
+{
+    "PWS ID": "TX0940030",
+    "PWS Name": "GARDEN OAKS",
+    "City": "PFLUGERVILLE",
+    "State": "Texas",
+    "Compliance Status": "Returned to Compliance on 06/29/17",
+    "Service Connections": "88",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "32 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "88"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "32 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "76"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "32 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "76"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "32 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "76"
+    }
+}

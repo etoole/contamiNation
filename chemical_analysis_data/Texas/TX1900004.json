@@ -1,0 +1,32 @@
+{
+    "PWS ID": "TX1900004",
+    "PWS Name": "CITY OF POINT",
+    "City": "POINT",
+    "State": "Texas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "987",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "21 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "987"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "21 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "987"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "21 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "987"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "21 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "987"
+    }
+}

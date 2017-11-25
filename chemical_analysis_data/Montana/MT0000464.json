@@ -1,0 +1,32 @@
+{
+    "PWS ID": "MT0000464",
+    "PWS Name": "MEADOWLARK MOBILE HOME COURT",
+    "City": "BILLINGS",
+    "State": "Montana",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "215",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "215"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "215"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "215"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "215"
+    }
+}

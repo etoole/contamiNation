@@ -1,0 +1,20 @@
+{
+    "PWS ID": "PA2080032",
+    "PWS Name": "ULSTER MUNICIPAL AUTHORITY",
+    "City": "ULSTER",
+    "State": "Pennsylvania",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "180",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1850 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "180"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1850 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "180"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "AZ0410199",
+    "PWS Name": "RINCON MESA LANDOWNERS",
+    "City": "VAIL",
+    "State": "Arizona",
+    "Compliance Status": "Returned to Compliance on 11/30/15",
+    "Service Connections": "25",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "25"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "25"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "25"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "25"
+    }
+}

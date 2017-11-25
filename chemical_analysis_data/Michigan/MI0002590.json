@@ -1,0 +1,20 @@
+{
+    "PWS ID": "MI0002590",
+    "PWS Name": "SHERMAN TOWNSHIP",
+    "City": "LAKE LINDEN",
+    "State": "Michigan",
+    "Compliance Status": "Returned to Compliance on 06/09/16",
+    "Service Connections": "48",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1600 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "48"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1600 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "48"
+    }
+}

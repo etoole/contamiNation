@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NM3560007",
+    "PWS Name": "MESILLA WATER SYSTEM",
+    "City": "MESILLA",
+    "State": "New Mexico",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "769",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "769"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1051"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1051"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "769"
+    }
+}

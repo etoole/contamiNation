@@ -1,0 +1,26 @@
+{
+    "PWS ID": "MA1111000",
+    "PWS Name": "BACHELOR KNOLLS",
+    "City": "GRANBY",
+    "State": "Massachusetts",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "31",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "31"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "31"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "31"
+    }
+}

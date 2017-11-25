@@ -1,0 +1,26 @@
+{
+    "PWS ID": "CA3600200",
+    "PWS Name": "RANCHERITOS MWC",
+    "City": "APPLE VALLEY",
+    "State": "California",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "131",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "131"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "131"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "131"
+    }
+}

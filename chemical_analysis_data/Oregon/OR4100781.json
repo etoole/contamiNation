@@ -1,0 +1,26 @@
+{
+    "PWS ID": "OR4100781",
+    "PWS Name": "STARLITE MOBILE VILLAGE",
+    "City": "EUGENE",
+    "State": "Oregon",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "149",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "149"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "149"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "149"
+    }
+}

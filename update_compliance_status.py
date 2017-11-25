@@ -32,7 +32,7 @@ with open(os.path.join('detail_results.json')) as results:
     for result in results:
 
         end_date = []
-        result['Marker Color'] = 'Yellow'
+        result['Marker Color'] = 'Green'
         concentration_list = []
         result_key_list = []
         lead_concentration_list = []
@@ -78,47 +78,62 @@ with open(os.path.join('detail_results.json')) as results:
                     if concentration_list[-1] > 0:
                         result['Compliance Status'] = 'Not Compliant'
 
+                if result['Compliance Status'] == 'Not Compliant':
+                    contaminant = result[result_key]['Contaminant']
+                    if contaminant == 'LEAD':
+                        lead_concentration = result[result_key]['Concentration']
+                        lead_concentration = concentration_digit.findall(lead_concentration)
+                        lead_concentration = int(lead_concentration[0])
+                        lead_concentration_list.append(lead_concentration)
 
-                contaminant = result[result_key]['Contaminant']
-                if contaminant == 'LEAD':
-                    lead_concentration = result[result_key]['Concentration']
-                    lead_concentration = concentration_digit.findall(lead_concentration)
-                    lead_concentration = int(lead_concentration[0])
-                    lead_concentration_list.append(lead_concentration)
+                    lead_concentration_list = sorted(lead_concentration_list)
 
-                lead_concentration_list = sorted(lead_concentration_list)
+                    if contaminant == 'COPPER':
+                        copper_concentration = result[result_key]['Concentration']
+                        copper_concentration = concentration_digit.findall(copper_concentration)
+                        copper_concentration = int(copper_concentration[0])
+                        copper_concentration_list.append(copper_concentration)
 
-                if contaminant == 'COPPER':
-                    copper_concentration = result[result_key]['Concentration']
-                    copper_concentration = concentration_digit.findall(copper_concentration)
-                    copper_concentration = int(copper_concentration[0])
-                    copper_concentration_list.append(copper_concentration)
-
-                copper_concentration_list = sorted(copper_concentration_list)
+                    copper_concentration_list = sorted(copper_concentration_list)
 
 
-                if len(lead_concentration_list) > 0:
-                    if lead_concentration_list == 0:
-                        if len(copper_concentration_list) > 0:
-                            if 0 > copper_concentration_list > 1300:
-                                result['Marker Color'] = 'Yellow'
-                            elif copper_concentration_list[-1] > 1300:
+                    if len(lead_concentration_list) > 0:
+                        if lead_concentration_list[-1] == 0:
+                            if len(copper_concentration_list) > 0:
+                                if copper_concentration_list[-1] == 0:
+                                    result['Marker Color'] = 'Green'
+                                elif 0 > copper_concentration_list[-1] > 1300:
+                                    result['Marker Color'] = 'Yellow'
+                                elif copper_concentration_list[-1] > 1300:
+                                        result['Marker Color'] = 'Red'
+
+                        elif 0 < lead_concentration_list[-1] < 15:
+                            result['Marker Color'] = 'Yellow'
+                            if len(copper_concentration_list) > 0:
+                                if copper_concentration_list[-1] > 1300:
                                     result['Marker Color'] = 'Red'
 
-                    elif 0 < lead_concentration_list[-1] < 15:
-                        result['Marker Color'] = 'Yellow'
-                        if len(copper_concentration_list) > 0:
-                            if copper_concentration_list[-1] > 1300:
-                                result['Marker Color'] = 'Red'
+                        elif lead_concentration_list[-1] > 15:
+                            result['Marker Color'] = 'Red'
 
-                    elif lead_concentration_list[-1] > 15:
-                        result['Marker Color'] = 'Red'
+                    if len(copper_concentration_list) > 0:
+                        if copper_concentration_list[-1] == 0:
+                            if len(lead_concentration_list) > 0:
+                                if lead_concentration_list[-1] == 0:
+                                    result['Marker Color'] = 'Green'
+                                elif 0 > lead_concentration_list[-1] > 15:
+                                    result['Marker Color'] = 'Yellow'
+                                elif lead_concentration_list[-1] > 15:
+                                        result['Marker Color'] = 'Red'
 
-                if len(copper_concentration_list) > 0:
-                    if 0 > copper_concentration_list[-1] >1300:
-                        result['Marker Color'] = 'Yellow'
-                    elif copper_concentration_list[-1] > 1300:
-                        result['Marker Color'] = 'Red'
+                        elif 0 < copper_concentration_list[-1] < 1300:
+                            result['Marker Color'] = 'Yellow'
+                            if len(lead_concentration_list) > 0:
+                                if lead_concentration_list[-1] > 15:
+                                    result['Marker Color'] = 'Red'
+
+                        elif copper_concentration_list[-1] > 1300:
+                            result['Marker Color'] = 'Red'
 
 
             for result_key in result_key_list:
@@ -133,6 +148,7 @@ with open(os.path.join('detail_results.json')) as results:
 
         elif 'Not' in result['Compliance Status']:
 
+            result['Marker Color'] = 'Yellow'
             for key in result:
                 if 'Result' in key:
                     result_key_list.append(key)

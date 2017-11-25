@@ -1,0 +1,26 @@
+{
+    "PWS ID": "WV3302517",
+    "PWS Name": "MONUMENTAL PSD",
+    "City": "FAIRMONT",
+    "State": "West Virginia",
+    "Compliance Status": "Returned to Compliance on 12/30/96",
+    "Service Connections": "825",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "825"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "825"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "825"
+    }
+}

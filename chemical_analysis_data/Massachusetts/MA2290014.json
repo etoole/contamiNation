@@ -1,0 +1,26 @@
+{
+    "PWS ID": "MA2290014",
+    "PWS Name": "WILKINSONVILLE WATER DISTRICT",
+    "City": "SUTTON",
+    "State": "Massachusetts",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "866",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "866"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "866"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "866"
+    }
+}

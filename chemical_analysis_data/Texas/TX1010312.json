@@ -1,0 +1,20 @@
+{
+    "PWS ID": "TX1010312",
+    "PWS Name": "CHEVRON PHILLIPS PASADENA PLASTICS COMPL",
+    "City": "PASADENA",
+    "State": "Texas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "10",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1563 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "10"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1563 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "10"
+    }
+}

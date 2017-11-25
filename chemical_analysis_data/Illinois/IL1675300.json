@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IL1675300",
+    "PWS Name": "SUGAR CRK PWD",
+    "City": "SPRINGFIELD",
+    "State": "Illinois",
+    "Compliance Status": "Returned to Compliance on 01/20/11",
+    "Service Connections": "290",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "290"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "290"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "290"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "290"
+    }
+}

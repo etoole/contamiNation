@@ -1,0 +1,32 @@
+{
+    "PWS ID": "PA7360126",
+    "PWS Name": "LITITZ BORO",
+    "City": "LITITZ",
+    "State": "Pennsylvania",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "4201",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "4201"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "4201"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "4201"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "4201"
+    }
+}

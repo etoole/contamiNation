@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NC0155103",
+    "PWS Name": "LONG SHOALS WATER SYSTEM",
+    "City": "DENVER",
+    "State": "North Carolina",
+    "Compliance Status": "Returned to Compliance on 01/04/95",
+    "Service Connections": "77",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "77"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "74"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "74"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "74"
+    }
+}

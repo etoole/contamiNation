@@ -1,0 +1,14 @@
+{
+    "PWS ID": "SC4320005",
+    "PWS Name": "SHILOH WATER SYSTEM (4320005)",
+    "City": "SUMTER",
+    "State": "South Carolina",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "315",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "20 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "315"
+    }
+}

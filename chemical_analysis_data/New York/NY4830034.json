@@ -1,0 +1,26 @@
+{
+    "PWS ID": "NY4830034",
+    "PWS Name": "READING WATER DISTRICT #2",
+    "City": "READING CENTER",
+    "State": "New York",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "13",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "13"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "13"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "13"
+    }
+}

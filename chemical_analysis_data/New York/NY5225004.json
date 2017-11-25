@@ -1,0 +1,578 @@
+{
+    "PWS ID": "NY5225004",
+    "PWS Name": "SDTC-THE CENTER FOR DISCOVERY",
+    "City": "HARRIS",
+    "State": "New York",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "35",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "35"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "35"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "35"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "35"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "35"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "35"
+    },
+    "Result no.7": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "35"
+    },
+    "Result no.8": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "35"
+    },
+    "Result no.9": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "35"
+    },
+    "Result no.10": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "35"
+    },
+    "Result no.11": {
+        "Contaminant": "COPPER",
+        "Concentration": "5250 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.12": {
+        "Contaminant": "COPPER",
+        "Concentration": "1450 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.13": {
+        "Contaminant": "COPPER",
+        "Concentration": "1450 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.14": {
+        "Contaminant": "COPPER",
+        "Concentration": "5250 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.15": {
+        "Contaminant": "COPPER",
+        "Concentration": "1450 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.16": {
+        "Contaminant": "COPPER",
+        "Concentration": "5250 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.17": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.18": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.19": {
+        "Contaminant": "LEAD",
+        "Concentration": "16 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.20": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.21": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.22": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.23": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.24": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.25": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.26": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.27": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.28": {
+        "Contaminant": "LEAD",
+        "Concentration": "16 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.29": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.30": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.31": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.32": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.33": {
+        "Contaminant": "LEAD",
+        "Concentration": "16 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.34": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.35": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.36": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.37": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.38": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.39": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.40": {
+        "Contaminant": "LEAD",
+        "Concentration": "16 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.41": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.42": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.43": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.44": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.45": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.46": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.47": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.48": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.49": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.50": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.51": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.52": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.53": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.54": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.55": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.56": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.57": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.58": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.59": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.60": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.61": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.62": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.63": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.64": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.65": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.66": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.67": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.68": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.69": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.70": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.71": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.72": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "35"
+    },
+    "Result no.73": {
+        "Contaminant": "LEAD",
+        "Concentration": "13 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "35"
+    },
+    "Result no.74": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "35"
+    },
+    "Result no.75": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "35"
+    },
+    "Result no.76": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "35"
+    },
+    "Result no.77": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "35"
+    },
+    "Result no.78": {
+        "Contaminant": "LEAD",
+        "Concentration": "13 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "35"
+    },
+    "Result no.79": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "35"
+    },
+    "Result no.80": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "35"
+    },
+    "Result no.81": {
+        "Contaminant": "LEAD",
+        "Concentration": "13 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "35"
+    },
+    "Result no.82": {
+        "Contaminant": "COPPER",
+        "Concentration": "1450 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "35"
+    },
+    "Result no.83": {
+        "Contaminant": "COPPER",
+        "Concentration": "1450 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "35"
+    },
+    "Result no.84": {
+        "Contaminant": "LEAD",
+        "Concentration": "28 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "35"
+    },
+    "Result no.85": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "35"
+    },
+    "Result no.86": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "35"
+    },
+    "Result no.87": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "35"
+    },
+    "Result no.88": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "35"
+    },
+    "Result no.89": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "35"
+    },
+    "Result no.90": {
+        "Contaminant": "LEAD",
+        "Concentration": "28 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "35"
+    },
+    "Result no.91": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "35"
+    },
+    "Result no.92": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "35"
+    },
+    "Result no.93": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "35"
+    },
+    "Result no.94": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "35"
+    },
+    "Result no.95": {
+        "Contaminant": "LEAD",
+        "Concentration": "28 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "35"
+    }
+}

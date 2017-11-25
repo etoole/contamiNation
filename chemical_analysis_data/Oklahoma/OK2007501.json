@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OK2007501",
+    "PWS Name": "CORN PWA",
+    "City": "CORN",
+    "State": "Oklahoma",
+    "Compliance Status": "Returned to Compliance on 12/14/04",
+    "Service Connections": "230",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "230"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "230"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "230"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "230"
+    }
+}

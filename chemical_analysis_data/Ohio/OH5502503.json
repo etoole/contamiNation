@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OH5502503",
+    "PWS Name": "MIAMI CO-CAMP TROY PWS",
+    "City": "TROY",
+    "State": "Ohio",
+    "Compliance Status": "Returned to Compliance on 08/14/97",
+    "Service Connections": "1440",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1440"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1440"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1440"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1440"
+    }
+}

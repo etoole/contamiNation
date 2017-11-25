@@ -1,0 +1,26 @@
+{
+    "PWS ID": "WI1110110",
+    "PWS Name": "INCH HEIGHTS LLC",
+    "City": "JUNEAU",
+    "State": "Wisconsin",
+    "Compliance Status": "Returned to Compliance on 04/22/94",
+    "Service Connections": "24",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "24"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "24"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "24"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "CA3400164",
+    "PWS Name": "VIEIRA'S RESORT, INC",
+    "City": "ISLETON",
+    "State": "California",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "107",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "107"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "107"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "107"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "107"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WY5600212",
+    "PWS Name": "RIVERS BEND TRAILER COURT",
+    "City": "POWELL",
+    "State": "Wyoming",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "32",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "32"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "32"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "32"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "32"
+    }
+}

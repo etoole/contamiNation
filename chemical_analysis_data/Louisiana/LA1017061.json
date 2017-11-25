@@ -1,0 +1,32 @@
+{
+    "PWS ID": "LA1017061",
+    "PWS Name": "WILDWOOD FOREST SUBDIVISION WATER SYSTEM",
+    "City": "KEITHVILLE",
+    "State": "Louisiana",
+    "Compliance Status": "Returned to Compliance on 06/30/95",
+    "Service Connections": "132",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "132"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "132"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "132"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "132"
+    }
+}

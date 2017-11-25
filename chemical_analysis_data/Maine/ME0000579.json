@@ -1,0 +1,14 @@
+{
+    "PWS ID": "ME0000579",
+    "PWS Name": "RSU 71 AMES ELEMENTARY SCHOOL",
+    "City": "BELFAST",
+    "State": "Maine",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/19",
+        "Service Connections": "1"
+    }
+}

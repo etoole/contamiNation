@@ -1,0 +1,26 @@
+{
+    "PWS ID": "WY5600756",
+    "PWS Name": "COUNTRYSIDE COURT",
+    "City": "MILLS",
+    "State": "Wyoming",
+    "Compliance Status": "Returned to Compliance on 05/07/09",
+    "Service Connections": "55",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "55"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "55"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "55"
+    }
+}

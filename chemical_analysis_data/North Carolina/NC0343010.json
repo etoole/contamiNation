@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NC0343010",
+    "PWS Name": "DUNN, CITY OF",
+    "City": "DUNN",
+    "State": "North Carolina",
+    "Compliance Status": "Returned to Compliance on 08/04/17",
+    "Service Connections": "4498",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "4498"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "4498"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "4444"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "4444"
+    }
+}

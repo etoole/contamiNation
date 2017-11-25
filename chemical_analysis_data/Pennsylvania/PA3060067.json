@@ -1,0 +1,26 @@
+{
+    "PWS ID": "PA3060067",
+    "PWS Name": "SHILLINGTON MUNI AUTH",
+    "City": "SHILLINGTON",
+    "State": "Pennsylvania",
+    "Compliance Status": "Returned to Compliance on 11/14/16",
+    "Service Connections": "5654",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "5654"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "5654"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "5654"
+    }
+}

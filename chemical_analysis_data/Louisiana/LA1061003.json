@@ -1,0 +1,32 @@
+{
+    "PWS ID": "LA1061003",
+    "PWS Name": "DUBACH WATER SYSTEM",
+    "City": "DUBACH",
+    "State": "Louisiana",
+    "Compliance Status": "Returned to Compliance on 12/03/09",
+    "Service Connections": "406",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "406"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "406"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "406"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "406"
+    }
+}

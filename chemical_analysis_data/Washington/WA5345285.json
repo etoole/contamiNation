@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WA5345285",
+    "PWS Name": "LAKESIDE LLC",
+    "City": "Kirkland",
+    "State": "Washington",
+    "Compliance Status": "Returned to Compliance on 12/31/15",
+    "Service Connections": "80",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "80"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "80"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "80"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "80"
+    }
+}

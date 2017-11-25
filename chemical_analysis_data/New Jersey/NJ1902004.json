@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NJ1902004",
+    "PWS Name": "ANDOVER WATER CORP",
+    "City": "HIGHLAND LAKES",
+    "State": "New Jersey",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "42",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "42"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "42"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "42"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "42"
+    }
+}

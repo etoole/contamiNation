@@ -1,0 +1,26 @@
+{
+    "PWS ID": "WI2460982",
+    "PWS Name": "PINES SUBDIVISION",
+    "City": "MENOMONEE FALLS",
+    "State": "Wisconsin",
+    "Compliance Status": "Returned to Compliance on 04/14/14",
+    "Service Connections": "73",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "73"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "73"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "73"
+    }
+}

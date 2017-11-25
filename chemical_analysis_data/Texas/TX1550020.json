@@ -1,0 +1,32 @@
+{
+    "PWS ID": "TX1550020",
+    "PWS Name": "CHALK BLUFF WSC",
+    "City": "WACO",
+    "State": "Texas",
+    "Compliance Status": "Returned to Compliance on 11/04/15",
+    "Service Connections": "1184",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1184"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1184"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1184"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1184"
+    }
+}

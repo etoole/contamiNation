@@ -1,0 +1,32 @@
+{
+    "PWS ID": "KS2000121",
+    "PWS Name": "ALLEN CO RWD 15",
+    "City": "IOLA",
+    "State": "Kansas",
+    "Compliance Status": "Returned to Compliance on 10/28/94",
+    "Service Connections": "52",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "52"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "52"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "52"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "52"
+    }
+}

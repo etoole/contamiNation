@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IN5226009",
+    "PWS Name": "GIBSON WATER, INC.",
+    "City": "HAUBSTADT",
+    "State": "Indiana",
+    "Compliance Status": "Returned to Compliance on 03/31/95",
+    "Service Connections": "1740",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1740"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1740"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1740"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1740"
+    }
+}

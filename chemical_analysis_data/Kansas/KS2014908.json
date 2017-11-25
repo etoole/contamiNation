@@ -1,0 +1,26 @@
+{
+    "PWS ID": "KS2014908",
+    "PWS Name": "WAMEGO, CITY OF",
+    "City": "WAMEGO",
+    "State": "Kansas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "2044",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2044"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2044"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2044"
+    }
+}

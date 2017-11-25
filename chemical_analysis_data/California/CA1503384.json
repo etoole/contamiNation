@@ -1,0 +1,26 @@
+{
+    "PWS ID": "CA1503384",
+    "PWS Name": "SOUTH VALLEY FARMS-BEECH HULLER/OFFICE",
+    "City": "WASCO",
+    "State": "California",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "5",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "5"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "5"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "5"
+    }
+}

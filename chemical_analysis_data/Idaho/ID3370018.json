@@ -1,0 +1,32 @@
+{
+    "PWS ID": "ID3370018",
+    "PWS Name": "RIMROCK JR SR HIGH SCHOOL",
+    "City": "BRUNEAU",
+    "State": "Idaho",
+    "Compliance Status": "Returned to Compliance on 06/11/02",
+    "Service Connections": "6",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "6"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "6"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "6"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "6"
+    }
+}

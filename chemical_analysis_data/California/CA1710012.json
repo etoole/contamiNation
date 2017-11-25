@@ -1,0 +1,32 @@
+{
+    "PWS ID": "CA1710012",
+    "PWS Name": "COBB AREA COUNTY WATER DISTRICT",
+    "City": "COBB",
+    "State": "California",
+    "Compliance Status": "Returned to Compliance on 07/07/16",
+    "Service Connections": "425",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "425"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "425"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "425"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "425"
+    }
+}

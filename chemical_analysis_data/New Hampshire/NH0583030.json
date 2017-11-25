@@ -1,0 +1,26 @@
+{
+    "PWS ID": "NH0583030",
+    "PWS Name": "COTTON FARMS MHP",
+    "City": "EAST HAMPSTEAD",
+    "State": "New Hampshire",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "156",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "44 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "156"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "44 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "156"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "44 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "156"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "PWS ID": "OK2001408",
+    "PWS Name": "LEXINGTON & JOSEPH HARP CORR INST",
+    "City": "LEXINGTON",
+    "State": "Oklahoma",
+    "Compliance Status": "Returned to Compliance on 03/18/14",
+    "Service Connections": "2",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "2"
+    }
+}

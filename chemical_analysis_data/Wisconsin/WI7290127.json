@@ -1,0 +1,26 @@
+{
+    "PWS ID": "WI7290127",
+    "PWS Name": "KOUNTRY AIRE EST MHP I",
+    "City": "Mauston",
+    "State": "Wisconsin",
+    "Compliance Status": "Returned to Compliance on 01/18/94",
+    "Service Connections": "54",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "54"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "54"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "54"
+    }
+}

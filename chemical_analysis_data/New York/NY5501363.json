@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NY5501363",
+    "PWS Name": "WOODCREST MOBILE PARK",
+    "City": "WALLKILL",
+    "State": "New York",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "9",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "9"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "9"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "9"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "9"
+    }
+}

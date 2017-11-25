@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NY0301695",
+    "PWS Name": "DICKINSON WD #3",
+    "City": "BINGHAMTON",
+    "State": "New York",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "490",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "490"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "490"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "490"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "490"
+    }
+}

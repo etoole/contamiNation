@@ -1,0 +1,32 @@
+{
+    "PWS ID": "MI0002770",
+    "PWS Name": "GRAND LEDGE, CITY OF",
+    "City": "GRAND LEDGE",
+    "State": "Michigan",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "3129",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "3129"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "3129"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "3129"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "3129"
+    }
+}

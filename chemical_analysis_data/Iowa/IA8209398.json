@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IA8209398",
+    "PWS Name": "TROUT VALLEY HOMES ASSOC. 1",
+    "City": "DAVENPORT",
+    "State": "Iowa",
+    "Compliance Status": "Returned to Compliance on 12/08/91",
+    "Service Connections": "27",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "27"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "27"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "27"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "27"
+    }
+}

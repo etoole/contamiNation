@@ -1,0 +1,20 @@
+{
+    "PWS ID": "NE3116905",
+    "PWS Name": "BRUNING, VILLAGE OF",
+    "City": "BRUNING",
+    "State": "Nebraska",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "150",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "150"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "150"
+    }
+}

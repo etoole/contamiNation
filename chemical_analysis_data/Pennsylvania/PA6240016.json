@@ -1,0 +1,26 @@
+{
+    "PWS ID": "PA6240016",
+    "PWS Name": "ST MARYS AREA WATER AUTH",
+    "City": "ST MARYS",
+    "State": "Pennsylvania",
+    "Compliance Status": "Returned to Compliance on 01/18/98",
+    "Service Connections": "7236",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "7236"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "7236"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "7236"
+    }
+}

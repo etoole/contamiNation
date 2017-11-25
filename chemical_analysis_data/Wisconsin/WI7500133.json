@@ -1,0 +1,26 @@
+{
+    "PWS ID": "WI7500133",
+    "PWS Name": "RIVERVIEW ESTATES MHP",
+    "City": "Plover",
+    "State": "Wisconsin",
+    "Compliance Status": "Returned to Compliance on 07/10/15",
+    "Service Connections": "55",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "55"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "55"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "55"
+    }
+}

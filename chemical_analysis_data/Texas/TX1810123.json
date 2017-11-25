@@ -1,0 +1,26 @@
+{
+    "PWS ID": "TX1810123",
+    "PWS Name": "CORBETT WATER SYSTEM 1",
+    "City": "VIDOR",
+    "State": "Texas",
+    "Compliance Status": "Returned to Compliance on 08/29/16",
+    "Service Connections": "30",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "30"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "30"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "30"
+    }
+}

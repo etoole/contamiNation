@@ -1,0 +1,26 @@
+{
+    "PWS ID": "NJ0122001",
+    "PWS Name": "VENTNOR CITY WATER & SEWER UTILITY",
+    "City": "VENTOR CITY",
+    "State": "New Jersey",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "4635",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "4635"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "4635"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "4635"
+    }
+}

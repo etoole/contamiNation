@@ -1,0 +1,32 @@
+{
+    "PWS ID": "TN0000209",
+    "PWS Name": "DYER WATER DEPT",
+    "City": "DYER",
+    "State": "Tennessee",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1019",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1019"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1019"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1019"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1019"
+    }
+}

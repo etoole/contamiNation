@@ -1,0 +1,20 @@
+{
+    "PWS ID": "AL0000181",
+    "PWS Name": "CAA-CTC PLAINVIEW HEAD START PROGRAM",
+    "City": "DADEVILLE",
+    "State": "Alabama",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "ID4010062",
+    "PWS Name": "FLYING H TRAILER RANCH INC",
+    "City": "BOISE",
+    "State": "Idaho",
+    "Compliance Status": "Returned to Compliance on 01/03/17",
+    "Service Connections": "127",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "127"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "127"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "127"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "127"
+    }
+}

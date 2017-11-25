@@ -1,0 +1,32 @@
+{
+    "PWS ID": "LA1011007",
+    "PWS Name": "TOWN OF MERRYVILLE WATER SYSTEM",
+    "City": "MERRYVILLE",
+    "State": "Louisiana",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "417",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "417"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "417"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "417"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "417"
+    }
+}

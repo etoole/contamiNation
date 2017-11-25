@@ -1,0 +1,26 @@
+{
+    "PWS ID": "WA5314572",
+    "PWS Name": "ALPS MOBILE HOME PARK",
+    "City": "Yakima",
+    "State": "Washington",
+    "Compliance Status": "Returned to Compliance on 01/01/00",
+    "Service Connections": "60",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "60"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "60"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "60"
+    }
+}

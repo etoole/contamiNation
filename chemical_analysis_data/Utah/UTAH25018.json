@@ -1,0 +1,32 @@
+{
+    "PWS ID": "UTAH25018",
+    "PWS Name": "MAPLETON CITY",
+    "City": "MAPLETON",
+    "State": "Utah",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "2530",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2530"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2530"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2530"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2530"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "PWS ID": "AZ0407003",
+    "PWS Name": "AGUILA WATER SERVICE",
+    "City": "SUN CITY",
+    "State": "Arizona",
+    "Compliance Status": "Returned to Compliance on 01/20/15",
+    "Service Connections": "316",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "316"
+    }
+}

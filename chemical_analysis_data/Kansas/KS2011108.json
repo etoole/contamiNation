@@ -1,0 +1,32 @@
+{
+    "PWS ID": "KS2011108",
+    "PWS Name": "LYON CO RWD 2",
+    "City": "EMPORIA",
+    "State": "Kansas",
+    "Compliance Status": "Returned to Compliance on 10/12/94",
+    "Service Connections": "357",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "357"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "357"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "357"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "357"
+    }
+}

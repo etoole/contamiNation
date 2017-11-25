@@ -1,0 +1,32 @@
+{
+    "PWS ID": "KS2001705",
+    "PWS Name": "CHASE CO RWD 1",
+    "City": "STRONG CITY",
+    "State": "Kansas",
+    "Compliance Status": "Returned to Compliance on 06/29/95",
+    "Service Connections": "140",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "140"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "140"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "140"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "140"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "SD4602064",
+    "PWS Name": "FORDHAM COLONY",
+    "City": "CARPENTER",
+    "State": "South Dakota",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "21",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "21"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "21"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "21"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "21"
+    }
+}

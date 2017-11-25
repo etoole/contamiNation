@@ -1,0 +1,20 @@
+{
+    "PWS ID": "AL0000860",
+    "PWS Name": "FRANKLIN WATER SYSTEM (TOWN OF)",
+    "City": "TUSKEGEE",
+    "State": "Alabama",
+    "Compliance Status": "Returned to Compliance on 07/30/07",
+    "Service Connections": "43",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "43"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "43"
+    }
+}

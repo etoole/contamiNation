@@ -1,0 +1,20 @@
+{
+    "PWS ID": "PA7360521",
+    "PWS Name": "SWIFT MIDDLE SCH",
+    "City": "QUARRYVILLE",
+    "State": "Pennsylvania",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "2377 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "2377 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1"
+    }
+}

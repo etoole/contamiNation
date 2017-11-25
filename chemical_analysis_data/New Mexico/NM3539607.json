@@ -1,0 +1,26 @@
+{
+    "PWS ID": "NM3539607",
+    "PWS Name": "VILLA DEL SOL MOBILE HOME PARK",
+    "City": "LAS CRUCES",
+    "State": "New Mexico",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "181",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "181"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "181"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "181"
+    }
+}

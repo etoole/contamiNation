@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WA5324164",
+    "PWS Name": "EVERGREEN RETREAT MHP",
+    "City": "Artesia",
+    "State": "Washington",
+    "Compliance Status": "Returned to Compliance on 12/31/15",
+    "Service Connections": "17",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "17"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "17"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "17"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "17"
+    }
+}

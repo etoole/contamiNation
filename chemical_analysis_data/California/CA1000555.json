@@ -1,0 +1,32 @@
+{
+    "PWS ID": "CA1000555",
+    "PWS Name": "FCSA #44C/RIVERVIEW ESTATES",
+    "City": "FRESNO",
+    "State": "California",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "12",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "12"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "12"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "12"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "12"
+    }
+}

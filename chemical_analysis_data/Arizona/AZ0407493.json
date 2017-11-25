@@ -1,0 +1,26 @@
+{
+    "PWS ID": "AZ0407493",
+    "PWS Name": "G LAZY B MOBILE HOME PARK",
+    "City": "WICKENBURG",
+    "State": "Arizona",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "25",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "25"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "25"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "25"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "MD0050205",
+    "PWS Name": "CEDAR MOBILE HOME PARK",
+    "City": "MARYDEL",
+    "State": "Maryland",
+    "Compliance Status": "Returned to Compliance on 01/19/17",
+    "Service Connections": "41",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "41"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "41"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "41"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "41"
+    }
+}

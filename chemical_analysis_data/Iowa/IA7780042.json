@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IA7780042",
+    "PWS Name": "URBANDALE WATER UTILITY",
+    "City": "URBANDALE",
+    "State": "Iowa",
+    "Compliance Status": "Returned to Compliance on 10/13/95",
+    "Service Connections": "15064",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "15064"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "15064"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "15064"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "15064"
+    }
+}

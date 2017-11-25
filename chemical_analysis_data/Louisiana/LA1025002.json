@@ -1,0 +1,32 @@
+{
+    "PWS ID": "LA1025002",
+    "PWS Name": "BLACK RIVER WATER SYSTEM",
+    "City": "GILBERT",
+    "State": "Louisiana",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "647",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "647"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "306"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "306"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "647"
+    }
+}

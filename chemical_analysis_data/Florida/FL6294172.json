@@ -1,0 +1,44 @@
+{
+    "PWS ID": "FL6294172",
+    "PWS Name": "GREEN OAKS MHP",
+    "City": "APOLLO BEACH",
+    "State": "Florida",
+    "Compliance Status": "Returned to Compliance on 05/18/16",
+    "Service Connections": "30",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/16",
+        "Service Connections": "30"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/16",
+        "Service Connections": "30"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/16",
+        "Service Connections": "30"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/01/16",
+        "Service Connections": "30"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/01/16",
+        "Service Connections": "30"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/01/16",
+        "Service Connections": "30"
+    }
+}

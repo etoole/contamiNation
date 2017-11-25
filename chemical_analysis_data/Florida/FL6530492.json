@@ -1,0 +1,26 @@
+{
+    "PWS ID": "FL6530492",
+    "PWS Name": "EAGLE LAKE, CITY OF",
+    "City": "EAGLE LAKE",
+    "State": "Florida",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "925",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "925"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "925"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "925"
+    }
+}

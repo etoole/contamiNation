@@ -1,0 +1,32 @@
+{
+    "PWS ID": "CA3410802",
+    "PWS Name": "RICHARD A. MCGEE TRAINING CENTER",
+    "City": "GALT",
+    "State": "California",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "28",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "15 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "28"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "15 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "28"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "15 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "28"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "15 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "28"
+    }
+}

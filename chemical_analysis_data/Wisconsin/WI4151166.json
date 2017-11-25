@@ -1,0 +1,26 @@
+{
+    "PWS ID": "WI4151166",
+    "PWS Name": "WASHINGTON ISLAND SCH",
+    "City": "WASHINGTON ISLAND",
+    "State": "Wisconsin",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1"
+    }
+}

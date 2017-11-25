@@ -1,0 +1,32 @@
+{
+    "PWS ID": "ME0007543",
+    "PWS Name": "COUNTRY MOBILE HOME PARK",
+    "City": "OLD TOWN",
+    "State": "Maine",
+    "Compliance Status": "Returned to Compliance on 10/10/12",
+    "Service Connections": "62",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "62"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "62"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "62"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "62"
+    }
+}

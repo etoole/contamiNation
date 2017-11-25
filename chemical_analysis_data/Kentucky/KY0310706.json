@@ -1,0 +1,32 @@
+{
+    "PWS ID": "KY0310706",
+    "PWS Name": "BROWNSVILLE MUNICIPAL WATER SYSTEM",
+    "City": "BROWNSVILLE",
+    "State": "Kentucky",
+    "Compliance Status": "Returned to Compliance on 02/23/01",
+    "Service Connections": "485",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "485"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "485"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "485"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "485"
+    }
+}

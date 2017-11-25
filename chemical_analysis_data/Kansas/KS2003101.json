@@ -1,0 +1,32 @@
+{
+    "PWS ID": "KS2003101",
+    "PWS Name": "BURLINGTON, CITY OF",
+    "City": "BURLINGTON",
+    "State": "Kansas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1343",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1343"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1343"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1343"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1343"
+    }
+}

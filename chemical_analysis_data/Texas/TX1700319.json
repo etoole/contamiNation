@@ -1,0 +1,32 @@
+{
+    "PWS ID": "TX1700319",
+    "PWS Name": "MONTGOMERY COUNTY MUD 19",
+    "City": "HOUSTON",
+    "State": "Texas",
+    "Compliance Status": "Returned to Compliance on 01/26/17",
+    "Service Connections": "1467",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1467"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1467"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1467"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1467"
+    }
+}

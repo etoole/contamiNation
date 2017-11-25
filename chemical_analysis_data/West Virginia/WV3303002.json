@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WV3303002",
+    "PWS Name": "GILBERT WATER WORKS",
+    "City": "GILBERT",
+    "State": "West Virginia",
+    "Compliance Status": "Returned to Compliance on 12/01/94",
+    "Service Connections": "741",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "741"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "741"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "741"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "741"
+    }
+}

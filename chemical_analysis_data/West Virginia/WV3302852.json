@@ -1,0 +1,14 @@
+{
+    "PWS ID": "WV3302852",
+    "PWS Name": "POCAHONTAS WATER SYSTEM",
+    "City": "POCAHONTAS",
+    "State": "West Virginia",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "531",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "531"
+    }
+}

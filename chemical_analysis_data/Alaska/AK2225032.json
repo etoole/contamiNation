@@ -1,0 +1,32 @@
+{
+    "PWS ID": "AK2225032",
+    "PWS Name": "TALKEETNA WATER SYSTEM",
+    "City": "PALMER",
+    "State": "Alaska",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "189",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "189"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "189"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "198"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "198"
+    }
+}

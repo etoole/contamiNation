@@ -1,0 +1,32 @@
+{
+    "PWS ID": "SC1450007",
+    "PWS Name": "CLARENDON CO W&SA QUAIL RIDGE (1450007)",
+    "City": "MANNING",
+    "State": "South Carolina",
+    "Compliance Status": "Returned to Compliance on 11/16/15",
+    "Service Connections": "80",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "80"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "80"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "80"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "80"
+    }
+}

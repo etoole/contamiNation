@@ -1,0 +1,32 @@
+{
+    "PWS ID": "VA4101600",
+    "PWS Name": "OAK SPRINGS",
+    "City": "ROCKVILLE",
+    "State": "Virginia",
+    "Compliance Status": "Returned to Compliance on 08/25/06",
+    "Service Connections": "379",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "379"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "379"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "379"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "379"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "PWS ID": "AZ0413042",
+    "PWS Name": "OAK CREEK PUBLIC SERVICE LLC",
+    "City": "CAMP VERDE",
+    "State": "Arizona",
+    "Compliance Status": "Returned to Compliance on 01/30/15",
+    "Service Connections": "318",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "318"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "318"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "318"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "AZ0410286",
+    "PWS Name": "RANCHO SIERRITA WELL ASSOC",
+    "City": "TUCSON",
+    "State": "Arizona",
+    "Compliance Status": "Returned to Compliance on 09/08/08",
+    "Service Connections": "33",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "33"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "33"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "33"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "33"
+    }
+}

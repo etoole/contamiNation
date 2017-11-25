@@ -1,0 +1,26 @@
+{
+    "PWS ID": "LA1127012",
+    "PWS Name": "CITY OF WINNFIELD WATER SYSTEM",
+    "City": "WINNFIELD",
+    "State": "Louisiana",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "2653",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2653"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2653"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2653"
+    }
+}

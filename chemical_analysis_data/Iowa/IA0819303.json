@@ -1,0 +1,26 @@
+{
+    "PWS ID": "IA0819303",
+    "PWS Name": "COAL VALLEY WATER DISTRICT",
+    "City": "OGDEN",
+    "State": "Iowa",
+    "Compliance Status": "Returned to Compliance on 01/27/00",
+    "Service Connections": "87",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "87"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "87"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "87"
+    }
+}

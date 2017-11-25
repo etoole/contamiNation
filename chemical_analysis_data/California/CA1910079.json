@@ -1,0 +1,32 @@
+{
+    "PWS ID": "CA1910079",
+    "PWS Name": "LYNWOOD-CITY, WATER DEPT.",
+    "City": "LYNWOOD",
+    "State": "California",
+    "Compliance Status": "Returned to Compliance on 11/16/07",
+    "Service Connections": "9021",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "9021"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "9069"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "9069"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "9021"
+    }
+}

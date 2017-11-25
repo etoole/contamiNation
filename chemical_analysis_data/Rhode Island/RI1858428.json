@@ -1,0 +1,32 @@
+{
+    "PWS ID": "RI1858428",
+    "PWS Name": "NARRAGANSETT WATER SYSTEM-POINT JUDITH",
+    "City": "NARRAGANSETT",
+    "State": "Rhode Island",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "3427",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "14 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "3427"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "14 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "3353"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "14 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "3427"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "14 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "3427"
+    }
+}

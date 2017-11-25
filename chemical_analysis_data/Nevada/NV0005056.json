@@ -1,0 +1,14 @@
+{
+    "PWS ID": "NV0005056",
+    "PWS Name": "CANYON GID",
+    "City": "SPARKS",
+    "State": "Nevada",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "512",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "512"
+    }
+}

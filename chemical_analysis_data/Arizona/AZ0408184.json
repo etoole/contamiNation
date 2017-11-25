@@ -1,0 +1,14 @@
+{
+    "PWS ID": "AZ0408184",
+    "PWS Name": "AZ STATE PRISON - GEO GROUP - KINGMAN",
+    "City": "KINGMAN",
+    "State": "Arizona",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "5",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "5"
+    }
+}

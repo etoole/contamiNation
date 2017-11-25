@@ -1,0 +1,32 @@
+{
+    "PWS ID": "SD4600408",
+    "PWS Name": "STRATFORD",
+    "City": "ABERDEEN",
+    "State": "South Dakota",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "45",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "45"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "45"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "45"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "45"
+    }
+}

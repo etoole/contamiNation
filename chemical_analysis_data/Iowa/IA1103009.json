@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IA1103009",
+    "PWS Name": "ALBERT CITY MUNI WATER SUPPLY",
+    "City": "ALBERT CITY",
+    "State": "Iowa",
+    "Compliance Status": "Returned to Compliance on 08/23/01",
+    "Service Connections": "340",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "340"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "340"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "340"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "340"
+    }
+}

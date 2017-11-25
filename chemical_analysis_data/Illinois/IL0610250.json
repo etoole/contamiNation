@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IL0610250",
+    "PWS Name": "KANE",
+    "City": "KANE",
+    "State": "Illinois",
+    "Compliance Status": "Returned to Compliance on 01/13/10",
+    "Service Connections": "197",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "197"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "197"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "197"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "197"
+    }
+}

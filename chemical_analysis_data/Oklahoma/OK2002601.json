@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OK2002601",
+    "PWS Name": "SKYVIEW TP",
+    "City": "EL RENO",
+    "State": "Oklahoma",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "20",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "20"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "20"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "20"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "20"
+    }
+}

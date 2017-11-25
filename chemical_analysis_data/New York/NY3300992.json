@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NY3300992",
+    "PWS Name": "ROLLING HILLS COMMUNITY, LLC",
+    "City": "WATERTOWN",
+    "State": "New York",
+    "Compliance Status": "Returned to Compliance on 10/16/09",
+    "Service Connections": "100",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "100"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "100"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "100"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "100"
+    }
+}

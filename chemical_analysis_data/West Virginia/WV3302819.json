@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WV3302819",
+    "PWS Name": "MATOAKA WATER SYSTEM",
+    "City": "MOTOAKA",
+    "State": "West Virginia",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "150",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "150"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "150"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "150"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "150"
+    }
+}

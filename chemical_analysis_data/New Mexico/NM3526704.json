@@ -1,0 +1,44 @@
+{
+    "PWS ID": "NM3526704",
+    "PWS Name": "CITY OF RATON/RATON WATER WORKS",
+    "City": "RATON",
+    "State": "New Mexico",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "3501",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3501"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3501"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3501"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3501"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3501"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3501"
+    }
+}

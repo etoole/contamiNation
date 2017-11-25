@@ -1,0 +1,26 @@
+{
+    "PWS ID": "TN0000138",
+    "PWS Name": "CHEROKEE HILLS UTILITY DISTRICT",
+    "City": "COPPERHILL",
+    "State": "Tennessee",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "122",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "122"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "114"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "114"
+    }
+}

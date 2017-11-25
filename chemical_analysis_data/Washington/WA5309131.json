@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WA5309131",
+    "PWS Name": "ELGERWOOD MAINTENANCE ASSOCIATION",
+    "City": "Oak Harbor",
+    "State": "Washington",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "46",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "46"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "46"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "46"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "46"
+    }
+}

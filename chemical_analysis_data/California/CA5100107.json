@@ -1,0 +1,38 @@
+{
+    "PWS ID": "CA5100107",
+    "PWS Name": "SUTTER CO. WWD#1 (ROBBINS)",
+    "City": "YUBA CITY",
+    "State": "California",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "93",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "93"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "93"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "93"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "93"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "93"
+    }
+}

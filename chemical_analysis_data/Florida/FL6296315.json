@@ -1,0 +1,26 @@
+{
+    "PWS ID": "FL6296315",
+    "PWS Name": "WILLIAMSON HIGGINS DAIRY FARM",
+    "City": "DOVER",
+    "State": "Florida",
+    "Compliance Status": "Returned to Compliance on 09/06/11",
+    "Service Connections": "28",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/16",
+        "Service Connections": "28"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/16",
+        "Service Connections": "28"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/16",
+        "Service Connections": "28"
+    }
+}

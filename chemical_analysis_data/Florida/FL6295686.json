@@ -1,0 +1,26 @@
+{
+    "PWS ID": "FL6295686",
+    "PWS Name": "CENTRAL MAINTENANCE ; WELDING MAIN OFFIC",
+    "City": "LITHIA",
+    "State": "Florida",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "7",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/01/16",
+        "Service Connections": "7"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/01/16",
+        "Service Connections": "7"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/01/16",
+        "Service Connections": "7"
+    }
+}

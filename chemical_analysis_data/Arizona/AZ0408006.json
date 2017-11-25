@@ -1,0 +1,14 @@
+{
+    "PWS ID": "AZ0408006",
+    "PWS Name": "BEAVER DAM WC SYSTEM 1",
+    "City": "LITTLEFIELD",
+    "State": "Arizona",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "465",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "465"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "PWS ID": "MD0070010",
+    "PWS Name": "ELKSIDE COMMUNITY, INC.",
+    "City": "ARDMORE",
+    "State": "Maryland",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "15",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "15"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "15"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "15"
+    }
+}

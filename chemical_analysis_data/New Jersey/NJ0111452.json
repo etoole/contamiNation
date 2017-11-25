@@ -1,0 +1,20 @@
+{
+    "PWS ID": "NJ0111452",
+    "PWS Name": "ATLANTIC COMMUNITY CHARTER SCHOOL",
+    "City": "GALLOWAY TOWNSHIP",
+    "State": "New Jersey",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "18 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "18 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "1"
+    }
+}

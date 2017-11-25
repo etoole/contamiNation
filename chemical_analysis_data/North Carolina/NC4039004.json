@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NC4039004",
+    "PWS Name": "WILTON WATER & SEWER SYSTEM",
+    "City": "BUTNER",
+    "State": "North Carolina",
+    "Compliance Status": "Returned to Compliance on 06/30/07",
+    "Service Connections": "7",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "7"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "7"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "7"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "7"
+    }
+}

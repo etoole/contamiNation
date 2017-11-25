@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OK1021668",
+    "PWS Name": "LOCUST GROVE",
+    "City": "LOCUST GROVE",
+    "State": "Oklahoma",
+    "Compliance Status": "Returned to Compliance on 10/28/13",
+    "Service Connections": "971",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "971"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "971"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "971"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "971"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "PWS ID": "NM3521813",
+    "PWS Name": "LOVINGTON MUNICIPAL WATER SUPPLY",
+    "City": "LOVINGTON",
+    "State": "New Mexico",
+    "Compliance Status": "Returned to Compliance on 09/20/16",
+    "Service Connections": "4056",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "4056"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "4056"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "4056"
+    }
+}

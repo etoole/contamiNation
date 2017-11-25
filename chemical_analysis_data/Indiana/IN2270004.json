@@ -1,0 +1,20 @@
+{
+    "PWS ID": "IN2270004",
+    "PWS Name": "AUTO OWNERS INSURANCE",
+    "City": "LANSING",
+    "State": "Indiana",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "3900 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "3900 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    }
+}

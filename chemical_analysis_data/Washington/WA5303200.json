@@ -1,0 +1,26 @@
+{
+    "PWS ID": "WA5303200",
+    "PWS Name": "ASHFORD WATER DISTRICT",
+    "City": "Ashford",
+    "State": "Washington",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "266",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "266"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "266"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "266"
+    }
+}

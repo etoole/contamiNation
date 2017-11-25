@@ -1,0 +1,26 @@
+{
+    "PWS ID": "WV3302460",
+    "PWS Name": "MCDOWELL COUNTY PSD MAYBEURY",
+    "City": "WELCH",
+    "State": "West Virginia",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "305",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "305"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "305"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "305"
+    }
+}

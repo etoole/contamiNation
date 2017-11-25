@@ -1,0 +1,26 @@
+{
+    "PWS ID": "OR4100599",
+    "PWS Name": "EXCALIBUR VILLAGE",
+    "City": "LAKE OSWEGO",
+    "State": "Oregon",
+    "Compliance Status": "Returned to Compliance on 10/10/11",
+    "Service Connections": "85",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "85"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "85"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "85"
+    }
+}

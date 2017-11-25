@@ -1,0 +1,26 @@
+{
+    "PWS ID": "PA2450623",
+    "PWS Name": "MONROE PLAZA",
+    "City": "PECKVILLE",
+    "State": "Pennsylvania",
+    "Compliance Status": "Returned to Compliance on 11/07/16",
+    "Service Connections": "2",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "15 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "2"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "15 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "2"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "15 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "2"
+    }
+}

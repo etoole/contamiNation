@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OH3300612",
+    "PWS Name": "KENTON CITY",
+    "City": "KENTON",
+    "State": "Ohio",
+    "Compliance Status": "Returned to Compliance on 07/31/95",
+    "Service Connections": "3240",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "3240"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "3240"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "3240"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "3240"
+    }
+}

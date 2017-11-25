@@ -1,0 +1,26 @@
+{
+    "PWS ID": "MI0820155",
+    "PWS Name": "FLEXFAB HASTINGS",
+    "City": "HASTINGS",
+    "State": "Michigan",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "2",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1782 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1782 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2"
+    },
+    "Result no.3": {
+        "Contaminant": "COPPER",
+        "Concentration": "1782 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2"
+    }
+}

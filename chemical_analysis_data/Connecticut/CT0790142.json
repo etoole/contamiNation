@@ -1,0 +1,26 @@
+{
+    "PWS ID": "CT0790142",
+    "PWS Name": "MARLBOROUGH CONGREGATIONAL CHURCH",
+    "City": "MARLBOROUGH",
+    "State": "Connecticut",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "3",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "10 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "10 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "10 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "3"
+    }
+}

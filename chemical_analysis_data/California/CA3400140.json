@@ -1,0 +1,32 @@
+{
+    "PWS ID": "CA3400140",
+    "PWS Name": "ASPEN GROVE MH & RV PARK (SWS)",
+    "City": "EL DORADO HILLS",
+    "State": "California",
+    "Compliance Status": "Returned to Compliance on 12/31/03",
+    "Service Connections": "35",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "35"
+    }
+}

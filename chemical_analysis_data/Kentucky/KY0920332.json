@@ -1,0 +1,26 @@
+{
+    "PWS ID": "KY0920332",
+    "PWS Name": "OHIO COUNTY WATER DISTRICT",
+    "City": "HARTFORD",
+    "State": "Kentucky",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "5994",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "5994"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "5994"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "5994"
+    }
+}

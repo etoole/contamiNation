@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IA2452044",
+    "PWS Name": "VAIL WATER SUPPLY",
+    "City": "VAIL",
+    "State": "Iowa",
+    "Compliance Status": "Returned to Compliance on 09/07/99",
+    "Service Connections": "205",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "205"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "205"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "205"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "205"
+    }
+}

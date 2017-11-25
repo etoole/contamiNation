@@ -1,0 +1,32 @@
+{
+    "PWS ID": "MI0003452",
+    "PWS Name": "ISLANDVIEW HOME OWNERS ASSOCIATION",
+    "City": "CHARLEVOIX",
+    "State": "Michigan",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "17",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "45 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "17"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "45 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "17"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "45 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "17"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "45 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "17"
+    }
+}

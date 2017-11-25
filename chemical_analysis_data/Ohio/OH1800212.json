@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OH1800212",
+    "PWS Name": "CHAGRIN FALLS VILLAGE PWS",
+    "City": "CHAGRIN FALLS",
+    "State": "Ohio",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "2501",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2501"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2501"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2501"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2501"
+    }
+}

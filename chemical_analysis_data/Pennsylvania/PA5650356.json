@@ -1,0 +1,20 @@
+{
+    "PWS ID": "PA5650356",
+    "PWS Name": "KEY BELLEVILLES INC",
+    "City": "LEECHBURG",
+    "State": "Pennsylvania",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1495 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1495 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "1"
+    }
+}

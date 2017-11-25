@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NY5000659",
+    "PWS Name": "SEAGERS MOBILE HOME PARK",
+    "City": "COOPERS PLAINS",
+    "State": "New York",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "24",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "24"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "24"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "24"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "24"
+    }
+}

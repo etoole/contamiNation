@@ -1,0 +1,56 @@
+{
+    "PWS ID": "NJ0111006",
+    "PWS Name": "SHADY PINES CAMPING RESORT",
+    "City": "GALLOWAY",
+    "State": "New Jersey",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "140",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "5800 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "140"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "5800 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "140"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "140"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "140"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "10 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "140"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "10 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "140"
+    },
+    "Result no.7": {
+        "Contaminant": "LEAD",
+        "Concentration": "10 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "140"
+    },
+    "Result no.8": {
+        "Contaminant": "LEAD",
+        "Concentration": "10 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "140"
+    }
+}

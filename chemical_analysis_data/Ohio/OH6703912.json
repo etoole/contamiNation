@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OH6703912",
+    "PWS Name": "SPRING LAKES MOBILE HOME PARK",
+    "City": "KENT",
+    "State": "Ohio",
+    "Compliance Status": "Returned to Compliance on 01/28/99",
+    "Service Connections": "109",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "109"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "109"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "109"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "109"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NC0239104",
+    "PWS Name": "LYON`S MHP",
+    "City": "CREEDMOOR",
+    "State": "North Carolina",
+    "Compliance Status": "Returned to Compliance on 09/03/09",
+    "Service Connections": "53",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "53"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "53"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "53"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "53"
+    }
+}

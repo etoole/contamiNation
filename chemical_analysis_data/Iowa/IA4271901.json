@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IA4271901",
+    "PWS Name": "QUAKERDALE",
+    "City": "NEW PROVIDENCE",
+    "State": "Iowa",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "13",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "13"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "13"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "13"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "13"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NC0184025",
+    "PWS Name": "PFEIFFER-N STANLY WATER ASSOC",
+    "City": "RICHFIELD",
+    "State": "North Carolina",
+    "Compliance Status": "Returned to Compliance on 07/29/08",
+    "Service Connections": "1550",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1550"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1550"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1550"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1550"
+    }
+}

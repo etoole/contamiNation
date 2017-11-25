@@ -1,0 +1,32 @@
+{
+    "PWS ID": "TX2360026",
+    "PWS Name": "GREEN RICH SHORES AND STERLING ISLAND SU",
+    "City": "NEW WAVERLY",
+    "State": "Texas",
+    "Compliance Status": "Returned to Compliance on 02/10/16",
+    "Service Connections": "99",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "25 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "99"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "25 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "99"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "25 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "99"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "25 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "99"
+    }
+}

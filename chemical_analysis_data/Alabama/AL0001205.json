@@ -1,0 +1,26 @@
+{
+    "PWS ID": "AL0001205",
+    "PWS Name": "PINEDALE SHORES WSFPA",
+    "City": "ASHVILLE",
+    "State": "Alabama",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "361",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "15 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "361"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "15 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "361"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "15 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "361"
+    }
+}

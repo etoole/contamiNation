@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OH7700512",
+    "PWS Name": "BEARS MOBILE HOME PARK",
+    "City": "AKRON",
+    "State": "Ohio",
+    "Compliance Status": "Returned to Compliance on 04/06/17",
+    "Service Connections": "15",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "15"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "15"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "15"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "15"
+    }
+}

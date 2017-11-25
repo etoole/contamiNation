@@ -1,0 +1,26 @@
+{
+    "PWS ID": "WA5333365",
+    "PWS Name": "HILLVIEW WATER ASSN",
+    "City": "Yakima",
+    "State": "Washington",
+    "Compliance Status": "Returned to Compliance on 12/31/08",
+    "Service Connections": "30",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "30"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "30"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "30"
+    }
+}

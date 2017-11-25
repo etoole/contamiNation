@@ -1,0 +1,14 @@
+{
+    "PWS ID": "CO0162125",
+    "PWS Name": "AULT TOWN OF",
+    "City": "AULT",
+    "State": "Colorado",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "591",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "591"
+    }
+}

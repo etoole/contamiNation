@@ -1,0 +1,32 @@
+{
+    "PWS ID": "TX0940003",
+    "PWS Name": "CITY OF SCHERTZ",
+    "City": "SCHERTZ",
+    "State": "Texas",
+    "Compliance Status": "Returned to Compliance on 05/28/14",
+    "Service Connections": "14941",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "14941"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "14941"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "14941"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "14941"
+    }
+}

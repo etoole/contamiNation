@@ -1,0 +1,68 @@
+{
+    "PWS ID": "NC3095022",
+    "PWS Name": "APPALCART TRANSIT FACILITY",
+    "City": "BOONE",
+    "State": "North Carolina",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "5370 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "5370 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "35 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "35 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "35 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "1"
+    },
+    "Result no.6": {
+        "Contaminant": "COPPER",
+        "Concentration": "1630 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    },
+    "Result no.7": {
+        "Contaminant": "COPPER",
+        "Concentration": "1630 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    },
+    "Result no.8": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    },
+    "Result no.9": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    },
+    "Result no.10": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1"
+    }
+}

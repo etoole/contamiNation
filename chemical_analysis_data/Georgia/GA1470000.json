@@ -1,0 +1,26 @@
+{
+    "PWS ID": "GA1470000",
+    "PWS Name": "HARTWELL",
+    "City": "HARTWELL",
+    "State": "Georgia",
+    "Compliance Status": "Returned to Compliance on 06/26/98",
+    "Service Connections": "2737",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2737"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2737"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2737"
+    }
+}

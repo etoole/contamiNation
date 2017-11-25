@@ -1,0 +1,14 @@
+{
+    "PWS ID": "AK2270257",
+    "PWS Name": "GOODNEWS BAY",
+    "City": "ANCHORAGE",
+    "State": "Alaska",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "75",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "130 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "75"
+    }
+}

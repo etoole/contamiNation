@@ -1,0 +1,26 @@
+{
+    "PWS ID": "TX0610191",
+    "PWS Name": "CREEKSIDE WATER SYSTEM",
+    "City": "FARMIGTON HILLS",
+    "State": "Texas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "584",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "584"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "584"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "584"
+    }
+}

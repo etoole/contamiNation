@@ -1,0 +1,80 @@
+{
+    "PWS ID": "WI6180297",
+    "PWS Name": "FALLS CITY MHP 1",
+    "City": "CEDAREDGE",
+    "State": "Wisconsin",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "37",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "13 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "37"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "13 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "37"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "13 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "37"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "13 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "37"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "37"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "37"
+    },
+    "Result no.7": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "37"
+    },
+    "Result no.8": {
+        "Contaminant": "COPPER",
+        "Concentration": "4080 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "37"
+    },
+    "Result no.9": {
+        "Contaminant": "COPPER",
+        "Concentration": "4080 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "37"
+    },
+    "Result no.10": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "37"
+    },
+    "Result no.11": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "37"
+    },
+    "Result no.12": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "37"
+    }
+}

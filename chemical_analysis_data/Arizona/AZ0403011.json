@@ -1,0 +1,32 @@
+{
+    "PWS ID": "AZ0403011",
+    "PWS Name": "HECKETHORN WATER COMPANY",
+    "City": "FLAGSTAFF",
+    "State": "Arizona",
+    "Compliance Status": "Returned to Compliance on 01/13/17",
+    "Service Connections": "45",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "45"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "45"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "45"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "45"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WA5392500",
+    "PWS Name": "WALLA WALLA WATER DIVISION",
+    "City": "Walla Walla",
+    "State": "Washington",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "13915",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "13915"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "13915"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "13915"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "13915"
+    }
+}

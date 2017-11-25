@@ -1,0 +1,26 @@
+{
+    "PWS ID": "WI2682795",
+    "PWS Name": "ARBORS",
+    "City": "DELAFIELD",
+    "State": "Wisconsin",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "68",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "68"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "68"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "09/30/15",
+        "Service Connections": "68"
+    }
+}

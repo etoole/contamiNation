@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OR4191916",
+    "PWS Name": "THREE RIVERS SCHOOL DISTRICT OFFICE",
+    "City": "GRANTS PASS",
+    "State": "Oregon",
+    "Compliance Status": "Returned to Compliance on 09/12/94",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "MA1309001",
+    "PWS Name": "QUABBIN SUNRISE COOPERATIVE INC",
+    "City": "WARE",
+    "State": "Massachusetts",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "65",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "65"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "65"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "65"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "65"
+    }
+}

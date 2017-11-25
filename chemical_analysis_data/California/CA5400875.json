@@ -1,0 +1,26 @@
+{
+    "PWS ID": "CA5400875",
+    "PWS Name": "DIXON WATER COMPANY",
+    "City": "THREE RIVERS",
+    "State": "California",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "5",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "5"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "5"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "5"
+    }
+}

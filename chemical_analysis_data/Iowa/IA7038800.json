@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IA7038800",
+    "PWS Name": "RANCHO VALLEY HOMEOWNERS ASSOC",
+    "City": "MUSCATINE",
+    "State": "Iowa",
+    "Compliance Status": "Returned to Compliance on 06/04/00",
+    "Service Connections": "36",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "36"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "36"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "36"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "36"
+    }
+}

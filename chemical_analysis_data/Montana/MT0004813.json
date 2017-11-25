@@ -1,0 +1,14 @@
+{
+    "PWS ID": "MT0004813",
+    "PWS Name": "UNIVERSITY OF GREAT FALLS",
+    "City": "GREAT FALLS",
+    "State": "Montana",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "10",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "10"
+    }
+}

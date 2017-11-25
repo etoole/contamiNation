@@ -1,0 +1,26 @@
+{
+    "PWS ID": "FL3350481",
+    "PWS Name": "HAINES CREEK MOBILE HOME PARK",
+    "City": "LONGWOOD",
+    "State": "Florida",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "110",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "110"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "110"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "110"
+    }
+}

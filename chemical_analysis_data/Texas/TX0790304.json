@@ -1,0 +1,26 @@
+{
+    "PWS ID": "TX0790304",
+    "PWS Name": "THE GEORGE RANCH",
+    "City": "RICHMOND",
+    "State": "Texas",
+    "Compliance Status": "Returned to Compliance on 05/16/16",
+    "Service Connections": "16",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "18 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "16"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "18 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "16"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "18 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "16"
+    }
+}

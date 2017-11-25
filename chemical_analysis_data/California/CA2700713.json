@@ -1,0 +1,26 @@
+{
+    "PWS ID": "CA2700713",
+    "PWS Name": "ROLLING HILLS RANCHO WA",
+    "City": "SALINAS",
+    "State": "California",
+    "Compliance Status": "Returned to Compliance on 04/04/00",
+    "Service Connections": "59",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "59"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "59"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "59"
+    }
+}

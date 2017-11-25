@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NJ1922004",
+    "PWS Name": "SUEZ WATER NEW JERSEY CLIFFWOOD LAKES",
+    "City": "HIGHLAND LAKES",
+    "State": "New Jersey",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "37",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "37"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "37"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "37"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "37"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OK1021620",
+    "PWS Name": "HULBERT PWA",
+    "City": "HULBERT",
+    "State": "Oklahoma",
+    "Compliance Status": "Returned to Compliance on 03/11/13",
+    "Service Connections": "382",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "382"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "382"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "382"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "382"
+    }
+}

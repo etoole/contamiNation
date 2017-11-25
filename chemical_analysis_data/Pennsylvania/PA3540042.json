@@ -1,0 +1,26 @@
+{
+    "PWS ID": "PA3540042",
+    "PWS Name": "PINE TERRACE MOBILE HOME PARK",
+    "City": "GAP",
+    "State": "Pennsylvania",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "24",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "32 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "24"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "32 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "24"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "32 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "24"
+    }
+}

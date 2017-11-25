@@ -1,0 +1,68 @@
+{
+    "PWS ID": "NJ1026301",
+    "PWS Name": "ESC SCHOOL AT WEST AMWELL",
+    "City": "CALIFON",
+    "State": "New Jersey",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "03/31/17",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "03/31/17",
+        "Service Connections": "1"
+    },
+    "Result no.4": {
+        "Contaminant": "COPPER",
+        "Concentration": "2200 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.5": {
+        "Contaminant": "COPPER",
+        "Concentration": "2200 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.6": {
+        "Contaminant": "COPPER",
+        "Concentration": "2200 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.7": {
+        "Contaminant": "LEAD",
+        "Concentration": "19 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.8": {
+        "Contaminant": "LEAD",
+        "Concentration": "19 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.9": {
+        "Contaminant": "LEAD",
+        "Concentration": "19 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    },
+    "Result no.10": {
+        "Contaminant": "LEAD",
+        "Concentration": "19 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1"
+    }
+}

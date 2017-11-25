@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NY1600355",
+    "PWS Name": "THAYERS CORNERS WD",
+    "City": "CHATEAUGAY",
+    "State": "New York",
+    "Compliance Status": "Returned to Compliance on 08/11/16",
+    "Service Connections": "48",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "48"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "48"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "48"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "48"
+    }
+}

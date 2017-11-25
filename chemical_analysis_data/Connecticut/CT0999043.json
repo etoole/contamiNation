@@ -1,0 +1,32 @@
+{
+    "PWS ID": "CT0999043",
+    "PWS Name": "TILCON CONNECTICUT INC. - NORTH BRANFORD",
+    "City": "NORTH BRANFORD",
+    "State": "Connecticut",
+    "Compliance Status": "Returned to Compliance on 05/25/17",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1"
+    }
+}

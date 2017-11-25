@@ -1,0 +1,26 @@
+{
+    "PWS ID": "KY0420534",
+    "PWS Name": "GRAVES CO WATER DIST - SEDALIA",
+    "City": "MAYFIELD",
+    "State": "Kentucky",
+    "Compliance Status": "Returned to Compliance on 07/09/99",
+    "Service Connections": "138",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "138"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "138"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "138"
+    }
+}

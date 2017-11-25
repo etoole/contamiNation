@@ -1,0 +1,20 @@
+{
+    "PWS ID": "MO3069089",
+    "PWS Name": "STONEY RIDGE VILLAGE",
+    "City": "KANSAS CITY",
+    "State": "Missouri",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "54",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "54"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "1"
+    }
+}

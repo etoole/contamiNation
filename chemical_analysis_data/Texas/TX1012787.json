@@ -1,0 +1,32 @@
+{
+    "PWS ID": "TX1012787",
+    "PWS Name": "VINE APOSTOLIC CHURCH",
+    "City": "RANCHO CUCAMONGA",
+    "State": "Texas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "4",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "20 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "4"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "25 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "4"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "25 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "4"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "25 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "4"
+    }
+}

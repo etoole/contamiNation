@@ -1,0 +1,32 @@
+{
+    "PWS ID": "SC2310005",
+    "PWS Name": "GREER CPW (2310005)",
+    "City": "GREER",
+    "State": "South Carolina",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "18522",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "18522"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "18522"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "18522"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "18522"
+    }
+}

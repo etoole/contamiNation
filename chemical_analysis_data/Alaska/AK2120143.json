@@ -1,0 +1,26 @@
+{
+    "PWS ID": "AK2120143",
+    "PWS Name": "WRANGELL",
+    "City": "WRANGELL",
+    "State": "Alaska",
+    "Compliance Status": "Returned to Compliance on 04/18/16",
+    "Service Connections": "753",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "753"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "753"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "753"
+    }
+}

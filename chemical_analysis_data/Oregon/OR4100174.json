@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OR4100174",
+    "PWS Name": "KNOLL TERRACE PARK",
+    "City": "CORVALLIS",
+    "State": "Oregon",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "212",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "212"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "212"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "212"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "212"
+    }
+}

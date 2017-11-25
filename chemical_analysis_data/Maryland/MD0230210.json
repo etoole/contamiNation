@@ -1,0 +1,26 @@
+{
+    "PWS ID": "MD0230210",
+    "PWS Name": "FOUR SEASONS PARK INC.",
+    "City": "OCEAN CITY",
+    "State": "Maryland",
+    "Compliance Status": "Returned to Compliance on 02/11/02",
+    "Service Connections": "21",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "21"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "21"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "21"
+    }
+}

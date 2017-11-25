@@ -1,0 +1,26 @@
+{
+    "PWS ID": "KY0480262",
+    "PWS Name": "LYNCH WATER WORKS",
+    "City": "LYNCH",
+    "State": "Kentucky",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "400",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "400"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "400"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "400"
+    }
+}

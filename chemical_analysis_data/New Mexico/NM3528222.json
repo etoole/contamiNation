@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NM3528222",
+    "PWS Name": "DORA WATER SYSTEM",
+    "City": "DORA",
+    "State": "New Mexico",
+    "Compliance Status": "Returned to Compliance on 06/13/00",
+    "Service Connections": "62",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "62"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "62"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "62"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "62"
+    }
+}

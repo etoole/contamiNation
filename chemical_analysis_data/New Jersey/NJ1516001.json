@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NJ1516001",
+    "PWS Name": "LITTLE EGG HARBOR TWP MU",
+    "City": "LITTLE EGG HARBOR",
+    "State": "New Jersey",
+    "Compliance Status": "Returned to Compliance on 05/12/97",
+    "Service Connections": "9620",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "9620"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "8700"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "8700"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "9620"
+    }
+}

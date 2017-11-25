@@ -1,0 +1,20 @@
+{
+    "PWS ID": "PA1150102",
+    "PWS Name": "UMH OXFORD VILLAGE MHP",
+    "City": "WEST GROVE",
+    "State": "Pennsylvania",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "224",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1513 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "224"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1513 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "224"
+    }
+}

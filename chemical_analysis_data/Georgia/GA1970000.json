@@ -1,0 +1,20 @@
+{
+    "PWS ID": "GA1970000",
+    "PWS Name": "BUENA VISTA",
+    "City": "BUENA VISTA",
+    "State": "Georgia",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "681",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "2100 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "681"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "2100 ppb",
+        "End Date": "06/30/15",
+        "Service Connections": "679"
+    }
+}

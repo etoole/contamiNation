@@ -1,0 +1,26 @@
+{
+    "PWS ID": "WI4390100",
+    "PWS Name": "EUROPLAST LTD",
+    "City": "ENDEAVOR",
+    "State": "Wisconsin",
+    "Compliance Status": "Returned to Compliance on 04/15/03",
+    "Service Connections": "2",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "2"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "2"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "09/30/16",
+        "Service Connections": "2"
+    }
+}

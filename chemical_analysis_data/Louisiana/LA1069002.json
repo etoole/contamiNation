@@ -1,0 +1,32 @@
+{
+    "PWS ID": "LA1069002",
+    "PWS Name": "CLARENCE WATER SYSTEM",
+    "City": "CLARENCE",
+    "State": "Louisiana",
+    "Compliance Status": "Returned to Compliance on 06/09/08",
+    "Service Connections": "224",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "224"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "224"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "224"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "224"
+    }
+}

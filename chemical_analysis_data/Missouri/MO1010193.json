@@ -1,0 +1,14 @@
+{
+    "PWS ID": "MO1010193",
+    "PWS Name": "CREIGHTON",
+    "City": "CREIGHTON",
+    "State": "Missouri",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "145",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "145"
+    }
+}

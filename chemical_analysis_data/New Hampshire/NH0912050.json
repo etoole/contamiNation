@@ -1,0 +1,50 @@
+{
+    "PWS ID": "NH0912050",
+    "PWS Name": "MT LAUREL ESTATES",
+    "City": "GOFFSTOWN",
+    "State": "New Hampshire",
+    "Compliance Status": "Returned to Compliance on 12/08/16",
+    "Service Connections": "46",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "26 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "46"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "26 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "46"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "26 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "46"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "26 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "46"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "30 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "46"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "30 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "46"
+    },
+    "Result no.7": {
+        "Contaminant": "LEAD",
+        "Concentration": "30 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "46"
+    }
+}

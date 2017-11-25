@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OH0200712",
+    "PWS Name": "INDIAN VILLAGE MOBILE HOME PARK",
+    "City": "MAUMEE",
+    "State": "Ohio",
+    "Compliance Status": "Returned to Compliance on 10/08/13",
+    "Service Connections": "204",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "204"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "204"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "204"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "204"
+    }
+}

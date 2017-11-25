@@ -1,0 +1,20 @@
+{
+    "PWS ID": "CA4900844",
+    "PWS Name": "FRANCIS COPPOLA WINERY",
+    "City": "GEYSERVILLE",
+    "State": "California",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "4",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "4"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "9 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "4"
+    }
+}

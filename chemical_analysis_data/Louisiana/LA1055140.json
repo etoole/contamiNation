@@ -1,0 +1,32 @@
+{
+    "PWS ID": "LA1055140",
+    "PWS Name": "TESI OSSUN HEIGHTS",
+    "City": "BATON ROUGE",
+    "State": "Louisiana",
+    "Compliance Status": "Returned to Compliance on 01/30/08",
+    "Service Connections": "132",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "132"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "132"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "132"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "132"
+    }
+}

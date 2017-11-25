@@ -1,0 +1,26 @@
+{
+    "PWS ID": "FL2544266",
+    "PWS Name": "ST. JOHN'S RIVER CLUB UTILITIES",
+    "City": "KINGS OF PRUSSIA",
+    "State": "Florida",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "85",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/01/16",
+        "Service Connections": "85"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/01/16",
+        "Service Connections": "85"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/01/16",
+        "Service Connections": "85"
+    }
+}

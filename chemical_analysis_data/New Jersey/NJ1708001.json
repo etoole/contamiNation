@@ -1,0 +1,26 @@
+{
+    "PWS ID": "NJ1708001",
+    "PWS Name": "PENNSVILLE TWSP. WATER DEPART.",
+    "City": "PENNSVILLE",
+    "State": "New Jersey",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "4813",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "4813"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "4813"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "4813"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "CA1500364",
+    "PWS Name": "KRVWC - KERNVALE MUTUAL WATER CO",
+    "City": "LAKE ISABELLA",
+    "State": "California",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "32",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "32"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "31"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "31"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "8 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "31"
+    }
+}

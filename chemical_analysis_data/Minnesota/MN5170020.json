@@ -1,0 +1,14 @@
+{
+    "PWS ID": "MN5170020",
+    "PWS Name": "Prime Pork",
+    "City": "Windom",
+    "State": "Minnesota",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "4180 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "1"
+    }
+}

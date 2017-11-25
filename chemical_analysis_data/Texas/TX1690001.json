@@ -1,0 +1,32 @@
+{
+    "PWS ID": "TX1690001",
+    "PWS Name": "CITY OF BOWIE",
+    "City": "BOWIE",
+    "State": "Texas",
+    "Compliance Status": "Returned to Compliance on 01/27/17",
+    "Service Connections": "3297",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "3297"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "3297"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "3297"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "3297"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "PWS ID": "KY0760672",
+    "PWS Name": "KIRKSVILLE WATER ASSOCIATION",
+    "City": "RICHMOND",
+    "State": "Kentucky",
+    "Compliance Status": "Returned to Compliance on 06/20/00",
+    "Service Connections": "1689",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1689"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1689"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1689"
+    }
+}

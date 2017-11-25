@@ -1,0 +1,32 @@
+{
+    "PWS ID": "GA1850000",
+    "PWS Name": "HAHIRA",
+    "City": "HAHIRA",
+    "State": "Georgia",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1314",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1314"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1314"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1314"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1314"
+    }
+}

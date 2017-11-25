@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OR4101032",
+    "PWS Name": "WESTERN CARRIAGE ESTATES",
+    "City": "MEDFORD",
+    "State": "Oregon",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "100",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "100"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "100"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "100"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "7 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "100"
+    }
+}

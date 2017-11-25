@@ -1,0 +1,32 @@
+{
+    "PWS ID": "SC4660007",
+    "PWS Name": "TWIN LAKES ESTATES (4660007)",
+    "City": "COMMERCE TOWNSHIP",
+    "State": "South Carolina",
+    "Compliance Status": "Returned to Compliance on 12/31/15",
+    "Service Connections": "254",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "254"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "254"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "254"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "254"
+    }
+}

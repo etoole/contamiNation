@@ -1,0 +1,32 @@
+{
+    "PWS ID": "KS2106711",
+    "PWS Name": "LINN OPERATING INC ULYSSES SOUTH OFFICE",
+    "City": "ULYSSES",
+    "State": "Kansas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "11",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "11"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "11"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "11"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "11"
+    }
+}

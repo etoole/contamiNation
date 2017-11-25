@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OH8502312",
+    "PWS Name": "MOUNT EATON VILLAGE PWS",
+    "City": "DALTON",
+    "State": "Ohio",
+    "Compliance Status": "Returned to Compliance on 01/04/11",
+    "Service Connections": "230",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "230"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "230"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "230"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "230"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "PWS ID": "CO0123552",
+    "PWS Name": "NO NAME CREEK WS",
+    "City": "GLENWOOD SPRINGS",
+    "State": "Colorado",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "80",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "80"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "6 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "80"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "24 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "80"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "24 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "80"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "24 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "80"
+    },
+    "Result no.6": {
+        "Contaminant": "LEAD",
+        "Concentration": "24 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "80"
+    }
+}

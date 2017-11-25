@@ -1,0 +1,32 @@
+{
+    "PWS ID": "LA1103038",
+    "PWS Name": "SUN WATER SUPPLY",
+    "City": "SUN",
+    "State": "Louisiana",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "252",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "252"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "252"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "252"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "252"
+    }
+}

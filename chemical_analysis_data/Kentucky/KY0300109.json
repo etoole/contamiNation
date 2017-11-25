@@ -1,0 +1,26 @@
+{
+    "PWS ID": "KY0300109",
+    "PWS Name": "E DAVIESS CO WATER ASSOC INC",
+    "City": "KNOTTSVILLE",
+    "State": "Kentucky",
+    "Compliance Status": "Returned to Compliance on 08/23/05",
+    "Service Connections": "4460",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "4460"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "4460"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "4460"
+    }
+}

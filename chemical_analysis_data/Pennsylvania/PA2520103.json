@@ -1,0 +1,20 @@
+{
+    "PWS ID": "PA2520103",
+    "PWS Name": "MOON VALLEY FALLS",
+    "City": "MILFORD",
+    "State": "Pennsylvania",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "50",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1360 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "50"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1360 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "50"
+    }
+}

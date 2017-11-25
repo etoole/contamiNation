@@ -1,0 +1,26 @@
+{
+    "PWS ID": "NY1006329",
+    "PWS Name": "SKI LODGE TRAILER PARK",
+    "City": "PITTSFIELD",
+    "State": "New York",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "27",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "27"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "27"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "27"
+    }
+}

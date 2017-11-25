@@ -1,0 +1,26 @@
+{
+    "PWS ID": "AZ0407700",
+    "PWS Name": "FEDERAL CORRECTION INSTITUTION",
+    "City": "PHOENIX",
+    "State": "Arizona",
+    "Compliance Status": "Returned to Compliance on 04/10/08",
+    "Service Connections": "24",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "24"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "24"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "24"
+    }
+}

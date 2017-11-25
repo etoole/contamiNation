@@ -1,0 +1,32 @@
+{
+    "PWS ID": "GA1850125",
+    "PWS Name": "USAF-MOODY AIR FORCE BASE-MAIN",
+    "City": "MOODY AFB",
+    "State": "Georgia",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "2500",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2500"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2500"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2500"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2500"
+    }
+}

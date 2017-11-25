@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NM3510517",
+    "PWS Name": "WHISPERING CEDARS WATER ASSOCIATION",
+    "City": "JAMESTOWN",
+    "State": "New Mexico",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "107",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "107"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "107"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "107"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "4 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "107"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "PWS ID": "MT0000021",
+    "PWS Name": "BAKER  CITY OF",
+    "City": "BAKER",
+    "State": "Montana",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "863",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "14 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "863"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "949"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "949"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "863"
+    }
+}

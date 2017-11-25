@@ -1,0 +1,14 @@
+{
+    "PWS ID": "RI2980458",
+    "PWS Name": "TIVERTON FOUR CORNERS",
+    "City": "ADAMSVILLE",
+    "State": "Rhode Island",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "6",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "67 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "6"
+    }
+}

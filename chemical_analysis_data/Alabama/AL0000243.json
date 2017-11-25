@@ -1,0 +1,20 @@
+{
+    "PWS ID": "AL0000243",
+    "PWS Name": "NORTH CHOCTAW WATER & SEWER AUTHORITY",
+    "City": "LISMAN",
+    "State": "Alabama",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1184",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1184"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "5 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "1184"
+    }
+}

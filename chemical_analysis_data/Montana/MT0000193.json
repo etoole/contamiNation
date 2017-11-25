@@ -1,0 +1,32 @@
+{
+    "PWS ID": "MT0000193",
+    "PWS Name": "CUT BANK  CITY OF",
+    "City": "CUTBANK",
+    "State": "Montana",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1526",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1526"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1526"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1530"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "1530"
+    }
+}

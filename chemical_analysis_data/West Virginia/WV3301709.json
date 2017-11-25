@@ -1,0 +1,32 @@
+{
+    "PWS ID": "WV3301709",
+    "PWS Name": "ENLARGED HEPZIBAH PSD",
+    "City": "HEPZIBAH",
+    "State": "West Virginia",
+    "Compliance Status": "Returned to Compliance on 03/29/14",
+    "Service Connections": "838",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "838"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "838"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "838"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "838"
+    }
+}

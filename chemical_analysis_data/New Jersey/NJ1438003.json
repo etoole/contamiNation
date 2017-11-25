@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NJ1438003",
+    "PWS Name": "WASHINGTON TWP MUA-HAGER",
+    "City": "LONG VALLEY",
+    "State": "New Jersey",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1055",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1055"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1055"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1055"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1055"
+    }
+}

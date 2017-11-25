@@ -1,0 +1,32 @@
+{
+    "PWS ID": "CO0201006",
+    "PWS Name": "BARR LAKE RVP",
+    "City": "WHEAT RIDGE",
+    "State": "Colorado",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "106",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "106"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "106"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "106"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "106"
+    }
+}

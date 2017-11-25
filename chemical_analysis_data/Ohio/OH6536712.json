@@ -1,0 +1,32 @@
+{
+    "PWS ID": "OH6536712",
+    "PWS Name": "ODNR-DEER CREEK STATE PARK/LODGE PWS",
+    "City": "COLUMBUS",
+    "State": "Ohio",
+    "Compliance Status": "Returned to Compliance on 12/19/08",
+    "Service Connections": "42",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "42"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "42"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "42"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "42"
+    }
+}

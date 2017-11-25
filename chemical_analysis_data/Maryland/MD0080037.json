@@ -1,0 +1,26 @@
+{
+    "PWS ID": "MD0080037",
+    "PWS Name": "POMFRET ESTATES - UTILCO, INC.",
+    "City": "WALDORF",
+    "State": "Maryland",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "53",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "53"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "53"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "11 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "53"
+    }
+}

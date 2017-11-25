@@ -1,0 +1,32 @@
+{
+    "PWS ID": "KY0960499",
+    "PWS Name": "PENDLETON CO WATER DISTRICT #1/SOUTH",
+    "City": "FALMOUTH",
+    "State": "Kentucky",
+    "Compliance Status": "Returned to Compliance on 06/28/94",
+    "Service Connections": "1250",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1250"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1250"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1250"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "1250"
+    }
+}

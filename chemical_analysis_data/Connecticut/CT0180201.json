@@ -1,0 +1,14 @@
+{
+    "PWS ID": "CT0180201",
+    "PWS Name": "WOODCREEK VILLAGE CONDOMINIUM ASSN, INC",
+    "City": "DANBURY",
+    "State": "Connecticut",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "24",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/18",
+        "Service Connections": "24"
+    }
+}

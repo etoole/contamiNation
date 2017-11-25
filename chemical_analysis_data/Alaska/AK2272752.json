@@ -1,0 +1,14 @@
+{
+    "PWS ID": "AK2272752",
+    "PWS Name": "OLD KASIGLUK - AKIUK",
+    "City": "KASIGLUK",
+    "State": "Alaska",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "5",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "3 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "5"
+    }
+}

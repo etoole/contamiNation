@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IA8531083",
+    "PWS Name": "GILBERT WATER SUPPLY",
+    "City": "GILBERT",
+    "State": "Iowa",
+    "Compliance Status": "Returned to Compliance on 07/16/08",
+    "Service Connections": "335",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "335"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "335"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "335"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "335"
+    }
+}

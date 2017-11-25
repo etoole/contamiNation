@@ -1,0 +1,32 @@
+{
+    "PWS ID": "LA1101011",
+    "PWS Name": "WATER & SEWER COMMISSION 4 OF ST MARY",
+    "City": "CHARENTON",
+    "State": "Louisiana",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "2382",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "2382"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2382"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2382"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "2 ppb",
+        "End Date": "12/31/14",
+        "Service Connections": "2382"
+    }
+}

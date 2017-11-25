@@ -1,0 +1,14 @@
+{
+    "PWS ID": "WY5600256",
+    "PWS Name": "NEWCASTLE, CITY OF",
+    "City": "NEWCASTLE",
+    "State": "Wyoming",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "1564",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "1 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "1564"
+    }
+}

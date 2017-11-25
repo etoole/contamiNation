@@ -1,0 +1,20 @@
+{
+    "PWS ID": "TX2290041",
+    "PWS Name": "LAKESIDE WATER SUPPLY 4",
+    "City": "DOUCETTE",
+    "State": "Texas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "35",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "1700 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "35"
+    },
+    "Result no.2": {
+        "Contaminant": "COPPER",
+        "Concentration": "1700 ppb",
+        "End Date": "06/30/16",
+        "Service Connections": "35"
+    }
+}

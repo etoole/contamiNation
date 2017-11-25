@@ -1,0 +1,26 @@
+{
+    "PWS ID": "FL6411078",
+    "PWS Name": "LINGER LODGE TR TRAILER PARK",
+    "City": "BRADENTON",
+    "State": "Florida",
+    "Compliance Status": "Returned to Compliance on 10/01/05",
+    "Service Connections": "110",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "110"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "110"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/01/15",
+        "Service Connections": "110"
+    }
+}

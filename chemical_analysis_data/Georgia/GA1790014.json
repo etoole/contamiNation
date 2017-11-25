@@ -1,0 +1,32 @@
+{
+    "PWS ID": "GA1790014",
+    "PWS Name": "WOODLAND LAKES",
+    "City": "SAVANNAH",
+    "State": "Georgia",
+    "Compliance Status": "Returned to Compliance on 09/26/03",
+    "Service Connections": "426",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "426"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "426"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "426"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "426"
+    }
+}

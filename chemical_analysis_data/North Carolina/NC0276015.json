@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NC0276015",
+    "PWS Name": "RANDLEMAN, CITY OF",
+    "City": "RANDLEMAN",
+    "State": "North Carolina",
+    "Compliance Status": "Returned to Compliance on 06/08/08",
+    "Service Connections": "2514",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2514"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2514"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2514"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "2514"
+    }
+}

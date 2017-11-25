@@ -1,0 +1,38 @@
+{
+    "PWS ID": "TX1470031",
+    "PWS Name": "SLC WSC",
+    "City": "GROESBECK",
+    "State": "Texas",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "568",
+    "Result no.1": {
+        "Contaminant": "COPPER",
+        "Concentration": "2500 ppb",
+        "End Date": "06/30/17",
+        "Service Connections": "568"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "22 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "568"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "22 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "568"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "22 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "568"
+    },
+    "Result no.5": {
+        "Contaminant": "LEAD",
+        "Concentration": "22 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "568"
+    }
+}

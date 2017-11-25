@@ -1,0 +1,32 @@
+{
+    "PWS ID": "ID6060117",
+    "PWS Name": "MORELAND WATER AND SEWER DISTRICT",
+    "City": "MORELAND",
+    "State": "Idaho",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "79",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "79"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "79"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "79"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "79"
+    }
+}

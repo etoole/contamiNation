@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IL0894380",
+    "PWS Name": "ELGIN",
+    "City": "ELGIN",
+    "State": "Illinois",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "31898",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "31898"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "31898"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "31898"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "12 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "31898"
+    }
+}

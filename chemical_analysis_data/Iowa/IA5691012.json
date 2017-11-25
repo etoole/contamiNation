@@ -1,0 +1,32 @@
+{
+    "PWS ID": "IA5691012",
+    "PWS Name": "WEST POINT MUNI WATER SYSTEM",
+    "City": "WEST POINT",
+    "State": "Iowa",
+    "Compliance Status": "Returned to Compliance on 08/20/13",
+    "Service Connections": "489",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "489"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "489"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "489"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "489"
+    }
+}

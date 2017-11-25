@@ -1,0 +1,14 @@
+{
+    "PWS ID": "AZ0415029",
+    "PWS Name": "HARRISBURG UTILITY COMPANY",
+    "City": "SALOME",
+    "State": "Arizona",
+    "Compliance Status": "Returned to Compliance on 11/24/14",
+    "Service Connections": "528",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/17",
+        "Service Connections": "528"
+    }
+}

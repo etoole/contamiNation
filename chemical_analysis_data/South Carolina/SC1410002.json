@@ -1,0 +1,32 @@
+{
+    "PWS ID": "SC1410002",
+    "PWS Name": "MANNING TOWN OF (1410002)",
+    "City": "MANNING",
+    "State": "South Carolina",
+    "Compliance Status": "Returned to Compliance on 01/10/01",
+    "Service Connections": "2893",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2893"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2893"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2893"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/15",
+        "Service Connections": "2893"
+    }
+}

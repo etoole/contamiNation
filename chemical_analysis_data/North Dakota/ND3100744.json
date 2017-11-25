@@ -1,0 +1,32 @@
+{
+    "PWS ID": "ND3100744",
+    "PWS Name": "NEW TOWN CITY OF",
+    "City": "NEW TOWN",
+    "State": "North Dakota",
+    "Compliance Status": "Not Compliant",
+    "Service Connections": "600",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "600"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "600"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "600"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "600"
+    }
+}

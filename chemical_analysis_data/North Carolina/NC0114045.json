@@ -1,0 +1,32 @@
+{
+    "PWS ID": "NC0114045",
+    "PWS Name": "CALDWELL COUNTY WATER--WEST",
+    "City": "LENOIR",
+    "State": "North Carolina",
+    "Compliance Status": "Returned to Compliance on 06/09/93",
+    "Service Connections": "3200",
+    "Result no.1": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "3200"
+    },
+    "Result no.2": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "3200"
+    },
+    "Result no.3": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "3200"
+    },
+    "Result no.4": {
+        "Contaminant": "LEAD",
+        "Concentration": "0 ppb",
+        "End Date": "12/31/16",
+        "Service Connections": "3200"
+    }
+}
