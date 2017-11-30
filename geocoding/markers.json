@@ -9,7 +9,7 @@
             ]
         },
         "properties": {
-            "name": "RIVERDALE ESTATES",
+            "title": "RIVERDALE ESTATES",
             "pwsid": "CA3301040",
             "markercolor": "Green"
         }
@@ -24,7 +24,7 @@
             ]
         },
         "properties": {
-            "name": "BLYTHE MOBILE HOME ESTATES",
+            "title": "BLYTHE MOBILE HOME ESTATES",
             "pwsid": "CA3301045",
             "markercolor": "Green"
         }
@@ -39,7 +39,7 @@
             ]
         },
         "properties": {
-            "name": "VILLAGE OF CHILD HELP",
+            "title": "VILLAGE OF CHILD HELP",
             "pwsid": "CA3301055",
             "markercolor": "Green"
         }
@@ -54,7 +54,7 @@
             ]
         },
         "properties": {
-            "name": "COUNTRY HILLS RV PARK",
+            "title": "COUNTRY HILLS RV PARK",
             "pwsid": "CA3301058",
             "markercolor": "Green"
         }
@@ -69,7 +69,7 @@
             ]
         },
         "properties": {
-            "name": "CARVER TRACT MUTUAL WATER COMP",
+            "title": "CARVER TRACT MUTUAL WATER COMP",
             "pwsid": "CA3301107",
             "markercolor": "Green"
         }
@@ -84,7 +84,7 @@
             ]
         },
         "properties": {
-            "name": "CHERRY VALLEY WATER COMPANY",
+            "title": "CHERRY VALLEY WATER COMPANY",
             "pwsid": "CA3301114",
             "markercolor": "Green"
         }
@@ -99,7 +99,7 @@
             ]
         },
         "properties": {
-            "name": "CVUSD, WESTSIDE SCHOOL",
+            "title": "CVUSD, WESTSIDE SCHOOL",
             "pwsid": "CA3301153",
             "markercolor": "Green"
         }
@@ -114,7 +114,7 @@
             ]
         },
         "properties": {
-            "name": "MURRIETA PALMS MOBILE HOME PARK",
+            "title": "MURRIETA PALMS MOBILE HOME PARK",
             "pwsid": "CA3301169",
             "markercolor": "Green"
         }
@@ -129,7 +129,7 @@
             ]
         },
         "properties": {
-            "name": "DESERT VIEW TRAILER PARK",
+            "title": "DESERT VIEW TRAILER PARK",
             "pwsid": "CA3301209",
             "markercolor": "Green"
         }
@@ -144,7 +144,7 @@
             ]
         },
         "properties": {
-            "name": "ELMS MOBILE PARK",
+            "title": "ELMS MOBILE PARK",
             "pwsid": "CA3301247",
             "markercolor": "Green"
         }
@@ -159,7 +159,7 @@
             ]
         },
         "properties": {
-            "name": "FISHERMAN'S RETREAT",
+            "title": "FISHERMAN'S RETREAT",
             "pwsid": "CA3301267",
             "markercolor": "Yellow"
         }
@@ -174,7 +174,7 @@
             ]
         },
         "properties": {
-            "name": "THERMAL MUTUAL WATER COMPANY",
+            "title": "THERMAL MUTUAL WATER COMPANY",
             "pwsid": "CA3301276",
             "markercolor": "Green"
         }
@@ -189,7 +189,7 @@
             ]
         },
         "properties": {
-            "name": "GOLDEN ERA PRODUCTIONS",
+            "title": "GOLDEN ERA PRODUCTIONS",
             "pwsid": "CA3301280",
             "markercolor": "Green"
         }
@@ -204,7 +204,7 @@
             ]
         },
         "properties": {
-            "name": "GLEN EDEN SUN CLUB",
+            "title": "GLEN EDEN SUN CLUB",
             "pwsid": "CA3301283",
             "markercolor": "Green"
         }
@@ -219,7 +219,7 @@
             ]
         },
         "properties": {
-            "name": "COTTONWOOD SCHOOL",
+            "title": "COTTONWOOD SCHOOL",
             "pwsid": "CA3301308",
             "markercolor": "Green"
         }
@@ -234,7 +234,7 @@
             ]
         },
         "properties": {
-            "name": "HAMILTON SCHOOL",
+            "title": "HAMILTON SCHOOL",
             "pwsid": "CA3301309",
             "markercolor": "Green"
         }
@@ -249,7 +249,7 @@
             ]
         },
         "properties": {
-            "name": "INDIAN OAKS TRAILER PARK",
+            "title": "INDIAN OAKS TRAILER PARK",
             "pwsid": "CA3301330",
             "markercolor": "Green"
         }
@@ -264,7 +264,7 @@
             ]
         },
         "properties": {
-            "name": "SAINT ANTHONY TRAILER PARK",
+            "title": "SAINT ANTHONY TRAILER PARK",
             "pwsid": "CA3301380",
             "markercolor": "Green"
         }
@@ -279,7 +279,7 @@
             ]
         },
         "properties": {
-            "name": "JOJOBA HILLS SKP RESORT, INC.",
+            "title": "JOJOBA HILLS SKP RESORT, INC.",
             "pwsid": "CA3301385",
             "markercolor": "Green"
         }
@@ -294,7 +294,7 @@
             ]
         },
         "properties": {
-            "name": "DESERT DUNES GOLF CLUB LTD",
+            "title": "DESERT DUNES GOLF CLUB LTD",
             "pwsid": "CA3301388",
             "markercolor": "Green"
         }
@@ -309,7 +309,7 @@
             ]
         },
         "properties": {
-            "name": "ALPINE VILLAGE",
+            "title": "ALPINE VILLAGE",
             "pwsid": "CA3301491",
             "markercolor": "Green"
         }
@@ -324,7 +324,7 @@
             ]
         },
         "properties": {
-            "name": "PALM SPRINGS AERIAL TRAMWAY",
+            "title": "PALM SPRINGS AERIAL TRAMWAY",
             "pwsid": "CA3301494",
             "markercolor": "Green"
         }
@@ -339,7 +339,7 @@
             ]
         },
         "properties": {
-            "name": "PINYON CREST HOA",
+            "title": "PINYON CREST HOA",
             "pwsid": "CA3301511",
             "markercolor": "Green"
         }
@@ -354,7 +354,7 @@
             ]
         },
         "properties": {
-            "name": "PINYON PINES COUNTY WATER DIST",
+            "title": "PINYON PINES COUNTY WATER DIST",
             "pwsid": "CA3301512",
             "markercolor": "Yellow"
         }
@@ -369,7 +369,7 @@
             ]
         },
         "properties": {
-            "name": "OAK HAVEN ASSOCIATION",
+            "title": "OAK HAVEN ASSOCIATION",
             "pwsid": "CA3301528",
             "markercolor": "Green"
         }
@@ -384,7 +384,7 @@
             ]
         },
         "properties": {
-            "name": "RAMONA WATER COMPANY",
+            "title": "RAMONA WATER COMPANY",
             "pwsid": "CA3301529",
             "markercolor": "Green"
         }
@@ -399,7 +399,7 @@
             ]
         },
         "properties": {
-            "name": "RECHE CANYON MUTUAL WATER CO.",
+            "title": "RECHE CANYON MUTUAL WATER CO.",
             "pwsid": "CA3301541",
             "markercolor": "Green"
         }
@@ -414,7 +414,7 @@
             ]
         },
         "properties": {
-            "name": "CSA 62",
+            "title": "CSA 62",
             "pwsid": "CA3301577",
             "markercolor": "Green"
         }
@@ -429,7 +429,7 @@
             ]
         },
         "properties": {
-            "name": "TRAILS END MUTUAL WATER COMPANY",
+            "title": "TRAILS END MUTUAL WATER COMPANY",
             "pwsid": "CA3301682",
             "markercolor": "Green"
         }
@@ -444,7 +444,7 @@
             ]
         },
         "properties": {
-            "name": "VALLEY VIEW TRAILER PARK",
+            "title": "VALLEY VIEW TRAILER PARK",
             "pwsid": "CA3301717",
             "markercolor": "Green"
         }
@@ -459,7 +459,7 @@
             ]
         },
         "properties": {
-            "name": "HIGH VALLEYS WATER DISTRICT",
+            "title": "HIGH VALLEYS WATER DISTRICT",
             "pwsid": "CA3301775",
             "markercolor": "Green"
         }
@@ -474,7 +474,7 @@
             ]
         },
         "properties": {
-            "name": "CASTRO TRAILER PARK",
+            "title": "CASTRO TRAILER PARK",
             "pwsid": "CA3301803",
             "markercolor": "Green"
         }
@@ -489,7 +489,7 @@
             ]
         },
         "properties": {
-            "name": "SHARONDALE MESA HOA",
+            "title": "SHARONDALE MESA HOA",
             "pwsid": "CA3301879",
             "markercolor": "Green"
         }
@@ -504,7 +504,7 @@
             ]
         },
         "properties": {
-            "name": "MESQUITE MUTUAL WATER CO.",
+            "title": "MESQUITE MUTUAL WATER CO.",
             "pwsid": "CA3301937",
             "markercolor": "Green"
         }
@@ -519,7 +519,7 @@
             ]
         },
         "properties": {
-            "name": "PLANTATION ON THE LAKE PARK",
+            "title": "PLANTATION ON THE LAKE PARK",
             "pwsid": "CA3301943",
             "markercolor": "Green"
         }
@@ -534,7 +534,7 @@
             ]
         },
         "properties": {
-            "name": "AIDA AGUIRRE",
+            "title": "AIDA AGUIRRE",
             "pwsid": "CA3302079",
             "markercolor": "Green"
         }
@@ -549,7 +549,7 @@
             ]
         },
         "properties": {
-            "name": "GRANITE CONSTRUCTION COMPANY",
+            "title": "GRANITE CONSTRUCTION COMPANY",
             "pwsid": "CA3303026",
             "markercolor": "Green"
         }
@@ -564,7 +564,7 @@
             ]
         },
         "properties": {
-            "name": "LOS GATOS TRAILER PARK",
+            "title": "LOS GATOS TRAILER PARK",
             "pwsid": "CA3303035",
             "markercolor": "Green"
         }
@@ -579,7 +579,7 @@
             ]
         },
         "properties": {
-            "name": "MORONGO GOLF COURSE AT TUKWET CNYN",
+            "title": "MORONGO GOLF COURSE AT TUKWET CNYN",
             "pwsid": "CA3303071",
             "markercolor": "Green"
         }
@@ -594,7 +594,7 @@
             ]
         },
         "properties": {
-            "name": "GOOSE CREEK GOLF CLUB",
+            "title": "GOOSE CREEK GOLF CLUB",
             "pwsid": "CA3303072",
             "markercolor": "Green"
         }
@@ -609,7 +609,7 @@
             ]
         },
         "properties": {
-            "name": "BEAUMONT CHERRY VALLEY WD",
+            "title": "BEAUMONT CHERRY VALLEY WD",
             "pwsid": "CA3310002",
             "markercolor": "Green"
         }
@@ -624,7 +624,7 @@
             ]
         },
         "properties": {
-            "name": "COACHELLA WATER AUTHORITY",
+            "title": "COACHELLA WATER AUTHORITY",
             "pwsid": "CA3310007",
             "markercolor": "Green"
         }
@@ -639,7 +639,7 @@
             ]
         },
         "properties": {
-            "name": "ELSINORE VALLEY MWD",
+            "title": "ELSINORE VALLEY MWD",
             "pwsid": "CA3310012",
             "markercolor": "Green"
         }
@@ -654,7 +654,7 @@
             ]
         },
         "properties": {
-            "name": "HEMET, CITY OF",
+            "title": "HEMET, CITY OF",
             "pwsid": "CA3310016",
             "markercolor": "Green"
         }
@@ -669,7 +669,7 @@
             ]
         },
         "properties": {
-            "name": "SOUTH MESA WC",
+            "title": "SOUTH MESA WC",
             "pwsid": "CA3310017",
             "markercolor": "Green"
         }
@@ -684,7 +684,7 @@
             ]
         },
         "properties": {
-            "name": "IDYLLWILD WATER DISTRICT",
+            "title": "IDYLLWILD WATER DISTRICT",
             "pwsid": "CA3310019",
             "markercolor": "Yellow"
         }
@@ -699,7 +699,7 @@
             ]
         },
         "properties": {
-            "name": "RIVERSIDE CSA #122-MESA VERDE",
+            "title": "RIVERSIDE CSA #122-MESA VERDE",
             "pwsid": "CA3310028",
             "markercolor": "Green"
         }
@@ -714,7 +714,7 @@
             ]
         },
         "properties": {
-            "name": "PERRIS, CITY OF",
+            "title": "PERRIS, CITY OF",
             "pwsid": "CA3310029",
             "markercolor": "Green"
         }
@@ -729,7 +729,7 @@
             ]
         },
         "properties": {
-            "name": "PINE COVE WATER DISTRICT",
+            "title": "PINE COVE WATER DISTRICT",
             "pwsid": "CA3310030",
             "markercolor": "Green"
         }
@@ -744,7 +744,7 @@
             ]
         },
         "properties": {
-            "name": "SANTA ANA RIVER WATER COMPANY",
+            "title": "SANTA ANA RIVER WATER COMPANY",
             "pwsid": "CA3310033",
             "markercolor": "Green"
         }
@@ -759,7 +759,7 @@
             ]
         },
         "properties": {
-            "name": "WESTERN MWD - MURRIETA DIVISION",
+            "title": "WESTERN MWD - MURRIETA DIVISION",
             "pwsid": "CA3310036",
             "markercolor": "Green"
         }
@@ -774,7 +774,7 @@
             ]
         },
         "properties": {
-            "name": "CORONA, CITY OF",
+            "title": "CORONA, CITY OF",
             "pwsid": "CA3310037",
             "markercolor": "Yellow"
         }
@@ -789,7 +789,7 @@
             ]
         },
         "properties": {
-            "name": "FARM MUTUAL W.C. (THE)",
+            "title": "FARM MUTUAL W.C. (THE)",
             "pwsid": "CA3310046",
             "markercolor": "Green"
         }
@@ -804,7 +804,7 @@
             ]
         },
         "properties": {
-            "name": "CABAZON WATER DISTRICT",
+            "title": "CABAZON WATER DISTRICT",
             "pwsid": "CA3310047",
             "markercolor": "Yellow"
         }
@@ -819,7 +819,7 @@
             ]
         },
         "properties": {
-            "name": "MYOMA DUNES MUTUAL WATER COMPANY",
+            "title": "MYOMA DUNES MUTUAL WATER COMPANY",
             "pwsid": "CA3310051",
             "markercolor": "Green"
         }
@@ -834,7 +834,7 @@
             ]
         },
         "properties": {
-            "name": "TEMESCAL VALLEY WATER DISTRICT",
+            "title": "TEMESCAL VALLEY WATER DISTRICT",
             "pwsid": "CA3310074",
             "markercolor": "Green"
         }
@@ -849,7 +849,7 @@
             ]
         },
         "properties": {
-            "name": "CALIFORNIA REHABILITATION CENTER - NORCO",
+            "title": "CALIFORNIA REHABILITATION CENTER - NORCO",
             "pwsid": "CA3310800",
             "markercolor": "Yellow"
         }
@@ -864,7 +864,7 @@
             ]
         },
         "properties": {
-            "name": "BAUTISTA CC NO. 36",
+            "title": "BAUTISTA CC NO. 36",
             "pwsid": "CA3310801",
             "markercolor": "Green"
         }
@@ -879,7 +879,7 @@
             ]
         },
         "properties": {
-            "name": "CHUCKAWALLA VALLEY STATE PRISON",
+            "title": "CHUCKAWALLA VALLEY STATE PRISON",
             "pwsid": "CA3310802",
             "markercolor": "Yellow"
         }
@@ -894,7 +894,7 @@
             ]
         },
         "properties": {
-            "name": "B & W RESORT MARINA",
+            "title": "B & W RESORT MARINA",
             "pwsid": "CA3400103",
             "markercolor": "Green"
         }
@@ -909,7 +909,7 @@
             ]
         },
         "properties": {
-            "name": "EL DORADO MOBILE HOME PARK",
+            "title": "EL DORADO MOBILE HOME PARK",
             "pwsid": "CA3400121",
             "markercolor": "Green"
         }
@@ -924,7 +924,7 @@
             ]
         },
         "properties": {
-            "name": "EL DORADO WEST MHP",
+            "title": "EL DORADO WEST MHP",
             "pwsid": "CA3400122",
             "markercolor": "Green"
         }
@@ -939,7 +939,7 @@
             ]
         },
         "properties": {
-            "name": "FREEPORT MARINA",
+            "title": "FREEPORT MARINA",
             "pwsid": "CA3400125",
             "markercolor": "Green"
         }
@@ -954,7 +954,7 @@
             ]
         },
         "properties": {
-            "name": "KORTHS PIRATES LAIR",
+            "title": "KORTHS PIRATES LAIR",
             "pwsid": "CA3400135",
             "markercolor": "Green"
         }
@@ -969,7 +969,7 @@
             ]
         },
         "properties": {
-            "name": "ASPEN GROVE MH & RV PARK (SWS)",
+            "title": "ASPEN GROVE MH & RV PARK (SWS)",
             "pwsid": "CA3400140",
             "markercolor": "Green"
         }
@@ -984,7 +984,7 @@
             ]
         },
         "properties": {
-            "name": "RANCHO MARINA",
+            "title": "RANCHO MARINA",
             "pwsid": "CA3400149",
             "markercolor": "Red"
         }
@@ -999,7 +999,7 @@
             ]
         },
         "properties": {
-            "name": "DELTA CROSSING MHP",
+            "title": "DELTA CROSSING MHP",
             "pwsid": "CA3400150",
             "markercolor": "Green"
         }
@@ -1014,7 +1014,7 @@
             ]
         },
         "properties": {
-            "name": "VIEIRA'S RESORT, INC",
+            "title": "VIEIRA'S RESORT, INC",
             "pwsid": "CA3400164",
             "markercolor": "Yellow"
         }
@@ -1029,7 +1029,7 @@
             ]
         },
         "properties": {
-            "name": "SPINDRIFT MARINA",
+            "title": "SPINDRIFT MARINA",
             "pwsid": "CA3400169",
             "markercolor": "Yellow"
         }
@@ -1044,7 +1044,7 @@
             ]
         },
         "properties": {
-            "name": "LAGUNA DEL SOL INC",
+            "title": "LAGUNA DEL SOL INC",
             "pwsid": "CA3400181",
             "markercolor": "Green"
         }
@@ -1059,7 +1059,7 @@
             ]
         },
         "properties": {
-            "name": "ELEVEN OAKS MOBILE HOME COMMUNITY",
+            "title": "ELEVEN OAKS MOBILE HOME COMMUNITY",
             "pwsid": "CA3400191",
             "markercolor": "Yellow"
         }
@@ -1074,7 +1074,7 @@
             ]
         },
         "properties": {
-            "name": "CARA BAY APARTMENTS",
+            "title": "CARA BAY APARTMENTS",
             "pwsid": "CA3400198",
             "markercolor": "Green"
         }
@@ -1089,7 +1089,7 @@
             ]
         },
         "properties": {
-            "name": "ARCOHE ELEM SCHOOL - MAIN CAMPUS",
+            "title": "ARCOHE ELEM SCHOOL - MAIN CAMPUS",
             "pwsid": "CA3400271",
             "markercolor": "Green"
         }
@@ -1104,7 +1104,7 @@
             ]
         },
         "properties": {
-            "name": "WESTERNER MOBILE HOME PARK",
+            "title": "WESTERNER MOBILE HOME PARK",
             "pwsid": "CA3400331",
             "markercolor": "Green"
         }
@@ -1119,7 +1119,7 @@
             ]
         },
         "properties": {
-            "name": "HOLIDAY MOBILE VILLAGE",
+            "title": "HOLIDAY MOBILE VILLAGE",
             "pwsid": "CA3400335",
             "markercolor": "Red"
         }
@@ -1134,7 +1134,7 @@
             ]
         },
         "properties": {
-            "name": "ACORN MOBILE VILLAGE",
+            "title": "ACORN MOBILE VILLAGE",
             "pwsid": "CA3400352",
             "markercolor": "Yellow"
         }
@@ -1149,7 +1149,7 @@
             ]
         },
         "properties": {
-            "name": "PLANTATION MOBILE HOME PARK",
+            "title": "PLANTATION MOBILE HOME PARK",
             "pwsid": "CA3400401",
             "markercolor": "Green"
         }
@@ -1164,7 +1164,7 @@
             ]
         },
         "properties": {
-            "name": "STAFFORD MEAT COMPANY",
+            "title": "STAFFORD MEAT COMPANY",
             "pwsid": "CA3400456",
             "markercolor": "Green"
         }
@@ -1179,7 +1179,7 @@
             ]
         },
         "properties": {
-            "name": "FOLSOM, CITY OF - MAIN",
+            "title": "FOLSOM, CITY OF - MAIN",
             "pwsid": "CA3410014",
             "markercolor": "Green"
         }
@@ -1194,7 +1194,7 @@
             ]
         },
         "properties": {
-            "name": "RIO LINDA/ELVERTA COMMUNITY WATER DIST",
+            "title": "RIO LINDA/ELVERTA COMMUNITY WATER DIST",
             "pwsid": "CA3410018",
             "markercolor": "Green"
         }
@@ -1209,7 +1209,7 @@
             ]
         },
         "properties": {
-            "name": "OLYMPIA MOBILODGE",
+            "title": "OLYMPIA MOBILODGE",
             "pwsid": "CA3410022",
             "markercolor": "Green"
         }
@@ -1224,7 +1224,7 @@
             ]
         },
         "properties": {
-            "name": "RICHARD A. MCGEE TRAINING CENTER",
+            "title": "RICHARD A. MCGEE TRAINING CENTER",
             "pwsid": "CA3410802",
             "markercolor": "Green"
         }
@@ -1239,7 +1239,7 @@
             ]
         },
         "properties": {
-            "name": "BITTERWATER-TULLY SCHOOL WS",
+            "title": "BITTERWATER-TULLY SCHOOL WS",
             "pwsid": "CA3500507",
             "markercolor": "Green"
         }
@@ -1254,7 +1254,7 @@
             ]
         },
         "properties": {
-            "name": "CASA DE FRUTA ORCHARDS",
+            "title": "CASA DE FRUTA ORCHARDS",
             "pwsid": "CA3500511",
             "markercolor": "Green"
         }
@@ -1269,7 +1269,7 @@
             ]
         },
         "properties": {
-            "name": "RIVER OAKS R.V.P.",
+            "title": "RIVER OAKS R.V.P.",
             "pwsid": "CA3500524",
             "markercolor": "Green"
         }
@@ -1284,7 +1284,7 @@
             ]
         },
         "properties": {
-            "name": "VALENZUELA WATER SYSTEM",
+            "title": "VALENZUELA WATER SYSTEM",
             "pwsid": "CA3500527",
             "markercolor": "Red"
         }
@@ -1299,7 +1299,7 @@
             ]
         },
         "properties": {
-            "name": "MISSION FARM R.V. PARK",
+            "title": "MISSION FARM R.V. PARK",
             "pwsid": "CA3500556",
             "markercolor": "Green"
         }
@@ -1314,7 +1314,7 @@
             ]
         },
         "properties": {
-            "name": "PACIFIC SCIENTIFIC ENERGETIC MATS. COMP.",
+            "title": "PACIFIC SCIENTIFIC ENERGETIC MATS. COMP.",
             "pwsid": "CA3500563",
             "markercolor": "Green"
         }
@@ -1329,7 +1329,7 @@
             ]
         },
         "properties": {
-            "name": "B & R FARMS",
+            "title": "B & R FARMS",
             "pwsid": "CA3500570",
             "markercolor": "Green"
         }
@@ -1344,7 +1344,7 @@
             ]
         },
         "properties": {
-            "name": "SAN BENITO HIGH SCHOOL",
+            "title": "SAN BENITO HIGH SCHOOL",
             "pwsid": "CA3500571",
             "markercolor": "Red"
         }
@@ -1359,7 +1359,7 @@
             ]
         },
         "properties": {
-            "name": "VINEYARD ESTATES MWC",
+            "title": "VINEYARD ESTATES MWC",
             "pwsid": "CA3500579",
             "markercolor": "Green"
         }
@@ -1374,7 +1374,7 @@
             ]
         },
         "properties": {
-            "name": "SEMINIS VEGETABLES SEEDS, INC.",
+            "title": "SEMINIS VEGETABLES SEEDS, INC.",
             "pwsid": "CA3500804",
             "markercolor": "Green"
         }
@@ -1389,7 +1389,7 @@
             ]
         },
         "properties": {
-            "name": "AROMAS WATER DISTRICT",
+            "title": "AROMAS WATER DISTRICT",
             "pwsid": "CA3510004",
             "markercolor": "Yellow"
         }
@@ -1404,7 +1404,7 @@
             ]
         },
         "properties": {
-            "name": "MISSION OAKS MOBILE HOME PARK",
+            "title": "MISSION OAKS MOBILE HOME PARK",
             "pwsid": "CA3510006",
             "markercolor": "Green"
         }
@@ -1419,7 +1419,7 @@
             ]
         },
         "properties": {
-            "name": "APPLE VALLEY FOOTHILL CWD",
+            "title": "APPLE VALLEY FOOTHILL CWD",
             "pwsid": "CA3600008",
             "markercolor": "Green"
         }
@@ -1434,7 +1434,7 @@
             ]
         },
         "properties": {
-            "name": "APPLE VALLEY HEIGHTS CWD",
+            "title": "APPLE VALLEY HEIGHTS CWD",
             "pwsid": "CA3600009",
             "markercolor": "Green"
         }
@@ -1449,7 +1449,7 @@
             ]
         },
         "properties": {
-            "name": "LIBERTY UTILITIES APPLE VALLEY",
+            "title": "LIBERTY UTILITIES APPLE VALLEY",
             "pwsid": "CA3600010",
             "markercolor": "Green"
         }
@@ -1464,7 +1464,7 @@
             ]
         },
         "properties": {
-            "name": "BAKER COMMUNITY SERVICES DISTRICT",
+            "title": "BAKER COMMUNITY SERVICES DISTRICT",
             "pwsid": "CA3600022",
             "markercolor": "Green"
         }
@@ -1479,7 +1479,7 @@
             ]
         },
         "properties": {
-            "name": "CALICO GHOST TOWN",
+            "title": "CALICO GHOST TOWN",
             "pwsid": "CA3600036",
             "markercolor": "Green"
         }
@@ -1494,7 +1494,7 @@
             ]
         },
         "properties": {
-            "name": "DEER LODGE WATER SYSTEM",
+            "title": "DEER LODGE WATER SYSTEM",
             "pwsid": "CA3600087",
             "markercolor": "Green"
         }
@@ -1509,7 +1509,7 @@
             ]
         },
         "properties": {
-            "name": "MITSUBISHI CEMENT PLANT CUSHENBURY",
+            "title": "MITSUBISHI CEMENT PLANT CUSHENBURY",
             "pwsid": "CA3600141",
             "markercolor": "Yellow"
         }
@@ -1524,7 +1524,7 @@
             ]
         },
         "properties": {
-            "name": "LYTLE SPRINGS WC",
+            "title": "LYTLE SPRINGS WC",
             "pwsid": "CA3600158",
             "markercolor": "Green"
         }
@@ -1539,7 +1539,7 @@
             ]
         },
         "properties": {
-            "name": "MOLYCORP MINERALS LLC",
+            "title": "MOLYCORP MINERALS LLC",
             "pwsid": "CA3600172",
             "markercolor": "Yellow"
         }
@@ -1554,7 +1554,7 @@
             ]
         },
         "properties": {
-            "name": "NORTH SHORE MWC",
+            "title": "NORTH SHORE MWC",
             "pwsid": "CA3600184",
             "markercolor": "Yellow"
         }
@@ -1569,7 +1569,7 @@
             ]
         },
         "properties": {
-            "name": "OLIVE DELL RANCH",
+            "title": "OLIVE DELL RANCH",
             "pwsid": "CA3600187",
             "markercolor": "Green"
         }
@@ -1584,7 +1584,7 @@
             ]
         },
         "properties": {
-            "name": "PG & E PIPELINE OPERATION",
+            "title": "PG & E PIPELINE OPERATION",
             "pwsid": "CA3600192",
             "markercolor": "Yellow"
         }
@@ -1599,7 +1599,7 @@
             ]
         },
         "properties": {
-            "name": "JUNIPER RIVIERA CWD",
+            "title": "JUNIPER RIVIERA CWD",
             "pwsid": "CA3600222",
             "markercolor": "Green"
         }
@@ -1614,7 +1614,7 @@
             ]
         },
         "properties": {
-            "name": "GORDON ACRES WATER CO",
+            "title": "GORDON ACRES WATER CO",
             "pwsid": "CA3600297",
             "markercolor": "Yellow"
         }
@@ -1629,7 +1629,7 @@
             ]
         },
         "properties": {
-            "name": "STRAWBERRY LODGE MWC",
+            "title": "STRAWBERRY LODGE MWC",
             "pwsid": "CA3600301",
             "markercolor": "Yellow"
         }
@@ -1644,7 +1644,7 @@
             ]
         },
         "properties": {
-            "name": "WEST END MWC",
+            "title": "WEST END MWC",
             "pwsid": "CA3600345",
             "markercolor": "Green"
         }
@@ -1659,7 +1659,7 @@
             ]
         },
         "properties": {
-            "name": "PALMS RIVER RESORT",
+            "title": "PALMS RIVER RESORT",
             "pwsid": "CA3600372",
             "markercolor": "Green"
         }
@@ -1674,7 +1674,7 @@
             ]
         },
         "properties": {
-            "name": "MWD OF SO CAL IRON MOUNTAIN",
+            "title": "MWD OF SO CAL IRON MOUNTAIN",
             "pwsid": "CA3600382",
             "markercolor": "Yellow"
         }
@@ -1689,7 +1689,7 @@
             ]
         },
         "properties": {
-            "name": "MWD OF SO CAL GENE PLANT",
+            "title": "MWD OF SO CAL GENE PLANT",
             "pwsid": "CA3600383",
             "markercolor": "Yellow"
         }
@@ -1704,7 +1704,7 @@
             ]
         },
         "properties": {
-            "name": "BROOKSIDE MHP",
+            "title": "BROOKSIDE MHP",
             "pwsid": "CA3600385",
             "markercolor": "Green"
         }
@@ -1719,7 +1719,7 @@
             ]
         },
         "properties": {
-            "name": "TRINITY OASIS PALMS INC",
+            "title": "TRINITY OASIS PALMS INC",
             "pwsid": "CA3600386",
             "markercolor": "Yellow"
         }
@@ -1734,7 +1734,7 @@
             ]
         },
         "properties": {
-            "name": "DESERT VIEW MOBILE PARK",
+            "title": "DESERT VIEW MOBILE PARK",
             "pwsid": "CA3600388",
             "markercolor": "Green"
         }
@@ -1749,7 +1749,7 @@
             ]
         },
         "properties": {
-            "name": "HILLCREST MOBILE ESTATES",
+            "title": "HILLCREST MOBILE ESTATES",
             "pwsid": "CA3600391",
             "markercolor": "Green"
         }
@@ -1764,7 +1764,7 @@
             ]
         },
         "properties": {
-            "name": "MOSS MOBILE MANOR",
+            "title": "MOSS MOBILE MANOR",
             "pwsid": "CA3600397",
             "markercolor": "Green"
         }
@@ -1779,7 +1779,7 @@
             ]
         },
         "properties": {
-            "name": "APPLE VALLEY VILLAGE MHE",
+            "title": "APPLE VALLEY VILLAGE MHE",
             "pwsid": "CA3600400",
             "markercolor": "Green"
         }
@@ -1794,7 +1794,7 @@
             ]
         },
         "properties": {
-            "name": "LUCERNE VALLEY ELEMENTARY SCHOOL",
+            "title": "LUCERNE VALLEY ELEMENTARY SCHOOL",
             "pwsid": "CA3600432",
             "markercolor": "Green"
         }
@@ -1809,7 +1809,7 @@
             ]
         },
         "properties": {
-            "name": "CRYSTAL LAKE PROPERTY OWNERS",
+            "title": "CRYSTAL LAKE PROPERTY OWNERS",
             "pwsid": "CA3601010",
             "markercolor": "Green"
         }
@@ -1824,7 +1824,7 @@
             ]
         },
         "properties": {
-            "name": "CALICO LAKE HOMEOWNERS",
+            "title": "CALICO LAKE HOMEOWNERS",
             "pwsid": "CA3601036",
             "markercolor": "Green"
         }
@@ -1839,7 +1839,7 @@
             ]
         },
         "properties": {
-            "name": "BEAR VALLEY MHP",
+            "title": "BEAR VALLEY MHP",
             "pwsid": "CA3601045",
             "markercolor": "Yellow"
         }
@@ -1854,7 +1854,7 @@
             ]
         },
         "properties": {
-            "name": "CEMEX CONSTRUCTION MATERIALS AL",
+            "title": "CEMEX CONSTRUCTION MATERIALS AL",
             "pwsid": "CA3601051",
             "markercolor": "Green"
         }
@@ -1869,7 +1869,7 @@
             ]
         },
         "properties": {
-            "name": "CEMEX CALIF CEMENT LLC VV",
+            "title": "CEMEX CALIF CEMENT LLC VV",
             "pwsid": "CA3601062",
             "markercolor": "Green"
         }
@@ -1884,7 +1884,7 @@
             ]
         },
         "properties": {
-            "name": "FUJI NATURAL FOOD",
+            "title": "FUJI NATURAL FOOD",
             "pwsid": "CA3601094",
             "markercolor": "Yellow"
         }
@@ -1899,7 +1899,7 @@
             ]
         },
         "properties": {
-            "name": "ADELANTO, CITY OF",
+            "title": "ADELANTO, CITY OF",
             "pwsid": "CA3610001",
             "markercolor": "Green"
         }
@@ -1914,7 +1914,7 @@
             ]
         },
         "properties": {
-            "name": "WEST VALLEY WATER DISTRICT",
+            "title": "WEST VALLEY WATER DISTRICT",
             "pwsid": "CA3610004",
             "markercolor": "Green"
         }
@@ -1929,7 +1929,7 @@
             ]
         },
         "properties": {
-            "name": "CHINO, CITY OF",
+            "title": "CHINO, CITY OF",
             "pwsid": "CA3610012",
             "markercolor": "Green"
         }
@@ -1944,7 +1944,7 @@
             ]
         },
         "properties": {
-            "name": "FALLSVALE SERVICE COMPANY",
+            "title": "FALLSVALE SERVICE COMPANY",
             "pwsid": "CA3610021",
             "markercolor": "Yellow"
         }
@@ -1959,7 +1959,7 @@
             ]
         },
         "properties": {
-            "name": "DWP - FAWNSKIN",
+            "title": "DWP - FAWNSKIN",
             "pwsid": "CA3610022",
             "markercolor": "Green"
         }
@@ -1974,7 +1974,7 @@
             ]
         },
         "properties": {
-            "name": "GREEN VALLEY MWC",
+            "title": "GREEN VALLEY MWC",
             "pwsid": "CA3610023",
             "markercolor": "Green"
         }
@@ -1989,7 +1989,7 @@
             ]
         },
         "properties": {
-            "name": "SBDNO COUNTY SERVICE AREA 70 CEDAR GLEN",
+            "title": "SBDNO COUNTY SERVICE AREA 70 CEDAR GLEN",
             "pwsid": "CA3610026",
             "markercolor": "Yellow"
         }
@@ -2004,7 +2004,7 @@
             ]
         },
         "properties": {
-            "name": "MARIANA RANCHOS CWD",
+            "title": "MARIANA RANCHOS CWD",
             "pwsid": "CA3610030",
             "markercolor": "Red"
         }
@@ -2019,7 +2019,7 @@
             ]
         },
         "properties": {
-            "name": "NEEDLES, CITY OF",
+            "title": "NEEDLES, CITY OF",
             "pwsid": "CA3610032",
             "markercolor": "Yellow"
         }
@@ -2034,7 +2034,7 @@
             ]
         },
         "properties": {
-            "name": "MT BALDY HOMEOWNERS ASSN.",
+            "title": "MT BALDY HOMEOWNERS ASSN.",
             "pwsid": "CA3610033",
             "markercolor": "Yellow"
         }
@@ -2049,7 +2049,7 @@
             ]
         },
         "properties": {
-            "name": "VALLEY VIEW PARK MWC",
+            "title": "VALLEY VIEW PARK MWC",
             "pwsid": "CA3610046",
             "markercolor": "Yellow"
         }
@@ -2064,7 +2064,7 @@
             ]
         },
         "properties": {
-            "name": "TERRACE WATER COMPANY",
+            "title": "TERRACE WATER COMPANY",
             "pwsid": "CA3610048",
             "markercolor": "Yellow"
         }
@@ -2079,7 +2079,7 @@
             ]
         },
         "properties": {
-            "name": "YUCAIPA VALLEY WATER DISTRICT",
+            "title": "YUCAIPA VALLEY WATER DISTRICT",
             "pwsid": "CA3610055",
             "markercolor": "Green"
         }
@@ -2094,7 +2094,7 @@
             ]
         },
         "properties": {
-            "name": "SAN ANTONIO WATER COMPANY",
+            "title": "SAN ANTONIO WATER COMPANY",
             "pwsid": "CA3610085",
             "markercolor": "Green"
         }
@@ -2109,7 +2109,7 @@
             ]
         },
         "properties": {
-            "name": "ARROWHEAD VILLAS MUTUAL SERVICE COMPANY",
+            "title": "ARROWHEAD VILLAS MUTUAL SERVICE COMPANY",
             "pwsid": "CA3610093",
             "markercolor": "Yellow"
         }
@@ -2124,7 +2124,7 @@
             ]
         },
         "properties": {
-            "name": "SHEEP CREEK WATER COMPANY",
+            "title": "SHEEP CREEK WATER COMPANY",
             "pwsid": "CA3610109",
             "markercolor": "Yellow"
         }
@@ -2139,7 +2139,7 @@
             ]
         },
         "properties": {
-            "name": "ARROWBEAR PARK CWD",
+            "title": "ARROWBEAR PARK CWD",
             "pwsid": "CA3610110",
             "markercolor": "Yellow"
         }
@@ -2154,7 +2154,7 @@
             ]
         },
         "properties": {
-            "name": "DEVORE WC",
+            "title": "DEVORE WC",
             "pwsid": "CA3610117",
             "markercolor": "Green"
         }
@@ -2169,7 +2169,7 @@
             ]
         },
         "properties": {
-            "name": "APPLE VALLEY RANCHOS WATER CO - YERMO",
+            "title": "APPLE VALLEY RANCHOS WATER CO - YERMO",
             "pwsid": "CA3610118",
             "markercolor": "Green"
         }
@@ -2184,7 +2184,7 @@
             ]
         },
         "properties": {
-            "name": "SBDNO COUNTY SERVICE AREA 64",
+            "title": "SBDNO COUNTY SERVICE AREA 64",
             "pwsid": "CA3610121",
             "markercolor": "Green"
         }
@@ -2199,7 +2199,7 @@
             ]
         },
         "properties": {
-            "name": "SBNDO COUNTY SERVICE AREA 70J",
+            "title": "SBNDO COUNTY SERVICE AREA 70J",
             "pwsid": "CA3610125",
             "markercolor": "Green"
         }
@@ -2214,7 +2214,7 @@
             ]
         },
         "properties": {
-            "name": "USMC YERMO ANNEX",
+            "title": "USMC YERMO ANNEX",
             "pwsid": "CA3610702",
             "markercolor": "Yellow"
         }
@@ -2229,7 +2229,7 @@
             ]
         },
         "properties": {
-            "name": "CDF - OAK GLEN CONSERVATION CAMP",
+            "title": "CDF - OAK GLEN CONSERVATION CAMP",
             "pwsid": "CA3610800",
             "markercolor": "Green"
         }
@@ -2244,7 +2244,7 @@
             ]
         },
         "properties": {
-            "name": "CDF - PILOT ROCK CONSERVATION CAMP",
+            "title": "CDF - PILOT ROCK CONSERVATION CAMP",
             "pwsid": "CA3610801",
             "markercolor": "Green"
         }
@@ -2259,7 +2259,7 @@
             ]
         },
         "properties": {
-            "name": "CALIFORNIA INSTITUTION FOR WOMEN",
+            "title": "CALIFORNIA INSTITUTION FOR WOMEN",
             "pwsid": "CA3610851",
             "markercolor": "Yellow"
         }
@@ -2274,7 +2274,7 @@
             ]
         },
         "properties": {
-            "name": "BARRETT LAKE MH AND RV LLC",
+            "title": "BARRETT LAKE MH AND RV LLC",
             "pwsid": "CA3700041",
             "markercolor": "Green"
         }
@@ -2289,7 +2289,7 @@
             ]
         },
         "properties": {
-            "name": "HEAVENLY OAKS",
+            "title": "HEAVENLY OAKS",
             "pwsid": "CA3700071",
             "markercolor": "Green"
         }
@@ -2304,7 +2304,7 @@
             ]
         },
         "properties": {
-            "name": "H & J WATER COMPANY",
+            "title": "H & J WATER COMPANY",
             "pwsid": "CA3700073",
             "markercolor": "Yellow"
         }
@@ -2319,7 +2319,7 @@
             ]
         },
         "properties": {
-            "name": "CUYAMACA WATER DISTRICT",
+            "title": "CUYAMACA WATER DISTRICT",
             "pwsid": "CA3700074",
             "markercolor": "Yellow"
         }
@@ -2334,7 +2334,7 @@
             ]
         },
         "properties": {
-            "name": "DIAMOND JACK'S RV RANCH",
+            "title": "DIAMOND JACK'S RV RANCH",
             "pwsid": "CA3700174",
             "markercolor": "Green"
         }
@@ -2349,7 +2349,7 @@
             ]
         },
         "properties": {
-            "name": "STUART WATER COMPANY",
+            "title": "STUART WATER COMPANY",
             "pwsid": "CA3700422",
             "markercolor": "Green"
         }
@@ -2364,7 +2364,7 @@
             ]
         },
         "properties": {
-            "name": "BARRETT HONOR CAMP",
+            "title": "BARRETT HONOR CAMP",
             "pwsid": "CA3700823",
             "markercolor": "Yellow"
         }
@@ -2379,7 +2379,7 @@
             ]
         },
         "properties": {
-            "name": "DEL DIOS MUTUAL WATER COMPANY",
+            "title": "DEL DIOS MUTUAL WATER COMPANY",
             "pwsid": "CA3700866",
             "markercolor": "Yellow"
         }
@@ -2394,7 +2394,7 @@
             ]
         },
         "properties": {
-            "name": "LAKE HENSHAW RESORT INC.",
+            "title": "LAKE HENSHAW RESORT INC.",
             "pwsid": "CA3700900",
             "markercolor": "Green"
         }
@@ -2409,7 +2409,7 @@
             ]
         },
         "properties": {
-            "name": "PINE HILLS MUTUAL WATER COMPANY",
+            "title": "PINE HILLS MUTUAL WATER COMPANY",
             "pwsid": "CA3700905",
             "markercolor": "Green"
         }
@@ -2424,7 +2424,7 @@
             ]
         },
         "properties": {
-            "name": "JULIAN COMMUNITY SERVICES DISTRICT",
+            "title": "JULIAN COMMUNITY SERVICES DISTRICT",
             "pwsid": "CA3700909",
             "markercolor": "Yellow"
         }
@@ -2439,7 +2439,7 @@
             ]
         },
         "properties": {
-            "name": "YMCA CAMP MARSTON/RAINTREE",
+            "title": "YMCA CAMP MARSTON/RAINTREE",
             "pwsid": "CA3700912",
             "markercolor": "Green"
         }
@@ -2454,7 +2454,7 @@
             ]
         },
         "properties": {
-            "name": "RANCHO SANTA TERESA MW CO.",
+            "title": "RANCHO SANTA TERESA MW CO.",
             "pwsid": "CA3700918",
             "markercolor": "Yellow"
         }
@@ -2469,7 +2469,7 @@
             ]
         },
         "properties": {
-            "name": "LIVE OAK SPRINGS WATER COMPANY",
+            "title": "LIVE OAK SPRINGS WATER COMPANY",
             "pwsid": "CA3700922",
             "markercolor": "Green"
         }
@@ -2484,7 +2484,7 @@
             ]
         },
         "properties": {
-            "name": "PALOMAR MOUNTAIN MUTUAL WATER CO.",
+            "title": "PALOMAR MOUNTAIN MUTUAL WATER CO.",
             "pwsid": "CA3700933",
             "markercolor": "Yellow"
         }
@@ -2499,7 +2499,7 @@
             ]
         },
         "properties": {
-            "name": "PAUMA VALLEY MUTUAL WATER COMPANY",
+            "title": "PAUMA VALLEY MUTUAL WATER COMPANY",
             "pwsid": "CA3700934",
             "markercolor": "Green"
         }
@@ -2514,7 +2514,7 @@
             ]
         },
         "properties": {
-            "name": "RANCHO ESTATES MUTUAL WATER CO.",
+            "title": "RANCHO ESTATES MUTUAL WATER CO.",
             "pwsid": "CA3700936",
             "markercolor": "Green"
         }
@@ -2529,7 +2529,7 @@
             ]
         },
         "properties": {
-            "name": "YUIMA MUNICIPAL WATER DISTRICT IDA",
+            "title": "YUIMA MUNICIPAL WATER DISTRICT IDA",
             "pwsid": "CA3700938",
             "markercolor": "Green"
         }
@@ -2544,7 +2544,7 @@
             ]
         },
         "properties": {
-            "name": "LOS TULES MUTUAL WATER COMPANY",
+            "title": "LOS TULES MUTUAL WATER COMPANY",
             "pwsid": "CA3700958",
             "markercolor": "Green"
         }
@@ -2559,7 +2559,7 @@
             ]
         },
         "properties": {
-            "name": "SAN PASQUAL ACADEMY",
+            "title": "SAN PASQUAL ACADEMY",
             "pwsid": "CA3700968",
             "markercolor": "Yellow"
         }
@@ -2574,7 +2574,7 @@
             ]
         },
         "properties": {
-            "name": "BUTTERFIELD RANCH",
+            "title": "BUTTERFIELD RANCH",
             "pwsid": "CA3701184",
             "markercolor": "Green"
         }
@@ -2589,7 +2589,7 @@
             ]
         },
         "properties": {
-            "name": "QUIET OAKS MOBILE HOME PARK",
+            "title": "QUIET OAKS MOBILE HOME PARK",
             "pwsid": "CA3701341",
             "markercolor": "Green"
         }
@@ -2604,7 +2604,7 @@
             ]
         },
         "properties": {
-            "name": "YUIMA MUNICIPAL WATER DISTRICT",
+            "title": "YUIMA MUNICIPAL WATER DISTRICT",
             "pwsid": "CA3701408",
             "markercolor": "Green"
         }
@@ -2619,7 +2619,7 @@
             ]
         },
         "properties": {
-            "name": "TWIN LAKES RESORT",
+            "title": "TWIN LAKES RESORT",
             "pwsid": "CA3701793",
             "markercolor": "Green"
         }
@@ -2634,7 +2634,7 @@
             ]
         },
         "properties": {
-            "name": "WYNOLA WATER DISTRICT",
+            "title": "WYNOLA WATER DISTRICT",
             "pwsid": "CA3701837",
             "markercolor": "Yellow"
         }
@@ -2649,7 +2649,7 @@
             ]
         },
         "properties": {
-            "name": "ALPINE OAKS ESTATES LLC",
+            "title": "ALPINE OAKS ESTATES LLC",
             "pwsid": "CA3701988",
             "markercolor": "Green"
         }
@@ -2664,7 +2664,7 @@
             ]
         },
         "properties": {
-            "name": "PALOMAR OBSERVATORY",
+            "title": "PALOMAR OBSERVATORY",
             "pwsid": "CA3702236",
             "markercolor": "Yellow"
         }
@@ -2679,7 +2679,7 @@
             ]
         },
         "properties": {
-            "name": "WARNER SPRINGS ESTATES",
+            "title": "WARNER SPRINGS ESTATES",
             "pwsid": "CA3702354",
             "markercolor": "Yellow"
         }
@@ -2694,7 +2694,7 @@
             ]
         },
         "properties": {
-            "name": "RANCHO CORRIDO RV RESORT",
+            "title": "RANCHO CORRIDO RV RESORT",
             "pwsid": "CA3702754",
             "markercolor": "Green"
         }
@@ -2709,7 +2709,7 @@
             ]
         },
         "properties": {
-            "name": "DEL MAR, CITY OF",
+            "title": "DEL MAR, CITY OF",
             "pwsid": "CA3710004",
             "markercolor": "Green"
         }
@@ -2724,7 +2724,7 @@
             ]
         },
         "properties": {
-            "name": "DESCANSO COMMUNITY SERVICES DISTRICT",
+            "title": "DESCANSO COMMUNITY SERVICES DISTRICT",
             "pwsid": "CA3710009",
             "markercolor": "Yellow"
         }
@@ -2739,7 +2739,7 @@
             ]
         },
         "properties": {
-            "name": "JACUMBA COMMUNITY SD",
+            "title": "JACUMBA COMMUNITY SD",
             "pwsid": "CA3710011",
             "markercolor": "Red"
         }
@@ -2754,7 +2754,7 @@
             ]
         },
         "properties": {
-            "name": "RANCHO PAUMA MUTUAL WC",
+            "title": "RANCHO PAUMA MUTUAL WC",
             "pwsid": "CA3710012",
             "markercolor": "Green"
         }
@@ -2769,7 +2769,7 @@
             ]
         },
         "properties": {
-            "name": "POWAY, CITY OF",
+            "title": "POWAY, CITY OF",
             "pwsid": "CA3710015",
             "markercolor": "Green"
         }
@@ -2784,7 +2784,7 @@
             ]
         },
         "properties": {
-            "name": "RINCON DEL DIABLO MWD (ID-1)",
+            "title": "RINCON DEL DIABLO MWD (ID-1)",
             "pwsid": "CA3710018",
             "markercolor": "Yellow"
         }
@@ -2799,7 +2799,7 @@
             ]
         },
         "properties": {
-            "name": "PINE VALLEY MUTUAL WC",
+            "title": "PINE VALLEY MUTUAL WC",
             "pwsid": "CA3710039",
             "markercolor": "Green"
         }
@@ -2814,7 +2814,7 @@
             ]
         },
         "properties": {
-            "name": "MAJESTIC PINES COMMUNITY SD",
+            "title": "MAJESTIC PINES COMMUNITY SD",
             "pwsid": "CA3710041",
             "markercolor": "Green"
         }
@@ -2829,7 +2829,7 @@
             ]
         },
         "properties": {
-            "name": "RINCON DEL DIABLO MWD (ID-A)",
+            "title": "RINCON DEL DIABLO MWD (ID-A)",
             "pwsid": "CA3710044",
             "markercolor": "Green"
         }
@@ -2844,7 +2844,7 @@
             ]
         },
         "properties": {
-            "name": "PINE VALLEY BORDER PATROL STATION",
+            "title": "PINE VALLEY BORDER PATROL STATION",
             "pwsid": "CA3710049",
             "markercolor": "Green"
         }
@@ -2859,7 +2859,7 @@
             ]
         },
         "properties": {
-            "name": "DHS BOULEVARD BORDER PATROL",
+            "title": "DHS BOULEVARD BORDER PATROL",
             "pwsid": "CA3710051",
             "markercolor": "Green"
         }
@@ -2874,7 +2874,7 @@
             ]
         },
         "properties": {
-            "name": "ANZA BORREGO SP - PALM CANYON",
+            "title": "ANZA BORREGO SP - PALM CANYON",
             "pwsid": "CA3710302",
             "markercolor": "Green"
         }
@@ -2889,7 +2889,7 @@
             ]
         },
         "properties": {
-            "name": "CAMP PENDLETON (NORTH)",
+            "title": "CAMP PENDLETON (NORTH)",
             "pwsid": "CA3710700",
             "markercolor": "Green"
         }
@@ -2904,7 +2904,7 @@
             ]
         },
         "properties": {
-            "name": "PUERTA LA CRUZ CC #14",
+            "title": "PUERTA LA CRUZ CC #14",
             "pwsid": "CA3710800",
             "markercolor": "Green"
         }
@@ -2919,7 +2919,7 @@
             ]
         },
         "properties": {
-            "name": "MCCAIN VALLEY CC #21",
+            "title": "MCCAIN VALLEY CC #21",
             "pwsid": "CA3710801",
             "markercolor": "Yellow"
         }
@@ -2934,7 +2934,7 @@
             ]
         },
         "properties": {
-            "name": "LA CIMA FIRE CENTER",
+            "title": "LA CIMA FIRE CENTER",
             "pwsid": "CA3710802",
             "markercolor": "Green"
         }
@@ -2949,7 +2949,7 @@
             ]
         },
         "properties": {
-            "name": "FARMINGTON WATER COMPANY",
+            "title": "FARMINGTON WATER COMPANY",
             "pwsid": "CA3900505",
             "markercolor": "Green"
         }
@@ -2964,7 +2964,7 @@
             ]
         },
         "properties": {
-            "name": "WINE COUNTRY APARTMENTS",
+            "title": "WINE COUNTRY APARTMENTS",
             "pwsid": "CA3900559",
             "markercolor": "Green"
         }
@@ -2979,7 +2979,7 @@
             ]
         },
         "properties": {
-            "name": "LODI LAKE MOBILE HOME PARK",
+            "title": "LODI LAKE MOBILE HOME PARK",
             "pwsid": "CA3900561",
             "markercolor": "Yellow"
         }
@@ -2994,7 +2994,7 @@
             ]
         },
         "properties": {
-            "name": "CENTURY MOBILE HOME PARK",
+            "title": "CENTURY MOBILE HOME PARK",
             "pwsid": "CA3900579",
             "markercolor": "Green"
         }
@@ -3009,7 +3009,7 @@
             ]
         },
         "properties": {
-            "name": "HARNEY LANE MIGRANT CENTER WS",
+            "title": "HARNEY LANE MIGRANT CENTER WS",
             "pwsid": "CA3900581",
             "markercolor": "Green"
         }
@@ -3024,7 +3024,7 @@
             ]
         },
         "properties": {
-            "name": "VILLA CEREZOS",
+            "title": "VILLA CEREZOS",
             "pwsid": "CA3900596",
             "markercolor": "Green"
         }
@@ -3039,7 +3039,7 @@
             ]
         },
         "properties": {
-            "name": "TAHAMA VILLAGE MOBILE HOME PARK",
+            "title": "TAHAMA VILLAGE MOBILE HOME PARK",
             "pwsid": "CA3900602",
             "markercolor": "Yellow"
         }
@@ -3054,7 +3054,7 @@
             ]
         },
         "properties": {
-            "name": "A1 WINSTONS MOBILE HOME PARK",
+            "title": "A1 WINSTONS MOBILE HOME PARK",
             "pwsid": "CA3900606",
             "markercolor": "Yellow"
         }
@@ -3069,7 +3069,7 @@
             ]
         },
         "properties": {
-            "name": "BIG WHEEL MOBILE HOME PARK",
+            "title": "BIG WHEEL MOBILE HOME PARK",
             "pwsid": "CA3900637",
             "markercolor": "Green"
         }
@@ -3084,7 +3084,7 @@
             ]
         },
         "properties": {
-            "name": "GLENWOOD MOBILE HOME PARK",
+            "title": "GLENWOOD MOBILE HOME PARK",
             "pwsid": "CA3900649",
             "markercolor": "Yellow"
         }
@@ -3099,7 +3099,7 @@
             ]
         },
         "properties": {
-            "name": "ISLANDER MARINA",
+            "title": "ISLANDER MARINA",
             "pwsid": "CA3900653",
             "markercolor": "Yellow"
         }
@@ -3114,7 +3114,7 @@
             ]
         },
         "properties": {
-            "name": "MAPACHE TRAILER PARK",
+            "title": "MAPACHE TRAILER PARK",
             "pwsid": "CA3900661",
             "markercolor": "Green"
         }
@@ -3129,7 +3129,7 @@
             ]
         },
         "properties": {
-            "name": "NEW HOPE LANDING GENERAL STORE",
+            "title": "NEW HOPE LANDING GENERAL STORE",
             "pwsid": "CA3900664",
             "markercolor": "Green"
         }
@@ -3144,7 +3144,7 @@
             ]
         },
         "properties": {
-            "name": "LOCKEFORD MOBILE HOME PARK WTR SYS",
+            "title": "LOCKEFORD MOBILE HOME PARK WTR SYS",
             "pwsid": "CA3900682",
             "markercolor": "Red"
         }
@@ -3159,7 +3159,7 @@
             ]
         },
         "properties": {
-            "name": "MOKELUMNE MEADOWS TRAILER PARK",
+            "title": "MOKELUMNE MEADOWS TRAILER PARK",
             "pwsid": "CA3900719",
             "markercolor": "Green"
         }
@@ -3174,7 +3174,7 @@
             ]
         },
         "properties": {
-            "name": "WOODBRIDGE MOBILE ESTATES",
+            "title": "WOODBRIDGE MOBILE ESTATES",
             "pwsid": "CA3900721",
             "markercolor": "Yellow"
         }
@@ -3189,7 +3189,7 @@
             ]
         },
         "properties": {
-            "name": "BENTLEY TRAILER COURT",
+            "title": "BENTLEY TRAILER COURT",
             "pwsid": "CA3900726",
             "markercolor": "Green"
         }
@@ -3204,7 +3204,7 @@
             ]
         },
         "properties": {
-            "name": "COUNTRY CLUB VISTA MUTUAL WATER CO",
+            "title": "COUNTRY CLUB VISTA MUTUAL WATER CO",
             "pwsid": "CA3900733",
             "markercolor": "Yellow"
         }
@@ -3219,7 +3219,7 @@
             ]
         },
         "properties": {
-            "name": "J M EAGLE (WS)",
+            "title": "J M EAGLE (WS)",
             "pwsid": "CA3900742",
             "markercolor": "Yellow"
         }
@@ -3234,7 +3234,7 @@
             ]
         },
         "properties": {
-            "name": "SHADY REST TRAILER COURT",
+            "title": "SHADY REST TRAILER COURT",
             "pwsid": "CA3900755",
             "markercolor": "Green"
         }
@@ -3249,7 +3249,7 @@
             ]
         },
         "properties": {
-            "name": "RIVERSIDE MOBILE HOME PARK",
+            "title": "RIVERSIDE MOBILE HOME PARK",
             "pwsid": "CA3900762",
             "markercolor": "Yellow"
         }
@@ -3264,7 +3264,7 @@
             ]
         },
         "properties": {
-            "name": "ESCALON PREMIER BRANDS",
+            "title": "ESCALON PREMIER BRANDS",
             "pwsid": "CA3900797",
             "markercolor": "Green"
         }
@@ -3279,7 +3279,7 @@
             ]
         },
         "properties": {
-            "name": "FRANZIA WINERY",
+            "title": "FRANZIA WINERY",
             "pwsid": "CA3900798",
             "markercolor": "Green"
         }
@@ -3294,7 +3294,7 @@
             ]
         },
         "properties": {
-            "name": "MOREHEAD PARK",
+            "title": "MOREHEAD PARK",
             "pwsid": "CA3900805",
             "markercolor": "Green"
         }
@@ -3309,7 +3309,7 @@
             ]
         },
         "properties": {
-            "name": "HAVEN ACRES RIVER CLUB INC",
+            "title": "HAVEN ACRES RIVER CLUB INC",
             "pwsid": "CA3900813",
             "markercolor": "Yellow"
         }
@@ -3324,7 +3324,7 @@
             ]
         },
         "properties": {
-            "name": "DELICATO VINEYARDS",
+            "title": "DELICATO VINEYARDS",
             "pwsid": "CA3900815",
             "markercolor": "Green"
         }
@@ -3339,7 +3339,7 @@
             ]
         },
         "properties": {
-            "name": "OWENS-BROCKWAY GLASS CONTAINER INC",
+            "title": "OWENS-BROCKWAY GLASS CONTAINER INC",
             "pwsid": "CA3900825",
             "markercolor": "Yellow"
         }
@@ -3354,7 +3354,7 @@
             ]
         },
         "properties": {
-            "name": "ARBOR MOBILE HOME PARK WS",
+            "title": "ARBOR MOBILE HOME PARK WS",
             "pwsid": "CA3900831",
             "markercolor": "Yellow"
         }
@@ -3369,7 +3369,7 @@
             ]
         },
         "properties": {
-            "name": "LODI HOMES",
+            "title": "LODI HOMES",
             "pwsid": "CA3900837",
             "markercolor": "Green"
         }
@@ -3384,7 +3384,7 @@
             ]
         },
         "properties": {
-            "name": "COUNTRY MANOR MHP",
+            "title": "COUNTRY MANOR MHP",
             "pwsid": "CA3900844",
             "markercolor": "Yellow"
         }
@@ -3399,7 +3399,7 @@
             ]
         },
         "properties": {
-            "name": "LODI USD-TURNER ACADEMY AT TOKAY COLONY",
+            "title": "LODI USD-TURNER ACADEMY AT TOKAY COLONY",
             "pwsid": "CA3900848",
             "markercolor": "Yellow"
         }
@@ -3414,7 +3414,7 @@
             ]
         },
         "properties": {
-            "name": "LODI USD-LIVE OAK SCHOOL",
+            "title": "LODI USD-LIVE OAK SCHOOL",
             "pwsid": "CA3900849",
             "markercolor": "Yellow"
         }
@@ -3429,7 +3429,7 @@
             ]
         },
         "properties": {
-            "name": "LODI USD-HOUSTON SCHOOL",
+            "title": "LODI USD-HOUSTON SCHOOL",
             "pwsid": "CA3900850",
             "markercolor": "Yellow"
         }
@@ -3444,7 +3444,7 @@
             ]
         },
         "properties": {
-            "name": "BEL AIR MOBILE ESTATE",
+            "title": "BEL AIR MOBILE ESTATE",
             "pwsid": "CA3900907",
             "markercolor": "Yellow"
         }
@@ -3459,7 +3459,7 @@
             ]
         },
         "properties": {
-            "name": "SAHARA MOBILE COURT",
+            "title": "SAHARA MOBILE COURT",
             "pwsid": "CA3900964",
             "markercolor": "Yellow"
         }
@@ -3474,7 +3474,7 @@
             ]
         },
         "properties": {
-            "name": "CHERRY LANE TRAILER PARK",
+            "title": "CHERRY LANE TRAILER PARK",
             "pwsid": "CA3900983",
             "markercolor": "Yellow"
         }
@@ -3489,7 +3489,7 @@
             ]
         },
         "properties": {
-            "name": "LA TORRES PARK",
+            "title": "LA TORRES PARK",
             "pwsid": "CA3900991",
             "markercolor": "Green"
         }
@@ -3504,7 +3504,7 @@
             ]
         },
         "properties": {
-            "name": "LODI USD-HENDERSON SCHOOL",
+            "title": "LODI USD-HENDERSON SCHOOL",
             "pwsid": "CA3901035",
             "markercolor": "Yellow"
         }
@@ -3519,7 +3519,7 @@
             ]
         },
         "properties": {
-            "name": "TWIN OAKS MOBILE PARK",
+            "title": "TWIN OAKS MOBILE PARK",
             "pwsid": "CA3901074",
             "markercolor": "Yellow"
         }
@@ -3534,7 +3534,7 @@
             ]
         },
         "properties": {
-            "name": "MOBILE VILLAS TRAILER PARK",
+            "title": "MOBILE VILLAS TRAILER PARK",
             "pwsid": "CA3901081",
             "markercolor": "Yellow"
         }
@@ -3549,7 +3549,7 @@
             ]
         },
         "properties": {
-            "name": "LODI USD-DAVIS SCHOOL",
+            "title": "LODI USD-DAVIS SCHOOL",
             "pwsid": "CA3901085",
             "markercolor": "Green"
         }
@@ -3564,7 +3564,7 @@
             ]
         },
         "properties": {
-            "name": "SAN JOAQUIN WATER WORKS #2",
+            "title": "SAN JOAQUIN WATER WORKS #2",
             "pwsid": "CA3901092",
             "markercolor": "Yellow"
         }
@@ -3579,7 +3579,7 @@
             ]
         },
         "properties": {
-            "name": "AVALOS, SILVIA",
+            "title": "AVALOS, SILVIA",
             "pwsid": "CA3901213",
             "markercolor": "Green"
         }
@@ -3594,7 +3594,7 @@
             ]
         },
         "properties": {
-            "name": "SAN JUAN VISTA",
+            "title": "SAN JUAN VISTA",
             "pwsid": "CA3901215",
             "markercolor": "Green"
         }
@@ -3609,7 +3609,7 @@
             ]
         },
         "properties": {
-            "name": "FLAG CITY WATER SYSTEM",
+            "title": "FLAG CITY WATER SYSTEM",
             "pwsid": "CA3901248",
             "markercolor": "Yellow"
         }
@@ -3624,7 +3624,7 @@
             ]
         },
         "properties": {
-            "name": "AT&T CALIFORNIA - UER47",
+            "title": "AT&T CALIFORNIA - UER47",
             "pwsid": "CA3901258",
             "markercolor": "Green"
         }
@@ -3639,7 +3639,7 @@
             ]
         },
         "properties": {
-            "name": "HANOT FOUNDATION INC",
+            "title": "HANOT FOUNDATION INC",
             "pwsid": "CA3901276",
             "markercolor": "Green"
         }
@@ -3654,7 +3654,7 @@
             ]
         },
         "properties": {
-            "name": "COLOR SPOT, LODI",
+            "title": "COLOR SPOT, LODI",
             "pwsid": "CA3901278",
             "markercolor": "Green"
         }
@@ -3669,7 +3669,7 @@
             ]
         },
         "properties": {
-            "name": "FISHER NURSERY",
+            "title": "FISHER NURSERY",
             "pwsid": "CA3901290",
             "markercolor": "Green"
         }
@@ -3684,7 +3684,7 @@
             ]
         },
         "properties": {
-            "name": "GAF MATERIALS CO",
+            "title": "GAF MATERIALS CO",
             "pwsid": "CA3901315",
             "markercolor": "Yellow"
         }
@@ -3699,7 +3699,7 @@
             ]
         },
         "properties": {
-            "name": "S M S BRINERS INC",
+            "title": "S M S BRINERS INC",
             "pwsid": "CA3901318",
             "markercolor": "Yellow"
         }
@@ -3714,7 +3714,7 @@
             ]
         },
         "properties": {
-            "name": "INTERNATIONAL PAPER",
+            "title": "INTERNATIONAL PAPER",
             "pwsid": "CA3901319",
             "markercolor": "Yellow"
         }
@@ -3729,7 +3729,7 @@
             ]
         },
         "properties": {
-            "name": "COZAD WATER SYSTEM",
+            "title": "COZAD WATER SYSTEM",
             "pwsid": "CA3901323",
             "markercolor": "Green"
         }
@@ -3744,7 +3744,7 @@
             ]
         },
         "properties": {
-            "name": "RIPON CHRISTIAN SCHOOLS",
+            "title": "RIPON CHRISTIAN SCHOOLS",
             "pwsid": "CA3901325",
             "markercolor": "Yellow"
         }
@@ -3759,7 +3759,7 @@
             ]
         },
         "properties": {
-            "name": "RIPON USD-COLONY OAK SCHOOL",
+            "title": "RIPON USD-COLONY OAK SCHOOL",
             "pwsid": "CA3901331",
             "markercolor": "Green"
         }
@@ -3774,7 +3774,7 @@
             ]
         },
         "properties": {
-            "name": "WESTERN PALLET SUPPLY & LOGISTICS",
+            "title": "WESTERN PALLET SUPPLY & LOGISTICS",
             "pwsid": "CA3901336",
             "markercolor": "Green"
         }
@@ -3789,7 +3789,7 @@
             ]
         },
         "properties": {
-            "name": "DYNATECT RO-LAB, INC.",
+            "title": "DYNATECT RO-LAB, INC.",
             "pwsid": "CA3901338",
             "markercolor": "Green"
         }
@@ -3804,7 +3804,7 @@
             ]
         },
         "properties": {
-            "name": "NORMANS NURSERY",
+            "title": "NORMANS NURSERY",
             "pwsid": "CA3901345",
             "markercolor": "Green"
         }
@@ -3819,7 +3819,7 @@
             ]
         },
         "properties": {
-            "name": "BASALITE - TRACY",
+            "title": "BASALITE - TRACY",
             "pwsid": "CA3901369",
             "markercolor": "Green"
         }
@@ -3834,7 +3834,7 @@
             ]
         },
         "properties": {
-            "name": "ENVIROPLEX, INC",
+            "title": "ENVIROPLEX, INC",
             "pwsid": "CA3901392",
             "markercolor": "Yellow"
         }
@@ -3849,7 +3849,7 @@
             ]
         },
         "properties": {
-            "name": "WASTEQUIP MFG CO INC",
+            "title": "WASTEQUIP MFG CO INC",
             "pwsid": "CA3901414",
             "markercolor": "Yellow"
         }
@@ -3864,7 +3864,7 @@
             ]
         },
         "properties": {
-            "name": "J B HUNT TRANSPORT INC",
+            "title": "J B HUNT TRANSPORT INC",
             "pwsid": "CA3901417",
             "markercolor": "Yellow"
         }
@@ -3879,7 +3879,7 @@
             ]
         },
         "properties": {
-            "name": "DOWN RIVER AN ITW COMPANY",
+            "title": "DOWN RIVER AN ITW COMPANY",
             "pwsid": "CA3901423",
             "markercolor": "Green"
         }
@@ -3894,7 +3894,7 @@
             ]
         },
         "properties": {
-            "name": "A SAMBADO & SON 39-321",
+            "title": "A SAMBADO & SON 39-321",
             "pwsid": "CA3902172",
             "markercolor": "Green"
         }
@@ -3909,7 +3909,7 @@
             ]
         },
         "properties": {
-            "name": "SAN JOAQUIN COUNTY - COLONIAL HEIGHTS",
+            "title": "SAN JOAQUIN COUNTY - COLONIAL HEIGHTS",
             "pwsid": "CA3910002",
             "markercolor": "Yellow"
         }
@@ -3924,7 +3924,7 @@
             ]
         },
         "properties": {
-            "name": "LOCKEFORD COMMUNITY SERV. DIST.",
+            "title": "LOCKEFORD COMMUNITY SERV. DIST.",
             "pwsid": "CA3910008",
             "markercolor": "Yellow"
         }
@@ -3939,7 +3939,7 @@
             ]
         },
         "properties": {
-            "name": "CITY OF LATHROP",
+            "title": "CITY OF LATHROP",
             "pwsid": "CA3910015",
             "markercolor": "Green"
         }
@@ -3954,7 +3954,7 @@
             ]
         },
         "properties": {
-            "name": "SAN JOAQUIN RIVER CLUB INC",
+            "title": "SAN JOAQUIN RIVER CLUB INC",
             "pwsid": "CA3910018",
             "markercolor": "Green"
         }
@@ -3969,7 +3969,7 @@
             ]
         },
         "properties": {
-            "name": "LINDEN COUNTY WATER DISTRICT",
+            "title": "LINDEN COUNTY WATER DISTRICT",
             "pwsid": "CA3910019",
             "markercolor": "Green"
         }
@@ -3984,7 +3984,7 @@
             ]
         },
         "properties": {
-            "name": "STOCKTON VERDE MOBILE HOME PARK",
+            "title": "STOCKTON VERDE MOBILE HOME PARK",
             "pwsid": "CA3910020",
             "markercolor": "Green"
         }
@@ -3999,7 +3999,7 @@
             ]
         },
         "properties": {
-            "name": "LITTLE POTATO SLOUGH MUTUAL",
+            "title": "LITTLE POTATO SLOUGH MUTUAL",
             "pwsid": "CA3910022",
             "markercolor": "Green"
         }
@@ -4014,7 +4014,7 @@
             ]
         },
         "properties": {
-            "name": "OAKWOOD LAKE WATER DISTRICT-SUBDIVISION",
+            "title": "OAKWOOD LAKE WATER DISTRICT-SUBDIVISION",
             "pwsid": "CA3910023",
             "markercolor": "Green"
         }
@@ -4029,7 +4029,7 @@
             ]
         },
         "properties": {
-            "name": "WOODLAND PARK MUTUAL WATER CO",
+            "title": "WOODLAND PARK MUTUAL WATER CO",
             "pwsid": "CA4000506",
             "markercolor": "Yellow"
         }
@@ -4044,7 +4044,7 @@
             ]
         },
         "properties": {
-            "name": "KEN MAR GARDENS",
+            "title": "KEN MAR GARDENS",
             "pwsid": "CA4000648",
             "markercolor": "Green"
         }
@@ -4059,7 +4059,7 @@
             ]
         },
         "properties": {
-            "name": "LOS ROBLES MOBILE HOME ESTATES",
+            "title": "LOS ROBLES MOBILE HOME ESTATES",
             "pwsid": "CA4000649",
             "markercolor": "Yellow"
         }
@@ -4074,7 +4074,7 @@
             ]
         },
         "properties": {
-            "name": "MESA DUNES MOBILE HOME ESTATES",
+            "title": "MESA DUNES MOBILE HOME ESTATES",
             "pwsid": "CA4000650",
             "markercolor": "Green"
         }
@@ -4089,7 +4089,7 @@
             ]
         },
         "properties": {
-            "name": "RANCHO NIPOMO WATER COMPANY",
+            "title": "RANCHO NIPOMO WATER COMPANY",
             "pwsid": "CA4000771",
             "markercolor": "Yellow"
         }
@@ -4104,7 +4104,7 @@
             ]
         },
         "properties": {
-            "name": "SAN MIGUELITO MWC",
+            "title": "SAN MIGUELITO MWC",
             "pwsid": "CA4010003",
             "markercolor": "Green"
         }
@@ -4119,7 +4119,7 @@
             ]
         },
         "properties": {
-            "name": "OCEANO COMM SERVICES DIST.",
+            "title": "OCEANO COMM SERVICES DIST.",
             "pwsid": "CA4010005",
             "markercolor": "Green"
         }
@@ -4134,7 +4134,7 @@
             ]
         },
         "properties": {
-            "name": "PASO ROBLES WATER DEPARTMENT",
+            "title": "PASO ROBLES WATER DEPARTMENT",
             "pwsid": "CA4010007",
             "markercolor": "Green"
         }
@@ -4149,7 +4149,7 @@
             ]
         },
         "properties": {
-            "name": "GOLDEN STATE WATER COMPANY-CYPRESS RIDGE",
+            "title": "GOLDEN STATE WATER COMPANY-CYPRESS RIDGE",
             "pwsid": "CA4010040",
             "markercolor": "Green"
         }
@@ -4164,7 +4164,7 @@
             ]
         },
         "properties": {
-            "name": "WOODLANDS DEVELOPMENT",
+            "title": "WOODLANDS DEVELOPMENT",
             "pwsid": "CA4010081",
             "markercolor": "Green"
         }
@@ -4179,7 +4179,7 @@
             ]
         },
         "properties": {
-            "name": "HEARST MONUMENT STATE PARK",
+            "title": "HEARST MONUMENT STATE PARK",
             "pwsid": "CA4010300",
             "markercolor": "Green"
         }
@@ -4194,7 +4194,7 @@
             ]
         },
         "properties": {
-            "name": "COUNTY SERVICE AREA 7",
+            "title": "COUNTY SERVICE AREA 7",
             "pwsid": "CA4100509",
             "markercolor": "Green"
         }
@@ -4209,7 +4209,7 @@
             ]
         },
         "properties": {
-            "name": "REDWOOD TERRACE MUTUAL",
+            "title": "REDWOOD TERRACE MUTUAL",
             "pwsid": "CA4100510",
             "markercolor": "Green"
         }
@@ -4224,7 +4224,7 @@
             ]
         },
         "properties": {
-            "name": "PESCADERO HIGH SCHOOL",
+            "title": "PESCADERO HIGH SCHOOL",
             "pwsid": "CA4100513",
             "markercolor": "Yellow"
         }
@@ -4239,7 +4239,7 @@
             ]
         },
         "properties": {
-            "name": "LOG CABIN RANCH",
+            "title": "LOG CABIN RANCH",
             "pwsid": "CA4100531",
             "markercolor": "Green"
         }
@@ -4254,7 +4254,7 @@
             ]
         },
         "properties": {
-            "name": "SKYLONDA MUTUAL",
+            "title": "SKYLONDA MUTUAL",
             "pwsid": "CA4100533",
             "markercolor": "Green"
         }
@@ -4269,7 +4269,7 @@
             ]
         },
         "properties": {
-            "name": "KINGS MOUNTAIN PARK MUTUAL",
+            "title": "KINGS MOUNTAIN PARK MUTUAL",
             "pwsid": "CA4100539",
             "markercolor": "Yellow"
         }
@@ -4284,7 +4284,7 @@
             ]
         },
         "properties": {
-            "name": "OKU INC",
+            "title": "OKU INC",
             "pwsid": "CA4100540",
             "markercolor": "Red"
         }
@@ -4299,7 +4299,7 @@
             ]
         },
         "properties": {
-            "name": "MARCHI CENTRAL FARM",
+            "title": "MARCHI CENTRAL FARM",
             "pwsid": "CA4100551",
             "markercolor": "Green"
         }
@@ -4314,7 +4314,7 @@
             ]
         },
         "properties": {
-            "name": "CITY OF BRISBANE",
+            "title": "CITY OF BRISBANE",
             "pwsid": "CA4110002",
             "markercolor": "Yellow"
         }
@@ -4329,7 +4329,7 @@
             ]
         },
         "properties": {
-            "name": "GUADALUPE VALLEY MID",
+            "title": "GUADALUPE VALLEY MID",
             "pwsid": "CA4110005",
             "markercolor": "Green"
         }
@@ -4344,7 +4344,7 @@
             ]
         },
         "properties": {
-            "name": "COASTSIDE COUNTY WATER DISTRICT",
+            "title": "COASTSIDE COUNTY WATER DISTRICT",
             "pwsid": "CA4110011",
             "markercolor": "Yellow"
         }
@@ -4359,7 +4359,7 @@
             ]
         },
         "properties": {
-            "name": "PALO ALTO PARK MUTUAL WATER COMPANY",
+            "title": "PALO ALTO PARK MUTUAL WATER COMPANY",
             "pwsid": "CA4110020",
             "markercolor": "Yellow"
         }
@@ -4374,7 +4374,7 @@
             ]
         },
         "properties": {
-            "name": "ESTERO MUNICIPAL IMPROVEMENT DISTRICT",
+            "title": "ESTERO MUNICIPAL IMPROVEMENT DISTRICT",
             "pwsid": "CA4110021",
             "markercolor": "Yellow"
         }
@@ -4389,7 +4389,7 @@
             ]
         },
         "properties": {
-            "name": "CITY OF EAST PALO ALTO",
+            "title": "CITY OF EAST PALO ALTO",
             "pwsid": "CA4110024",
             "markercolor": "Yellow"
         }
@@ -4404,7 +4404,7 @@
             ]
         },
         "properties": {
-            "name": "FOSTER ROAD MWC",
+            "title": "FOSTER ROAD MWC",
             "pwsid": "CA4200556",
             "markercolor": "Yellow"
         }
@@ -4419,7 +4419,7 @@
             ]
         },
         "properties": {
-            "name": "SISQUOC #1",
+            "title": "SISQUOC #1",
             "pwsid": "CA4200560",
             "markercolor": "Yellow"
         }
@@ -4434,7 +4434,7 @@
             ]
         },
         "properties": {
-            "name": "SKYLINE PARK & SERVICE CO.",
+            "title": "SKYLINE PARK & SERVICE CO.",
             "pwsid": "CA4200616",
             "markercolor": "Green"
         }
@@ -4449,7 +4449,7 @@
             ]
         },
         "properties": {
-            "name": "EAST VALLEY FARMS MUTUAL WATER",
+            "title": "EAST VALLEY FARMS MUTUAL WATER",
             "pwsid": "CA4200800",
             "markercolor": "Green"
         }
@@ -4464,7 +4464,7 @@
             ]
         },
         "properties": {
-            "name": "WALKING M RANCHES ASSN.",
+            "title": "WALKING M RANCHES ASSN.",
             "pwsid": "CA4200804",
             "markercolor": "Green"
         }
@@ -4479,7 +4479,7 @@
             ]
         },
         "properties": {
-            "name": "VISTA HILLS MWC",
+            "title": "VISTA HILLS MWC",
             "pwsid": "CA4200848",
             "markercolor": "Yellow"
         }
@@ -4494,7 +4494,7 @@
             ]
         },
         "properties": {
-            "name": "IMERYS MINERALS CALIFORNIA INC",
+            "title": "IMERYS MINERALS CALIFORNIA INC",
             "pwsid": "CA4200854",
             "markercolor": "Green"
         }
@@ -4509,7 +4509,7 @@
             ]
         },
         "properties": {
-            "name": "CUYAMA ELEMENTARY SCHOOL",
+            "title": "CUYAMA ELEMENTARY SCHOOL",
             "pwsid": "CA4200879",
             "markercolor": "Green"
         }
@@ -4524,7 +4524,7 @@
             ]
         },
         "properties": {
-            "name": "SAN VICENTE WATER COMPANY",
+            "title": "SAN VICENTE WATER COMPANY",
             "pwsid": "CA4210005",
             "markercolor": "Green"
         }
@@ -4539,7 +4539,7 @@
             ]
         },
         "properties": {
-            "name": "BUELLTON WATER DEPARTMENT",
+            "title": "BUELLTON WATER DEPARTMENT",
             "pwsid": "CA4210018",
             "markercolor": "Green"
         }
@@ -4554,7 +4554,7 @@
             ]
         },
         "properties": {
-            "name": "ARROWHEAD COOPERATIVE COMPANY",
+            "title": "ARROWHEAD COOPERATIVE COMPANY",
             "pwsid": "CA4300504",
             "markercolor": "Green"
         }
@@ -4569,7 +4569,7 @@
             ]
         },
         "properties": {
-            "name": "ALDERCROFT HEIGHTS COUNTY WATER DISTRICT",
+            "title": "ALDERCROFT HEIGHTS COUNTY WATER DISTRICT",
             "pwsid": "CA4300516",
             "markercolor": "Green"
         }
