@@ -32,7 +32,7 @@ with open(os.path.join('detail_results.json')) as results:
     for result in results:
 
         end_date = []
-        result['Marker Color'] = 'Green'
+        result['Marker Color'] = 'green-drinking-water-15.svg'
         concentration_list = []
         result_key_list = []
         lead_concentration_list = []
@@ -101,39 +101,39 @@ with open(os.path.join('detail_results.json')) as results:
                         if lead_concentration_list[-1] == 0:
                             if len(copper_concentration_list) > 0:
                                 if copper_concentration_list[-1] == 0:
-                                    result['Marker Color'] = 'Green'
+                                    result['Marker Color'] = 'green-drinking-water-15.svg'
                                 elif 0 > copper_concentration_list[-1] > 1300:
-                                    result['Marker Color'] = 'Yellow'
+                                    result['Marker Color'] = 'yellow-drinking-water-15.svg'
                                 elif copper_concentration_list[-1] > 1300:
-                                        result['Marker Color'] = 'Red'
+                                        result['Marker Color'] = 'red-drinking-water-15.svg'
 
                         elif 0 < lead_concentration_list[-1] < 15:
-                            result['Marker Color'] = 'Yellow'
+                            result['Marker Color'] = 'yellow-drinking-water-15.svg'
                             if len(copper_concentration_list) > 0:
                                 if copper_concentration_list[-1] > 1300:
-                                    result['Marker Color'] = 'Red'
+                                    result['Marker Color'] = 'red-drinking-water-15.svg'
 
                         elif lead_concentration_list[-1] > 15:
-                            result['Marker Color'] = 'Red'
+                            result['Marker Color'] = 'red-drinking-water-15.svg'
 
                     if len(copper_concentration_list) > 0:
                         if copper_concentration_list[-1] == 0:
                             if len(lead_concentration_list) > 0:
                                 if lead_concentration_list[-1] == 0:
-                                    result['Marker Color'] = 'Green'
+                                    result['Marker Color'] = 'green-drinking-water-15.svg'
                                 elif 0 > lead_concentration_list[-1] > 15:
-                                    result['Marker Color'] = 'Yellow'
+                                    result['Marker Color'] = 'yellow-drinking-water-15.svg'
                                 elif lead_concentration_list[-1] > 15:
-                                        result['Marker Color'] = 'Red'
+                                        result['Marker Color'] = 'red-drinking-water-15.svg'
 
                         elif 0 < copper_concentration_list[-1] < 1300:
-                            result['Marker Color'] = 'Yellow'
+                            result['Marker Color'] = 'yellow-drinking-water-15.svg'
                             if len(lead_concentration_list) > 0:
                                 if lead_concentration_list[-1] > 15:
-                                    result['Marker Color'] = 'Red'
+                                    result['Marker Color'] = 'red-drinking-water-15.svg'
 
                         elif copper_concentration_list[-1] > 1300:
-                            result['Marker Color'] = 'Red'
+                            result['Marker Color'] = 'red-drinking-water-15.svg'
 
 
             for result_key in result_key_list:
@@ -148,7 +148,7 @@ with open(os.path.join('detail_results.json')) as results:
 
         elif 'Not' in result['Compliance Status']:
 
-            result['Marker Color'] = 'Yellow'
+            result['Marker Color'] = 'yellow-drinking-water-15.svg'
             for key in result:
                 if 'Result' in key:
                     result_key_list.append(key)
@@ -178,11 +178,11 @@ with open(os.path.join('detail_results.json')) as results:
 
                 if len(lead_concentration_list) > 0:
                     if lead_concentration_list[-1] > 15:
-                        result['Marker Color'] = 'Red'
+                        result['Marker Color'] = 'red-drinking-water-15.svg'
 
                 if len(copper_concentration_list) > 0:
                     if copper_concentration_list[-1] > 1300:
-                        result['Marker Color'] = 'Red'
+                        result['Marker Color'] = 'red-drinking-water-15.svg'
 
 
 

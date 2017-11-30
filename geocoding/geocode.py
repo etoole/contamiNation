@@ -7,7 +7,7 @@ zip_pattern = re.compile('[0-9]{5}(?!.)')
 GOOGLE_MAPS_API_URL = 'https://maps.googleapis.com/maps/api/geocode/json'
 api_key = 'AIzaSyDrawt5ZWXPR7eg0ihu3t6p9A_Yrm1ss0E'
 
-with open(os.path.join(os.path.abspath('..'),'detail_results_comp_updated.json')) as results:
+with open(os.path.join(os.path.abspath('../contamiNation'),'outputbatch_0.json')) as results:
     results = json.load(results)
 
     for result in results:
@@ -53,10 +53,13 @@ with open(os.path.join(os.path.abspath('..'),'detail_results_comp_updated.json')
                                     "coordinates": coordinates
                                   },
                                   "properties": {
-                                    "name": result['PWS Name'],
+                                    "title": result['PWS Name'],
+                                    "description": res['results'][0]['formatted_address'],
                                     "pwsid": result['PWS ID'],
-                                    "population": result['Population Count'],
-                                    "markercolor": result['Marker Color']
+                                    "icon": {
+                                    "iconUrl": result['Marker Color'],
+                                    "iconSize": [25,25]
+                                    }
                                   }
                                 }
                             geojson_list.append(geojson)
@@ -80,15 +83,18 @@ with open(os.path.join(os.path.abspath('..'),'detail_results_comp_updated.json')
                                     "coordinates": zip_coordinates
                                   },
                                   "properties": {
-                                    "name": result['PWS Name'],
+                                    "title": result['PWS Name'],
+                                    "description": "{0}, {1} {2}".format(result['City'], result['State/EPA Region'], result['Zip Code']),
                                     "pwsid": result['PWS ID'],
-                                    "population": result['Population Count'],
-                                    "markercolor": result['Marker Color']
+                                    "icon": {
+                                    "iconUrl": result['Marker Color'],
+                                    "iconSize": [25,25]
+                                    }
                                   }
                                 }
                             geojson_list.append(geojson)
                             print(geojson)
-json.dump(geojson_list, open('all_markers.json','w'), indent=4)
+json.dump(geojson_list, open(os.path.join(os.path.abspath('../contamiNation/geocoding/'),'markers_0.json'),'w'), indent=4)
 
 
 
