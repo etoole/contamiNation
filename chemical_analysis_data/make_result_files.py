@@ -64,12 +64,12 @@ state_init = re.compile('\w{2}')
 
 
 
-with open(os.path.join(os.path.abspath('../contamiNation'),'detail_results_comp_updated.json')) as input_data:
+with open(os.path.join(os.path.abspath('../'),'detail_results_comp_updated.json')) as input_data:
     detail_result = json.load(input_data)
 
     for result in detail_result:
         result_key_list = []
-
+        print(result)
         result_dict = {
         'PWS ID' : result['PWS ID'],
         'Compliance Status' : result['Compliance Status'],
@@ -85,7 +85,7 @@ with open(os.path.join(os.path.abspath('../contamiNation'),'detail_results_comp_
                     result_dict[result_key] = result[result_key]
 
 
-        json.dump(result_dict, open(os.path.join('chemical_analysis_data/{0}'.format(result['State/EPA Region']),'{0}.json'.format(result['PWS ID'])), 'w'), indent=4)
+##        json.dump(result_dict, open(os.path.join('chemical_analysis_data/{0}'.format(result['State/EPA Region']),'{0}.json'.format(result['PWS ID'])), 'w'), indent=4)
 
 
 # "Result no.1": {
