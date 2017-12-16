@@ -1,8 +1,6 @@
 # contamiNation
 <br>
 <br>
-<br>
-
 ## What is this? What does it mean?
 
 This map was created in order to make localized data on lead contamination of United States public water sources available to the public. Such contamination stems from corrosion of old lead and copper plumbing fixtures that may be part of a building’s plumbing or the public water system’s service line.<sup>[[1]](https://www.epa.gov/lead/protect-your-family-exposures-lead#water)</sup> Contamination in a public water system may affect residents of a single building or those of an entire municipality.
