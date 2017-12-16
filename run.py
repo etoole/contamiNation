@@ -30,7 +30,7 @@ concentration_digit = re.compile('[0-9]+')
 
 ## create constants
 GOOGLE_MAPS_API_URL = 'https://maps.googleapis.com/maps/api/geocode/json'
-API_KEY = 'AIzaSyDrawt5ZWXPR7eg0ihu3t6p9A_Yrm1ss0E'
+API_KEY = ## enter your api key here
 MONTH_TABLE = {
 'JAN': '01',
 'FEB': '02',
