@@ -180,8 +180,8 @@ missing_ids_nc = non_comp_wsid_set - detail_dict_set_nc
 
 ## print id numbers of pws's missing details
 print("Complete information was not found for the following {0} non-compliant id's:\n".format(len(missing_ids_nc)))
-for id_number in missing_ids_nc:
-    print(id_number)
+# for id_number in missing_ids_nc:
+#     print(id_number)
 
 print("\n\nThere are {0} unique, compliant id's.\n".format(len(comp_wsid_set)))
 
@@ -193,8 +193,8 @@ missing_ids_c = comp_wsid_set - detail_dict_set_c
 
 ## print it numbers of pws's missing details
 print("Complete information was not found for the following {0} compliant id's:\n".format(len(missing_ids_c)))
-for id_number in missing_ids_c:
-    print(id_number)
+# for id_number in missing_ids_c:
+#     print(id_number)
 
 ## record number of records before deduping
 before_dedupe = len(detail_dictionary)
@@ -208,7 +208,7 @@ for violation in detail_dictionary:
 ## calculate number of duplicate records removed and print
 after_dedupe = len(detail_dictionary)
 details_removed = before_dedupe - after_dedupe
-print("{0} duplicate records were removed.\n".format(details_removed))
+print("\n{0} duplicate records were removed.\n".format(details_removed))
 
 ## make list of dictionaries from chemical analysis data
 with open(os.path.join('chemical_analysis_data','copper_samples_2015_to_present_2017Q1.csv'), encoding='latin-1') as copper1:
